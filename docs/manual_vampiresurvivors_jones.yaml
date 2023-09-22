@@ -70,6 +70,7 @@ Manual_VampireSurvivors_Jones:
     # Start with these items.
     Whip: 1
     Hollow Heart: 1
+    Mad Forest: 1
 
   start_hints:
     # Start with these item's locations prefilled into the !hint command.
