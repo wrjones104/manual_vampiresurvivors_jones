@@ -128,16 +128,10 @@
     { "name": "Powerup - Revival", "useful": true, "category": ["Powerups"] },
     { "name": "Powerup - Omni", "useful": true, "category": ["Powerups"] },
     { "name": "Powerup - Charm", "useful": true, "category": ["Powerups"] },
-    { "name": "Powerup - Reroll", "useful": true, "category": ["Powerups"] },
-    { "name": "Powerup - Skip", "useful": true, "category": ["Powerups"] },
-    { "name": "Powerup - Banish", "useful": true, "category": ["Powerups"] },
-    { "name": "Powerup - Seal I", "useful": true, "category": ["Powerups"] },
-    { "name": "Powerup - Seal II", "useful": true, "category": ["Powerups"] },
 
     { "name": "Hyper Mode", "progression": true, "category": ["Modes"] },
     { "name": "Hurry Mode", "progression": true, "category": ["Modes"] },
     { "name": "Inverse Mode", "progression": true, "category": ["Modes"] },
     { "name": "Endless Mode", "useful": true, "category": ["Modes"] },
-    { "name": "Arcana Mode", "progression": true, "category": ["Modes"] },
     { "name": "Limit Break Mode", "useful": true, "category": ["Modes"] }
 ]

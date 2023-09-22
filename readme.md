@@ -7,8 +7,9 @@ The original Manual implementation was done by Entropy.
 
 ## Rules
 
-* You may only use the weapons, accessories, Arcana, and powerups that you have received through AP.
-* Similarly, you may only challenge the stages you have received.
+* You may only use the weapons, accessories, Arcana, and powerups that you have received through AP. (Exceptions are the Reroll, Skip, Banish and Seal powerups - you can always keep those active)
+* Similarly, you may only challenge the stages you have received. You may use Arcana Mode after you receive an Arcana - the other stage modes are unlocks.
+* You may use any character you wish (besides Sigma because... c'mon), so long as you've unlocked their weapon.
 * If you select a weapon or accessory that you haven't received (either accidentally or because you have no other options) then you must quit the stage.
 * No eggs!
 
@@ -25,6 +26,7 @@ The original Manual implementation was done by Entropy.
 
 * Regular chests
 * Arcana chests
+* Stage pickups
 * Completing stages
 * Evolving weapons
 * Filling your weapon, accessory, or Arcana slots
