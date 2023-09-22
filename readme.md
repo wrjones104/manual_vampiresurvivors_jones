@@ -3,7 +3,9 @@
 ## About
 Vampire Survivors is an action roguelike game with a multitude of throwbacks to vampire-killing video games of yesteryear. This Manual AP implementation includes randomized weapons, accessories, stages, modes and more! Grow stronger and eventually defeat the Reaper to make the dark night safe again!
 
-The original Manual implementation was done by Entropy.
+This apworld assumes that you have a full-clear save with all DLC.
+
+The original apworld was created by Entropy.
 
 ## Rules
 
