@@ -30,11 +30,10 @@
     { "name": "Evolution: Millionaire", "requires": ["Flash Arrow", "Bracer", "Clover"], "category": ["Evolutions"] },
     { "name": "Evolution: Luminaire", "requires": ["Prismatic Missile", "Crown"], "category": ["Evolutions"] },
     { "name": "Evolution: Ophion", "requires": ["Shadow Servant", "Skull O'Maniac"], "category": ["Evolutions"] },
-
-    { "name": "Union: SpellStrom", "requires": ["SpellString", "SpellStream", "SpellStrike"], "category": ["Unions"] },
-    { "name": "Union: Vandalier", "requires": ["Peachone", "Ebony Wings"], "category": ["Unions"] },
-    { "name": "Union: Phieraggi", "requires": ["Phiera Der Tuphello", "Eight The Sparrow", "Tiragisu"], "category": ["Unions"] },
-    { "name": "Union: Fuwalafuwaloo", "requires": ["Vento Sacro", "Whip", "Hollow Heart"], "category": ["Unions"] },
+    { "name": "Union: SpellStrom", "requires": ["SpellString", "SpellStream", "SpellStrike"], "category": ["Evolutions"] },
+    { "name": "Union: Vandalier", "requires": ["Peachone", "Ebony Wings"], "category": ["Evolutions"] },
+    { "name": "Union: Phieraggi", "requires": ["Phiera Der Tuphello", "Eight The Sparrow", "Tiragisu"], "category": ["Evolutions"] },
+    { "name": "Union: Fuwalafuwaloo", "requires": ["Vento Sacro", "Whip", "Hollow Heart"], "category": ["Evolutions"] },
 
     { "name": "Regular Chest 1", "category": ["Chests"] },
     { "name": "Regular Chest 2", "category": ["Chests"] },
