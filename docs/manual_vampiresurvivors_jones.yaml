@@ -1,4 +1,4 @@
-# Q. What is this file?
+﻿# Q. What is this file?
 # A. This file contains options which allow you to configure your multiworld experience while allowing
 #    others to play how they want as well.
 #
@@ -25,14 +25,14 @@
 #     {PLAYER} will be replaced with the player's slot number, if that slot number is greater than 1.
 #     {number} will be replaced with the counter value of the name.
 #     {NUMBER} will be replaced with the counter value of the name, if the counter value is greater than 1.
-name: VampireJones
+name: Player{number}
 
 # Used to describe your yaml. Useful if you have multiple files.
-description: Manual template for VS
+description: Default Manual_VampireSurvivors_Jones Template
 
 game: Manual_VampireSurvivors_Jones
 requires:
-  version: 0.3.6 # Version of Archipelago required for this yaml to work as expected.
+  version: 0.4.3 # Version of Archipelago required for this yaml to work as expected.
 
 Manual_VampireSurvivors_Jones:
   progression_balancing:
@@ -46,7 +46,7 @@ Manual_VampireSurvivors_Jones:
     random-low: 0
     random-high: 0
     disabled: 0 # equivalent to 0
-    normal: 80 # equivalent to 50
+    normal: 50 # equivalent to 50
     extreme: 0 # equivalent to 99
 
   accessibility:
@@ -68,9 +68,7 @@ Manual_VampireSurvivors_Jones:
 
   start_inventory:
     # Start with these items.
-    Whip: 1
-    Hollow Heart: 1
-    Mad Forest: 1
+    {}
 
   start_hints:
     # Start with these item's locations prefilled into the !hint command.
@@ -91,167 +89,3 @@ Manual_VampireSurvivors_Jones:
   item_links:
     # Share part of your item pool with other players.
     []
-    
-  start_evo_pair:
-    birds: 1
-    whip: 1
-    axe: 1
-    lightning_ring: 1
-    wand: 1
-    knife: 1
-    heaven_sword: 1
-    bible: 1
-    hellfire: 1
-    garlic: 1
-    water: 1
-    runetracer: 1
-    pentagram: 1
-    cats: 1
-    mannajja: 1
-    valkyrie_turner: 1
-    
-  triggers:
-    - option_category: Manual_VampireSurvivors_Jones
-      option_name: start_evo_pair
-      option_result: birds
-      options:
-        Manual_VampireSurvivors_Jones:
-          start_inventory:
-            Ebony Wings: 1
-            Peachone: 1
-            Mad Forest: 1
-    - option_category: Manual_VampireSurvivors_Jones
-      option_name: start_evo_pair
-      option_result: whip
-      options:
-        Manual_VampireSurvivors_Jones:
-          start_inventory:
-            Whip: 1
-            Hollow Heart: 1
-            Mad Forest: 1
-    - option_category: Manual_VampireSurvivors_Jones
-      option_name: start_evo_pair
-      option_result: axe
-      options:
-        Manual_VampireSurvivors_Jones:
-          start_inventory:
-            Axe: 1
-            Candelabrador: 1
-            Mad Forest: 1
-    - option_category: Manual_VampireSurvivors_Jones
-      option_name: start_evo_pair
-      option_result: lightning_ring
-      options:
-        Manual_VampireSurvivors_Jones:
-          start_inventory:
-            Lightning Ring: 1
-            Duplicator: 1
-            Mad Forest: 1
-    - option_category: Manual_VampireSurvivors_Jones
-      option_name: start_evo_pair
-      option_result: wand
-      options:
-        Manual_VampireSurvivors_Jones:
-          start_inventory:
-            Magic Wand: 1
-            Empty Tome: 1
-            Mad Forest: 1
-    - option_category: Manual_VampireSurvivors_Jones
-      option_name: start_evo_pair
-      option_result: knife
-      options:
-        Manual_VampireSurvivors_Jones:
-          start_inventory:
-            Knife: 1
-            Bracer: 1
-            Mad Forest: 1
-    - option_category: Manual_VampireSurvivors_Jones
-      option_name: start_evo_pair
-      option_result: heaven_sword
-      options:
-        Manual_VampireSurvivors_Jones:
-          start_inventory:
-            Cross: 1
-            Clover: 1
-            Mad Forest: 1
-    - option_category: Manual_VampireSurvivors_Jones
-      option_name: start_evo_pair
-      option_result: bible
-      options:
-        Manual_VampireSurvivors_Jones:
-          start_inventory:
-            King Bible: 1
-            Spellbinder: 1
-            Mad Forest: 1
-    - option_category: Manual_VampireSurvivors_Jones
-      option_name: start_evo_pair
-      option_result: hellfire
-      options:
-        Manual_VampireSurvivors_Jones:
-          start_inventory:
-            Fire Wand: 1
-            Spinach: 1
-            Mad Forest: 1
-    - option_category: Manual_VampireSurvivors_Jones
-      option_name: start_evo_pair
-      option_result: garlic
-      options:
-        Manual_VampireSurvivors_Jones:
-          start_inventory:
-            Garlic: 1
-            Pummarola: 1
-            Mad Forest: 1
-    - option_category: Manual_VampireSurvivors_Jones
-      option_name: start_evo_pair
-      option_result: water
-      options:
-        Manual_VampireSurvivors_Jones:
-          start_inventory:
-            Santa Water: 1
-            Attractorb: 1
-            Mad Forest: 1
-    - option_category: Manual_VampireSurvivors_Jones
-      option_name: start_evo_pair
-      option_result: runetracer
-      options:
-        Manual_VampireSurvivors_Jones:
-          start_inventory:
-            Runetracer: 1
-            Armor: 1
-            Mad Forest: 1
-    - option_category: Manual_VampireSurvivors_Jones
-      option_name: start_evo_pair
-      option_result: pentagram
-      options:
-        Manual_VampireSurvivors_Jones:
-          start_inventory:
-            Pentagram: 1
-            Crown: 1
-            Mad Forest: 1
-    - option_category: Manual_VampireSurvivors_Jones
-      option_name: start_evo_pair
-      option_result: cats
-      options:
-        Manual_VampireSurvivors_Jones:
-          start_inventory:
-            Gatti Amari: 1
-            Stone Mask: 1
-            Mad Forest: 1
-    - option_category: Manual_VampireSurvivors_Jones
-      option_name: start_evo_pair
-      option_result: mannajja
-      options:
-        Manual_VampireSurvivors_Jones:
-          start_inventory:
-            Song of Mana: 1
-            Skull O'Maniac: 1
-            Mad Forest: 1
-    - option_category: Manual_VampireSurvivors_Jones
-      option_name: start_evo_pair
-      option_result: valkyrie_turner
-      options:
-        Manual_VampireSurvivors_Jones:
-          start_inventory:
-            Shadow Pinion: 1
-            Wings: 1
-            Mad Forest: 1

@@ -14,6 +14,7 @@
     { "name": "Evolution: Vicious Hunger", "requires": ["Gatti Amari", "Stone Mask"], "category": ["Evolutions"] },
     { "name": "Evolution: Mannajja", "requires": ["Song of Mana", "Skull O'Maniac"], "category": ["Evolutions"] },
     { "name": "Evolution: Valkryie Turner", "requires": ["Shadow Pinion", "Wings"], "category": ["Evolutions"] },
+    { "name": "Evolution: Celestial Voulge", "requires": ["Glass Fandango", "Wings"], "category": ["Evolutions"] },
     { "name": "Evolution: Infinite Corridor", "requires": ["Clock Lancet", "Silver Ring", "Gold Ring"], "category": ["Evolutions"] },
     { "name": "Evolution: Crimson Shroud", "requires": ["Laurel", "Metaglio Left", "Metaglio Right"], "category": ["Evolutions"] },
     { "name": "Evolution: Bi-Bracelet", "requires": ["Bracelet"], "category": ["Evolutions"] },
@@ -32,7 +33,7 @@
     { "name": "Evolution: Ophion", "requires": ["Shadow Servant", "Skull O'Maniac"], "category": ["Evolutions"] },
     { "name": "Union: SpellStrom", "requires": ["SpellString", "SpellStream", "SpellStrike"], "category": ["Evolutions"] },
     { "name": "Union: Vandalier", "requires": ["Peachone", "Ebony Wings"], "category": ["Evolutions"] },
-    { "name": "Union: Phieraggi", "requires": ["Phiera Der Tuphello", "Eight The Sparrow", "Tiragisu"], "category": ["Evolutions"] },
+    { "name": "Union: Phieraggi", "requires": ["Phiera Der Tuphello", "Eight the Sparrow", "Tiragisu"], "category": ["Evolutions"] },
     { "name": "Union: Fuwalafuwaloo", "requires": ["Vento Sacro", "Whip", "Hollow Heart"], "category": ["Evolutions"] },
 
     { "name": "Regular Chest 1", "category": ["Chests"] },

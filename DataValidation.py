@@ -20,18 +20,15 @@ class DataValidation():
 
             if isinstance(location["requires"], str):
                 # parse user written statement into list of each item
-                reqires_raw = re.split('(\AND|\)|\(|OR|\|)', location["requires"])
-                remove_spaces = [x.strip() for x in reqires_raw]
-                remove_empty = [x for x in remove_spaces if x != '']
-                requires_list = [x for x in remove_empty if x != '|']
-
-                for i, item in enumerate(requires_list):
+                for item in re.findall(r'\|[^|]+\|', location["requires"]):
                     if item.lower() == "or" or item.lower() == "and" or item == ")" or item == "(":
                         continue
                     else:
                         # it's just a category, so ignore it
                         if '@' in item:
                             continue
+
+                        item = item.replace("|", "")
 
                         item_parts = item.split(":")
                         item_name = item
@@ -86,18 +83,15 @@ class DataValidation():
 
             if isinstance(region["requires"], str):
                 # parse user written statement into list of each item
-                reqires_raw = re.split('(\AND|\)|\(|OR|\|)', region["requires"])
-                remove_spaces = [x.strip() for x in reqires_raw]
-                remove_empty = [x for x in remove_spaces if x != '']
-                requires_list = [x for x in remove_empty if x != '|']
-
-                for i, item in enumerate(requires_list):
+                for item in re.findall(r'\|[^|]+\|', region["requires"]):
                     if item.lower() == "or" or item.lower() == "and" or item == ")" or item == "(":
                         continue
                     else:
                         # it's just a category, so ignore it
                         if '@' in item:
                             continue
+
+                        item = item.replace("|", "")
 
                         item_parts = item.split(":")
                         item_name = item
