@@ -1,126 +1,866 @@
 [
-    { "name": "Mad Forest", "progression": true, "category": ["Stages"] },
-    { "name": "Inlaid Library", "progression": true, "category": ["Stages"] },
-    { "name": "Dairy Plant", "progression": true, "category": ["Stages"] },
-    { "name": "Gallo Tower", "progression": true, "category": ["Stages"] },
-    { "name": "Capella Magna", "progression": true, "category": ["Stages"] },
-
-    { "name": "Whip", "progression": true, "category": ["Weapons"] },
-    { "name": "Magic Wand", "progression": true, "category": ["Weapons"] },
-    { "name": "Knife", "progression": true, "category": ["Weapons"] },
-    { "name": "Axe", "progression": true, "category": ["Weapons"] },
-    { "name": "Cross", "progression": true, "category": ["Weapons"] },
-    { "name": "King Bible", "progression": true, "category": ["Weapons"] },
-    { "name": "Fire Wand", "progression": true, "category": ["Weapons"] },
-    { "name": "Santa Water", "progression": true, "category": ["Weapons"] },
-    { "name": "Garlic", "progression": true, "category": ["Weapons"] },
-    { "name": "Runetracer", "progression": true, "category": ["Weapons"] },
-    { "name": "Lightning Ring", "progression": true, "category": ["Weapons"] },
-    { "name": "Pentagram", "progression": true, "category": ["Weapons"] },
-    { "name": "Peachone", "progression": true, "category": ["Weapons"] },
-    { "name": "Ebony Wings", "progression": true, "category": ["Weapons"] },
-    { "name": "Phiera Der Tuphello", "progression": true, "category": ["Weapons"] },
-    { "name": "Eight the Sparrow", "progression": true, "category": ["Weapons"] },
-    { "name": "Gatti Amari", "progression": true, "category": ["Weapons"] },
-    { "name": "Song of Mana", "progression": true, "category": ["Weapons"] },
-    { "name": "Shadow Pinion", "progression": true, "category": ["Weapons"] },
-    { "name": "Clock Lancet", "progression": true, "category": ["Weapons"] },
-    { "name": "Laurel", "progression": true, "category": ["Weapons"] },
-    { "name": "Vento Sacro", "progression": true, "category": ["Weapons"] },
-    { "name": "Bracelet", "progression": true, "category": ["Weapons"] },
-    { "name": "Victory Sword", "progression": true, "category": ["Weapons"] },
-    { "name": "Flames of Misspell", "progression": true, "category": ["Weapons"] },
-    { "name": "Silver Wind", "progression": true, "category": ["Weapons"] },
-    { "name": "Four Seasons", "progression": true, "category": ["Weapons"] },
-    { "name": "Summon Night", "progression": true, "category": ["Weapons"] },
-    { "name": "Mirage Robe", "progression": true, "category": ["Weapons"] },
-    { "name": "Mille Bolle Blu", "progression": true, "category": ["Weapons"] },
-    { "name": "Night Sword", "progression": true, "category": ["Weapons"] },
-    { "name": "SpellString", "progression": true, "category": ["Weapons"] },
-    { "name": "SpellStream", "progression": true, "category": ["Weapons"] },
-    { "name": "SpellStrike", "progression": true, "category": ["Weapons"] },
-    { "name": "Flash Arrow", "progression": true, "category": ["Weapons"] },
-    { "name": "Eskizzibur", "progression": true, "category": ["Weapons"] },
-    { "name": "Prismatic Missile", "progression": true, "category": ["Weapons"] },
-    { "name": "Shadow Servant", "progression": true, "category": ["Weapons"] },
-    { "name": "Glass Fandango", "progression": true, "category": ["Weapons"] },
-    { "name": "Bone", "category": ["Weapons"] },
-    { "name": "Cherry Bomb", "category": ["Weapons"] },
-    { "name": "Carrello", "category": ["Weapons"] },
-    { "name": "Celestial Dusting", "category": ["Weapons"] },
-    { "name": "La Robba", "category": ["Weapons"] },
-    { "name": "Greatest Jubilee", "category": ["Weapons"] },
-    { "name": "108 Bocce", "category": ["Weapons"] },
-
-    { "name": "Hollow Heart", "progression": true, "category": ["Accessories"] },
-    { "name": "Spinach", "progression": true, "category": ["Accessories"] },
-    { "name": "Armor", "progression": true, "category": ["Accessories"] },
-    { "name": "Pummarola", "progression": true, "category": ["Accessories"] },
-    { "name": "Empty Tome", "progression": true, "category": ["Accessories"] },
-    { "name": "Candelabrador", "progression": true, "category": ["Accessories"] },
-    { "name": "Bracer", "progression": true, "category": ["Accessories"] },
-    { "name": "Spellbinder", "progression": true, "category": ["Accessories"] },
-    { "name": "Duplicator", "progression": true, "category": ["Accessories"] },
-    { "name": "Wings", "progression": true, "category": ["Accessories"] },
-    { "name": "Attractorb", "progression": true, "category": ["Accessories"] },
-    { "name": "Clover", "progression": true, "category": ["Accessories"] },
-    { "name": "Crown", "progression": true, "category": ["Accessories"] },
-    { "name": "Stone Mask", "progression": true, "category": ["Accessories"] },
-    { "name": "Tiragisu", "progression": true, "category": ["Accessories"] },
-    { "name": "Skull O'Maniac", "progression": true, "category": ["Accessories"] },
-    { "name": "Silver Ring", "progression": true, "category": ["Accessories"] },
-    { "name": "Gold Ring", "progression": true, "category": ["Accessories"] },
-    { "name": "Metaglio Left", "progression": true, "category": ["Accessories"] },
-    { "name": "Metaglio Right", "progression": true, "category": ["Accessories"] },
-    { "name": "Torrona's Box", "progression": true, "category": ["Accessories"] },
-    { "name": "Academy Badge", "category": ["Accessories"]},
-
-    { "name": "0 - Game Killer", "useful": true, "category": ["Arcana"] },
-    { "name": "I - Gemini", "useful": true, "category": ["Arcana"] },
-    { "name": "II - Twilight Requiem", "useful": true, "category": ["Arcana"] },
-    { "name": "III - Tragic Princess", "useful": true, "category": ["Arcana"] },
-    { "name": "IV - Awake", "useful": true, "category": ["Arcana"] },
-    { "name": "V - Chaos in the Dark Night", "useful": true, "category": ["Arcana"] },
-    { "name": "VI - Sarabande of Healing", "useful": true, "category": ["Arcana"] },
-    { "name": "VII - Iron Blue Will", "useful": true, "category": ["Arcana"] },
-    { "name": "VIII - Mad Groove", "useful": true, "category": ["Arcana"] },
-    { "name": "IX - Divine Bloodline", "useful": true, "category": ["Arcana"] },
-    { "name": "X - Beginning", "useful": true, "category": ["Arcana"] },
-    { "name": "XI - Waltz of Pearls", "useful": true, "category": ["Arcana"] },
-    { "name": "XII - Out of Bounds", "useful": true, "category": ["Arcana"] },
-    { "name": "XIII - Wicked Season", "useful": true, "category": ["Arcana"] },
-    { "name": "XIV - Jail of Crystal", "useful": true, "category": ["Arcana"] },
-    { "name": "XV - Disco of Gold", "useful": true, "category": ["Arcana"] },
-    { "name": "XVI - Slash", "useful": true, "category": ["Arcana"] },
-    { "name": "XVII - Lost & Found Painting", "useful": true, "category": ["Arcana"] },
-    { "name": "XVIII - Boogaloo of Illusions", "useful": true, "category": ["Arcana"] },
-    { "name": "XIX - Heart of Fire", "useful": true, "category": ["Arcana"] },
-    { "name": "XX - Silent Old Sanctuary", "useful": true, "category": ["Arcana"] },
-    { "name": "XXI - Blood Astronomia", "useful": true, "category": ["Arcana"] },
-
-    { "name": "Powerup - Might", "useful": true, "category": ["Powerups"], "count": 5 },
-    { "name": "Powerup - Armor", "useful": true, "category": ["Powerups"], "count": 3 },
-    { "name": "Powerup - Max Health", "useful": true, "category": ["Powerups"], "count": 3 },
-    { "name": "Powerup - Recovery", "useful": true, "category": ["Powerups"], "count": 5 },
-    { "name": "Powerup - Cooldown", "useful": true, "category": ["Powerups"], "count": 2 },
-    { "name": "Powerup - Area", "useful": true, "category": ["Powerups"], "count": 2 },
-    { "name": "Powerup - Speed", "useful": true, "category": ["Powerups"], "count": 2 },
-    { "name": "Powerup - Duration", "useful": true, "category": ["Powerups"], "count": 2 },
-    { "name": "Powerup - Amount", "useful": true, "category": ["Powerups"], "count": 1 },
-    { "name": "Powerup - MoveSpeed", "useful": true, "category": ["Powerups"], "count": 2 },
-    { "name": "Powerup - Magnet", "useful": true, "category": ["Powerups"], "count": 2 },
-    { "name": "Powerup - Luck", "useful": true, "category": ["Powerups"], "count": 3 },
-    { "name": "Powerup - Growth", "useful": true, "category": ["Powerups"], "count": 5 },
-    { "name": "Powerup - Greed", "useful": true, "category": ["Powerups"], "count": 5 },
-    { "name": "Powerup - Curse", "useful": true, "category": ["Powerups"], "count": 5 },
-    { "name": "Powerup - Revival", "useful": true, "category": ["Powerups"], "count": 1 },
-    { "name": "Powerup - Omni", "useful": true, "category": ["Powerups"], "count": 5 },
-    { "name": "Powerup - Charm", "useful": true, "category": ["Powerups"], "count": 5 },
-
-    { "name": "Hyper Mode", "progression": true, "category": ["Modes"] },
-    { "name": "Hurry Mode", "progression": true, "category": ["Modes"] },
-    { "name": "Inverse Mode", "progression": true, "category": ["Modes"] },
-    { "name": "Endless Mode", "useful": true, "category": ["Modes"] },
-    { "name": "Limit Break Mode", "useful": true, "category": ["Modes"] },
-    { "name": "Random Events", "useful": true, "category": ["Modes"] }
+	{
+		"name": "Mad Forest",
+		"category": ["Stages"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Inlaid Library",
+		"category": ["Stages"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Dairy Plant",
+		"category": ["Stages"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Gallo Tower",
+		"category": ["Stages"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Capella Magna",
+		"category": ["Stages"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Il Molise",
+		"category": ["Stages"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Moonglow",
+		"category": ["Stages"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Green Acres",
+		"category": ["Stages"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "The Bone Zone",
+		"category": ["Stages"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Boss Rash",
+		"category": ["Stages"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Whiteout",
+		"category": ["Stages"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Space 54",
+		"category": ["Stages"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Bat Country",
+		"category": ["Stages"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Astral Stair",
+		"category": ["Stages"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Tiny Bridge",
+		"category": ["Stages"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Mt. Moonspell",
+		"category": ["Stages"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Lake Foscari",
+		"category": ["Stages"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Abyss Foscari",
+		"category": ["Stages"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Polus Replica",
+		"category": ["Stages"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Whip",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Magic Wand",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Knife",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Axe",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Cross",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "King Bible",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Fire Wand",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Santa Water",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Garlic",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Runetracer",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Lightning Ring",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Pentagram",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Peachone",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Ebony Wings",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Phiera Der Tuphello",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Eight the Sparrow",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Gatti Amari",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Song of Mana",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Shadow Pinion",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Clock Lancet",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Laurel",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Vento Sacro",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Bracelet",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Victory Sword",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Flames of Misspell",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Silver Wind",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Four Seasons",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Summon Night",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Mirage Robe",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Mille Bolle Blu",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Night Sword",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "SpellString",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "SpellStream",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "SpellStrike",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Flash Arrow",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Eskizzibur",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Prismatic Missile",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Shadow Servant",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Glass Fandango",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Pako Battiliar",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Phas3r",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Report!",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Lucky Swipe",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Lifesign Scan",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Just Vent",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Clear Debris",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Sharp Tongue",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Science Rocks",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Hats",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Bone",
+		"category": ["Weapons"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "Cherry Bomb",
+		"category": ["Weapons"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "Carrello",
+		"category": ["Weapons"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "Celestial Dusting",
+		"category": ["Weapons"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "La Robba",
+		"category": ["Weapons"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "Greatest Jubilee",
+		"category": ["Weapons"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "108 Bocce",
+		"category": ["Weapons"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "Hollow Heart",
+		"category": ["Accessories"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Spinach",
+		"category": ["Accessories"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Armor",
+		"category": ["Accessories"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Pummarola",
+		"category": ["Accessories"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Empty Tome",
+		"category": ["Accessories"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Candelabrador",
+		"category": ["Accessories"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Bracer",
+		"category": ["Accessories"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Spellbinder",
+		"category": ["Accessories"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Duplicator",
+		"category": ["Accessories"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Wings",
+		"category": ["Accessories"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Attractorb",
+		"category": ["Accessories"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Clover",
+		"category": ["Accessories"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Crown",
+		"category": ["Accessories"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Stone Mask",
+		"category": ["Accessories"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Tiragisu",
+		"category": ["Accessories"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Skull O'Maniac",
+		"category": ["Accessories"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Silver Ring",
+		"category": ["Accessories"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Gold Ring",
+		"category": ["Accessories"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Metaglio Left",
+		"category": ["Accessories"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Metaglio Right",
+		"category": ["Accessories"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Torrona's Box",
+		"category": ["Accessories"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Academy Badge",
+		"category": ["Accessories"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "0 - Game Killer",
+		"category": ["Arcana"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "I - Gemini",
+		"category": ["Arcana"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "II - Twilight Requiem",
+		"category": ["Arcana"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "III - Tragic Princess",
+		"category": ["Arcana"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "IV - Awake",
+		"category": ["Arcana"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "V - Chaos in the Dark Night",
+		"category": ["Arcana"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "VI - Sarabande of Healing",
+		"category": ["Arcana"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "VII - Iron Blue Will",
+		"category": ["Arcana"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "VIII - Mad Groove",
+		"category": ["Arcana"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "IX - Divine Bloodline",
+		"category": ["Arcana"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "X - Beginning",
+		"category": ["Arcana"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "XI - Waltz of Pearls",
+		"category": ["Arcana"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "XII - Out of Bounds",
+		"category": ["Arcana"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "XIII - Wicked Season",
+		"category": ["Arcana"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "XIV - Jail of Crystal",
+		"category": ["Arcana"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "XV - Disco of Gold",
+		"category": ["Arcana"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "XVI - Slash",
+		"category": ["Arcana"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "XVII - Lost & Found Painting",
+		"category": ["Arcana"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "XVIII - Boogaloo of Illusions",
+		"category": ["Arcana"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "XIX - Heart of Fire",
+		"category": ["Arcana"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "XX - Silent Old Sanctuary",
+		"category": ["Arcana"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "XXI - Blood Astronomia",
+		"category": ["Arcana"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Powerup - Might",
+		"category": ["Powerups"],
+		"count":5,
+		"useful": true
+	},
+	{
+		"name": "Powerup - Armor",
+		"category": ["Powerups"],
+		"count":3,
+		"useful": true
+	},
+	{
+		"name": "Powerup - Max Health",
+		"category": ["Powerups"],
+		"count":3,
+		"useful": true
+	},
+	{
+		"name": "Powerup - Recovery",
+		"category": ["Powerups"],
+		"count":5,
+		"useful": true
+	},
+	{
+		"name": "Powerup - Cooldown",
+		"category": ["Powerups"],
+		"count":2,
+		"useful": true
+	},
+	{
+		"name": "Powerup - Area",
+		"category": ["Powerups"],
+		"count":2,
+		"useful": true
+	},
+	{
+		"name": "Powerup - Speed",
+		"category": ["Powerups"],
+		"count":2,
+		"useful": true
+	},
+	{
+		"name": "Powerup - Duration",
+		"category": ["Powerups"],
+		"count":2,
+		"useful": true
+	},
+	{
+		"name": "Powerup - Amount",
+		"category": ["Powerups"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "Powerup - MoveSpeed",
+		"category": ["Powerups"],
+		"count":2,
+		"useful": true
+	},
+	{
+		"name": "Powerup - Magnet",
+		"category": ["Powerups"],
+		"count":2,
+		"useful": true
+	},
+	{
+		"name": "Powerup - Luck",
+		"category": ["Powerups"],
+		"count":3,
+		"useful": true
+	},
+	{
+		"name": "Powerup - Growth",
+		"category": ["Powerups"],
+		"count":5,
+		"useful": true
+	},
+	{
+		"name": "Powerup - Greed",
+		"category": ["Powerups"],
+		"count":5,
+		"useful": true
+	},
+	{
+		"name": "Powerup - Curse",
+		"category": ["Powerups"],
+		"count":5,
+		"useful": true
+	},
+	{
+		"name": "Powerup - Revival",
+		"category": ["Powerups"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "Powerup - Omni",
+		"category": ["Powerups"],
+		"count":5,
+		"useful": true
+	},
+	{
+		"name": "Powerup - Charm",
+		"category": ["Powerups"],
+		"count":5,
+		"useful": true
+	},
+	{
+		"name": "Powerup - Defang",
+		"category": ["Powerups"],
+		"count":5,
+		"useful": true
+	},
+	{
+		"name": "Hyper Mode",
+		"category": ["Modes"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Hurry Mode",
+		"category": ["Modes"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Inverse Mode",
+		"category": ["Modes"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Endless Mode",
+		"category": ["Modes"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "Limit Break Mode",
+		"category": ["Modes"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "Random Events",
+		"category": ["Modes"],
+		"count":1,
+		"useful": true
+	}
 ]
