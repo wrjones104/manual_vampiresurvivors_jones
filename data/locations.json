@@ -1,179 +1,928 @@
-[ 
-    { "name": "Evolution: Bloody Tear", "requires": ["Whip", "Hollow Heart"], "category": ["Evolutions"] },
-    { "name": "Evolution: Holy Wand", "requires": ["Magic Wand", "Empty Tome"], "category": ["Evolutions"] },
-    { "name": "Evolution: Thousand Edge", "requires": ["Knife", "Bracer"], "category": ["Evolutions"] },
-    { "name": "Evolution: Death Spiral", "requires": ["Axe", "Candelabrador"], "category": ["Evolutions"] },
-    { "name": "Evolution: Heaven Sword", "requires": ["Cross", "Clover"], "category": ["Evolutions"] },
-    { "name": "Evolution: Unholy Vespers", "requires": ["King Bible", "Spellbinder"], "category": ["Evolutions"] },
-    { "name": "Evolution: Hellfire", "requires": ["Fire Wand", "Spinach"], "category": ["Evolutions"] },
-    { "name": "Evolution: Soul Eater", "requires": ["Garlic", "Pummarola"], "category": ["Evolutions"] },
-    { "name": "Evolution: La Borra", "requires": ["Santa Water", "Attractorb"], "category": ["Evolutions"] },
-    { "name": "Evolution: NO FUTURE", "requires": ["Runetracer", "Armor"], "category": ["Evolutions"] },
-    { "name": "Evolution: Thunder Loop", "requires": ["Lightning Ring", "Duplicator"], "category": ["Evolutions"] },
-    { "name": "Evolution: Gorgeous Moon", "requires": ["Pentagram", "Crown"], "category": ["Evolutions"] },
-    { "name": "Evolution: Vicious Hunger", "requires": ["Gatti Amari", "Stone Mask"], "category": ["Evolutions"] },
-    { "name": "Evolution: Mannajja", "requires": ["Song of Mana", "Skull O'Maniac"], "category": ["Evolutions"] },
-    { "name": "Evolution: Valkryie Turner", "requires": ["Shadow Pinion", "Wings"], "category": ["Evolutions"] },
-    { "name": "Evolution: Celestial Voulge", "requires": ["Glass Fandango", "Wings"], "category": ["Evolutions"] },
-    { "name": "Evolution: Infinite Corridor", "requires": ["Clock Lancet", "Silver Ring", "Gold Ring"], "category": ["Evolutions"] },
-    { "name": "Evolution: Crimson Shroud", "requires": ["Laurel", "Metaglio Left", "Metaglio Right"], "category": ["Evolutions"] },
-    { "name": "Evolution: Bi-Bracelet", "requires": ["Bracelet"], "category": ["Evolutions"] },
-    { "name": "Evolution: Tri-Bracelet", "requires": ["Bracelet"], "category": ["Evolutions"] },
-    { "name": "Evolution: Ashes of Muspell", "requires": ["Flames of Misspell", "Torrona's Box"], "category": ["Evolutions"] },
-    { "name": "Evolution: Festive Winds", "requires": ["Silver Wind", "Pummarola"], "category": ["Evolutions"] },
-    { "name": "Evolution: Godai Shuffle", "requires": ["Four Seasons","Spinach", "Candelabrador"], "category": ["Evolutions"] },
-    { "name": "Evolution: Echo Night", "requires": ["Summon Night", "Duplicator"], "category": ["Evolutions"] },
-    { "name": "Evolution: J'Odore", "requires": ["Mirage Robe", "Attractorb"], "category": ["Evolutions"] },
-    { "name": "Evolution: Muramasa", "requires": ["Night Sword", "Stone Mask"], "category": ["Evolutions"] },
-    { "name": "Evolution: Boo Roo Boolle", "requires": ["Mille Bolle Blu", "Spellbinder"], "category": ["Evolutions"] },
-    { "name": "Evolution: Legionnaire", "requires": ["Eskizzibur", "Armor"], "category": ["Evolutions"] },
-    { "name": "Evolution: Millionaire", "requires": ["Flash Arrow", "Bracer", "Clover"], "category": ["Evolutions"] },
-    { "name": "Evolution: Luminaire", "requires": ["Prismatic Missile", "Crown"], "category": ["Evolutions"] },
-    { "name": "Evolution: Ophion", "requires": ["Shadow Servant", "Skull O'Maniac"], "category": ["Evolutions"] },
-    { "name": "Gift: Sole Solution", "requires": ["Victory Sword", "Torrona's Box"], "category": ["Evolutions"] },
-    { "name": "Union: SpellStrom", "requires": ["SpellString", "SpellStream", "SpellStrike"], "category": ["Evolutions"] },
-    { "name": "Union: Vandalier", "requires": ["Peachone", "Ebony Wings"], "category": ["Evolutions"] },
-    { "name": "Union: Phieraggi", "requires": ["Phiera Der Tuphello", "Eight the Sparrow", "Tiragisu"], "category": ["Evolutions"] },
-    { "name": "Union: Fuwalafuwaloo", "requires": ["Vento Sacro", "Whip", "Hollow Heart"], "category": ["Evolutions"] },
-
-    { "name": "Mad Forest Chest 1", "category": ["Chests"], "requires": ["Mad Forest"] },
-    { "name": "Mad Forest Chest 2", "category": ["Chests"], "requires": ["Mad Forest"] },
-    { "name": "Mad Forest Chest 3", "category": ["Chests"], "requires": ["Mad Forest"] },
-    { "name": "Mad Forest Chest 4", "category": ["Chests"], "requires": ["Mad Forest"] },
-    { "name": "Mad Forest Chest 5", "category": ["Chests"], "requires": ["Mad Forest"] },
-    { "name": "Mad Forest Chest 6", "category": ["Chests"], "requires": ["Mad Forest"] },
-    { "name": "Mad Forest Chest 7", "category": ["Chests"], "requires": ["Mad Forest"] },
-    { "name": "Mad Forest Chest 8", "category": ["Chests"], "requires": ["Mad Forest"] },
-    { "name": "Mad Forest Chest 9", "category": ["Chests"], "requires": ["Mad Forest"] },
-    { "name": "Mad Forest Chest 10", "category": ["Chests"], "requires": ["Mad Forest"] },
-    { "name": "Mad Forest Chest 11", "category": ["Chests"], "requires": ["Mad Forest"] },
-    { "name": "Mad Forest Chest 12", "category": ["Chests"], "requires": ["Mad Forest"] },
-    { "name": "Mad Forest Chest 13", "category": ["Chests"], "requires": ["Mad Forest"] },
-    { "name": "Mad Forest Chest 14", "category": ["Chests"], "requires": ["Mad Forest"] },
-    { "name": "Mad Forest Chest 15", "category": ["Chests"], "requires": ["Mad Forest"] },
-    { "name": "Mad Forest Chest 16", "category": ["Chests"], "requires": ["Mad Forest"] },
-    { "name": "Mad Forest Chest 17", "category": ["Chests"], "requires": ["Mad Forest"] },
-    { "name": "Mad Forest Chest 18", "category": ["Chests"], "requires": ["Mad Forest"] },
-    { "name": "Mad Forest Chest 19", "category": ["Chests"], "requires": ["Mad Forest"] },
-    { "name": "Mad Forest Chest 20", "category": ["Chests"], "requires": ["Mad Forest"] },
-    { "name": "Inlaid Library Chest 1", "category": ["Chests"], "requires": ["Inlaid Library"] },
-    { "name": "Inlaid Library Chest 2", "category": ["Chests"], "requires": ["Inlaid Library"] },
-    { "name": "Inlaid Library Chest 3", "category": ["Chests"], "requires": ["Inlaid Library"] },
-    { "name": "Inlaid Library Chest 4", "category": ["Chests"], "requires": ["Inlaid Library"] },
-    { "name": "Inlaid Library Chest 5", "category": ["Chests"], "requires": ["Inlaid Library"] },
-    { "name": "Inlaid Library Chest 6", "category": ["Chests"], "requires": ["Inlaid Library"] },
-    { "name": "Inlaid Library Chest 7", "category": ["Chests"], "requires": ["Inlaid Library"] },
-    { "name": "Inlaid Library Chest 8", "category": ["Chests"], "requires": ["Inlaid Library"] },
-    { "name": "Inlaid Library Chest 9", "category": ["Chests"], "requires": ["Inlaid Library"] },
-    { "name": "Inlaid Library Chest 10", "category": ["Chests"], "requires": ["Inlaid Library"] },
-    { "name": "Inlaid Library Chest 11", "category": ["Chests"], "requires": ["Inlaid Library"] },
-    { "name": "Inlaid Library Chest 12", "category": ["Chests"], "requires": ["Inlaid Library"] },
-    { "name": "Inlaid Library Chest 13", "category": ["Chests"], "requires": ["Inlaid Library"] },
-    { "name": "Inlaid Library Chest 14", "category": ["Chests"], "requires": ["Inlaid Library"] },
-    { "name": "Inlaid Library Chest 15", "category": ["Chests"], "requires": ["Inlaid Library"] },
-    { "name": "Inlaid Library Chest 16", "category": ["Chests"], "requires": ["Inlaid Library"] },
-    { "name": "Inlaid Library Chest 17", "category": ["Chests"], "requires": ["Inlaid Library"] },
-    { "name": "Inlaid Library Chest 18", "category": ["Chests"], "requires": ["Inlaid Library"] },
-    { "name": "Inlaid Library Chest 19", "category": ["Chests"], "requires": ["Inlaid Library"] },
-    { "name": "Inlaid Library Chest 20", "category": ["Chests"], "requires": ["Inlaid Library"] },
-    { "name": "Dairy Plant Chest 1", "category": ["Chests"], "requires": ["Dairy Plant"] },
-    { "name": "Dairy Plant Chest 2", "category": ["Chests"], "requires": ["Dairy Plant"] },
-    { "name": "Dairy Plant Chest 3", "category": ["Chests"], "requires": ["Dairy Plant"] },
-    { "name": "Dairy Plant Chest 4", "category": ["Chests"], "requires": ["Dairy Plant"] },
-    { "name": "Dairy Plant Chest 5", "category": ["Chests"], "requires": ["Dairy Plant"] },
-    { "name": "Dairy Plant Chest 6", "category": ["Chests"], "requires": ["Dairy Plant"] },
-    { "name": "Dairy Plant Chest 7", "category": ["Chests"], "requires": ["Dairy Plant"] },
-    { "name": "Dairy Plant Chest 8", "category": ["Chests"], "requires": ["Dairy Plant"] },
-    { "name": "Dairy Plant Chest 9", "category": ["Chests"], "requires": ["Dairy Plant"] },
-    { "name": "Dairy Plant Chest 10", "category": ["Chests"], "requires": ["Dairy Plant"] },
-    { "name": "Dairy Plant Chest 11", "category": ["Chests"], "requires": ["Dairy Plant"] },
-    { "name": "Dairy Plant Chest 12", "category": ["Chests"], "requires": ["Dairy Plant"] },
-    { "name": "Dairy Plant Chest 13", "category": ["Chests"], "requires": ["Dairy Plant"] },
-    { "name": "Dairy Plant Chest 14", "category": ["Chests"], "requires": ["Dairy Plant"] },
-    { "name": "Dairy Plant Chest 15", "category": ["Chests"], "requires": ["Dairy Plant"] },
-    { "name": "Dairy Plant Chest 16", "category": ["Chests"], "requires": ["Dairy Plant"] },
-    { "name": "Dairy Plant Chest 17", "category": ["Chests"], "requires": ["Dairy Plant"] },
-    { "name": "Dairy Plant Chest 18", "category": ["Chests"], "requires": ["Dairy Plant"] },
-    { "name": "Dairy Plant Chest 19", "category": ["Chests"], "requires": ["Dairy Plant"] },
-    { "name": "Dairy Plant Chest 20", "category": ["Chests"], "requires": ["Dairy Plant"] },
-    { "name": "Gallo Tower Chest 1", "category": ["Chests"], "requires": ["Gallo Tower"] },
-    { "name": "Gallo Tower Chest 2", "category": ["Chests"], "requires": ["Gallo Tower"] },
-    { "name": "Gallo Tower Chest 3", "category": ["Chests"], "requires": ["Gallo Tower"] },
-    { "name": "Gallo Tower Chest 4", "category": ["Chests"], "requires": ["Gallo Tower"] },
-    { "name": "Gallo Tower Chest 5", "category": ["Chests"], "requires": ["Gallo Tower"] },
-    { "name": "Gallo Tower Chest 6", "category": ["Chests"], "requires": ["Gallo Tower"] },
-    { "name": "Gallo Tower Chest 7", "category": ["Chests"], "requires": ["Gallo Tower"] },
-    { "name": "Gallo Tower Chest 8", "category": ["Chests"], "requires": ["Gallo Tower"] },
-    { "name": "Gallo Tower Chest 9", "category": ["Chests"], "requires": ["Gallo Tower"] },
-    { "name": "Gallo Tower Chest 10", "category": ["Chests"], "requires": ["Gallo Tower"] },
-    { "name": "Gallo Tower Chest 11", "category": ["Chests"], "requires": ["Gallo Tower"] },
-    { "name": "Gallo Tower Chest 12", "category": ["Chests"], "requires": ["Gallo Tower"] },
-    { "name": "Gallo Tower Chest 13", "category": ["Chests"], "requires": ["Gallo Tower"] },
-    { "name": "Gallo Tower Chest 14", "category": ["Chests"], "requires": ["Gallo Tower"] },
-    { "name": "Gallo Tower Chest 15", "category": ["Chests"], "requires": ["Gallo Tower"] },
-    { "name": "Gallo Tower Chest 16", "category": ["Chests"], "requires": ["Gallo Tower"] },
-    { "name": "Gallo Tower Chest 17", "category": ["Chests"], "requires": ["Gallo Tower"] },
-    { "name": "Gallo Tower Chest 18", "category": ["Chests"], "requires": ["Gallo Tower"] },
-    { "name": "Gallo Tower Chest 19", "category": ["Chests"], "requires": ["Gallo Tower"] },
-    { "name": "Gallo Tower Chest 20", "category": ["Chests"], "requires": ["Gallo Tower"] },    
-    { "name": "Capella Magna Chest 1", "category": ["Chests"], "requires": ["Capella Magna"] },
-    { "name": "Capella Magna Chest 2", "category": ["Chests"], "requires": ["Capella Magna"] },
-    { "name": "Capella Magna Chest 3", "category": ["Chests"], "requires": ["Capella Magna"] },
-    { "name": "Capella Magna Chest 4", "category": ["Chests"], "requires": ["Capella Magna"] },
-    { "name": "Capella Magna Chest 5", "category": ["Chests"], "requires": ["Capella Magna"] },
-    { "name": "Capella Magna Chest 6", "category": ["Chests"], "requires": ["Capella Magna"] },
-    { "name": "Capella Magna Chest 7", "category": ["Chests"], "requires": ["Capella Magna"] },
-    { "name": "Capella Magna Chest 8", "category": ["Chests"], "requires": ["Capella Magna"] },
-    { "name": "Capella Magna Chest 9", "category": ["Chests"], "requires": ["Capella Magna"] },
-    { "name": "Capella Magna Chest 10", "category": ["Chests"], "requires": ["Capella Magna"] },
-    { "name": "Capella Magna Chest 11", "category": ["Chests"], "requires": ["Capella Magna"] },
-    { "name": "Capella Magna Chest 12", "category": ["Chests"], "requires": ["Capella Magna"] },
-    { "name": "Capella Magna Chest 13", "category": ["Chests"], "requires": ["Capella Magna"] },
-    { "name": "Capella Magna Chest 14", "category": ["Chests"], "requires": ["Capella Magna"] },
-    { "name": "Capella Magna Chest 15", "category": ["Chests"], "requires": ["Capella Magna"] },
-    { "name": "Capella Magna Chest 16", "category": ["Chests"], "requires": ["Capella Magna"] },
-    { "name": "Capella Magna Chest 17", "category": ["Chests"], "requires": ["Capella Magna"] },
-    { "name": "Capella Magna Chest 18", "category": ["Chests"], "requires": ["Capella Magna"] },
-    { "name": "Capella Magna Chest 19", "category": ["Chests"], "requires": ["Capella Magna"] },
-    { "name": "Capella Magna Chest 20", "category": ["Chests"], "requires": ["Capella Magna"] },    
-    
-    { "name": "Arcana Chest 1", "category": ["Arcana"] },
-    { "name": "Arcana Chest 2", "category": ["Arcana"] },
-    { "name": "Arcana Chest 3", "category": ["Arcana"] },
-    { "name": "Arcana Chest 4", "category": ["Arcana"] },
-    { "name": "Arcana Chest 5", "category": ["Arcana"] },
-    { "name": "Arcana Chest 6", "category": ["Arcana"] },
-    { "name": "Arcana Chest 7", "category": ["Arcana"] },
-    { "name": "Arcana Chest 8", "category": ["Arcana"] },
-    { "name": "Arcana Chest 9", "category": ["Arcana"] },
-    { "name": "Arcana Chest 10", "category": ["Arcana"] },
-    { "name": "Arcana Chest 11", "category": ["Arcana"] },
-    { "name": "Arcana Chest 12", "category": ["Arcana"] },
-    { "name": "Arcana Chest 13", "category": ["Arcana"] },
-    { "name": "Arcana Chest 14", "category": ["Arcana"] },
-    { "name": "Arcana Chest 15", "category": ["Arcana"] },
-
-    { "name": "Pick up a Rosary", "category": ["Pickups"] },
-    { "name": "Pick up a Nduja Fritta Tanto", "category": ["Pickups"] },
-    { "name": "Pick up a Floor Chicken", "category": ["Pickups"] },
-    { "name": "Pick up an Orologion", "category": ["Pickups"] },
-    { "name": "Pick up a Vacuum", "category": ["Pickups"] },
-    { "name": "Pick up a Little Clover", "category": ["Pickups"] },
-    { "name": "Pick up a Gilded Clover", "category": ["Pickups"] },
-
-    { "name": "Clear Mad Forest", "category": ["Stages"], "requires": ["Mad Forest"] },
-    { "name": "Clear Inlaid Library", "category": ["Stages"], "requires": ["Inlaid Library"] },
-    { "name": "Clear Dairy Plant", "category": ["Stages"], "requires": ["Dairy Plant"] },
-    { "name": "Clear Gallo Tower", "category": ["Stages"], "requires": ["Gallo Tower"] },
-    { "name": "Clear Capella Magna", "category": ["Stages"], "requires": ["Capella Magna"] },
-    { "name": "Clear a stage in Inverse Mode", "category": ["Stages"], "requires": ["Inverse Mode"] },
-    { "name": "Clear a stage in Hyper Mode", "category": ["Stages"], "requires": ["Hyper Mode"] },
-    { "name": "Clear a stage in Hurry Mode", "category": ["Stages"], "requires": ["Hurry Mode"] },
-
-	{ "name": "Six weapons at once!", "category": ["Inventory"]},
-    { "name": "Six items at once!", "category": ["Inventory"]},
-	{ "name": "All slots full!", "category": ["Inventory"]},
-	{ "name": "Three Arcana at once!", "category": ["Inventory"]},
-
-	{ "name": "Kill The Reaper", "requires": ["Clock Lancet", "Silver Ring", "Gold Ring",{"or": ["Laurel", "Metaglio Left", "Metaglio Right"]}],"victory": true, "category": ["Victory!"]}
+[
+	{
+		"name": "Evolution: Bloody Tear",
+		"requires": "|Whip| AND |Hollow Heart|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Holy Wand",
+		"requires": "|Magic Wand| AND |Empty Tome|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Thousand Edge",
+		"requires": "|Knife| AND |Bracer|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Death Spiral",
+		"requires": "|Axe| AND |Candelabrador|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Heaven Sword",
+		"requires": "|Cross| AND |Clover|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Unholy Vespers",
+		"requires": "|King Bible| AND |Spellbinder|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Hellfire",
+		"requires": "|Fire Wand| AND |Spinach|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Soul Eater",
+		"requires": "|Garlic| AND |Pummarola|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: La Borra",
+		"requires": "|Santa Water| AND |Attractorb|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: NO FUTURE",
+		"requires": "|Runetracer| AND |Armor|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Thunder Loop",
+		"requires": "|Lightning Ring| AND |Duplicator|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Gorgeous Moon",
+		"requires": "|Pentagram| AND |Crown|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Vicious Hunger",
+		"requires": "|Gatti Amari| AND |Stone Mask|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Mannajja",
+		"requires": "|Song of Mana| AND |Skull O'Maniac|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Valkryie Turner",
+		"requires": "|Shadow Pinion| AND |Wings|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Celestial Voulge",
+		"requires": "|Glass Fandango| AND |Wings|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Infinite Corridor",
+		"requires": "|Clock Lancet| AND |Silver Ring| AND |Gold Ring|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Crimson Shroud",
+		"requires": "|Laurel| AND |Metaglio Left| AND |Metaglio Right|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Bi-Bracelet",
+		"requires": "|Bracelet|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Tri-Bracelet",
+		"requires": "|Bracelet|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Ashes of Muspell",
+		"requires": "|Flames of Misspell| AND |Torrona's Box|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Festive Winds",
+		"requires": "|Silver Wind| AND |Pummarola|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Godai Shuffle",
+		"requires": "|Four Seasons| AND |Spinach| AND |Candelabrador|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Echo Night",
+		"requires": "|Summon Night| AND |Duplicator|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: J'Odore",
+		"requires": "|Mirage Robe| AND |Attractorb|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Muramasa",
+		"requires": "|Night Sword| AND |Stone Mask|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Boo Roo Boolle",
+		"requires": "|Mille Bolle Blu| AND |Spellbinder|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Legionnaire",
+		"requires": "|Eskizzibur| AND |Armor|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Millionaire",
+		"requires": "|Flash Arrow| AND |Bracer| AND |Clover|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Luminaire",
+		"requires": "|Prismatic Missile| AND |Crown|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Ophion",
+		"requires": "|Shadow Servant| AND |Skull O'Maniac|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Mazo Familiar",
+		"requires": "|Pako Battiliar| AND |Hollow Heart|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Photonstorm",
+		"requires": "|Phas3r| AND |Empty Tome|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Emergency Meeting",
+		"requires": "|Report!|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Crossed Wires",
+		"requires": "|Lucky Swipe|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Paranormal Scan",
+		"requires": "|Lifesign Scan|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Unjust Ejection",
+		"requires": "|Just Vent|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Clear Asteroids",
+		"requires": "|Clear Debris|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Impostongue",
+		"requires": "|Sharp Tongue|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Rocket Science",
+		"requires": "|Science Rocks|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Gift: Sole Solution",
+		"requires": "|Victory Sword| AND |Torrona's Box|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Union: SpellStrom",
+		"requires": "|SpellString| AND |SpellStream| AND |SpellStrike|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Union: Vandalier",
+		"requires": "|Peachone| AND |Ebony Wings|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Union: Phieraggi",
+		"requires": "|Phiera Der Tuphello| AND |Eight the Sparrow| AND |Tiragisu|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Union: Fuwalafuwaloo",
+		"requires": "|Vento Sacro| AND |Whip| AND |Hollow Heart|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Mad Forest Chest 1",
+		"category": ["Chests"],
+		"requires": "|Mad Forest|"
+	},
+	{
+		"name": "Mad Forest Chest 2",
+		"category": ["Chests"],
+		"requires": "|Mad Forest|"
+	},
+	{
+		"name": "Mad Forest Chest 3",
+		"category": ["Chests"],
+		"requires": "|Mad Forest|"
+	},
+	{
+		"name": "Mad Forest Chest 4",
+		"category": ["Chests"],
+		"requires": "|Mad Forest|"
+	},
+	{
+		"name": "Mad Forest Chest 5",
+		"category": ["Chests"],
+		"requires": "|Mad Forest|"
+	},
+	{
+		"name": "Inlaid Library Chest 1",
+		"category": ["Chests"],
+		"requires": "|Inlaid Library|"
+	},
+	{
+		"name": "Inlaid Library Chest 2",
+		"category": ["Chests"],
+		"requires": "|Inlaid Library|"
+	},
+	{
+		"name": "Inlaid Library Chest 3",
+		"category": ["Chests"],
+		"requires": "|Inlaid Library|"
+	},
+	{
+		"name": "Inlaid Library Chest 4",
+		"category": ["Chests"],
+		"requires": "|Inlaid Library|"
+	},
+	{
+		"name": "Inlaid Library Chest 5",
+		"category": ["Chests"],
+		"requires": "|Inlaid Library|"
+	},
+	{
+		"name": "Dairy Plant Chest 1",
+		"category": ["Chests"],
+		"requires": "|Dairy Plant|"
+	},
+	{
+		"name": "Dairy Plant Chest 2",
+		"category": ["Chests"],
+		"requires": "|Dairy Plant|"
+	},
+	{
+		"name": "Dairy Plant Chest 3",
+		"category": ["Chests"],
+		"requires": "|Dairy Plant|"
+	},
+	{
+		"name": "Dairy Plant Chest 4",
+		"category": ["Chests"],
+		"requires": "|Dairy Plant|"
+	},
+	{
+		"name": "Dairy Plant Chest 5",
+		"category": ["Chests"],
+		"requires": "|Dairy Plant|"
+	},
+	{
+		"name": "Gallo Tower Chest 1",
+		"category": ["Chests"],
+		"requires": "|Gallo Tower|"
+	},
+	{
+		"name": "Gallo Tower Chest 2",
+		"category": ["Chests"],
+		"requires": "|Gallo Tower|"
+	},
+	{
+		"name": "Gallo Tower Chest 3",
+		"category": ["Chests"],
+		"requires": "|Gallo Tower|"
+	},
+	{
+		"name": "Gallo Tower Chest 4",
+		"category": ["Chests"],
+		"requires": "|Gallo Tower|"
+	},
+	{
+		"name": "Gallo Tower Chest 5",
+		"category": ["Chests"],
+		"requires": "|Gallo Tower|"
+	},
+	{
+		"name": "Capella Magna Chest 1",
+		"category": ["Chests"],
+		"requires": "|Capella Magna|"
+	},
+	{
+		"name": "Capella Magna Chest 2",
+		"category": ["Chests"],
+		"requires": "|Capella Magna|"
+	},
+	{
+		"name": "Capella Magna Chest 3",
+		"category": ["Chests"],
+		"requires": "|Capella Magna|"
+	},
+	{
+		"name": "Capella Magna Chest 4",
+		"category": ["Chests"],
+		"requires": "|Capella Magna|"
+	},
+	{
+		"name": "Capella Magna Chest 5",
+		"category": ["Chests"],
+		"requires": "|Capella Magna|"
+	},
+	{
+		"name": "Il Moslise Chest 1",
+		"category": ["Chests"],
+		"requires": "|Il Molise|"
+	},
+	{
+		"name": "Il Moslise Chest 2",
+		"category": ["Chests"],
+		"requires": "|Il Molise|"
+	},	
+	{
+		"name": "Il Moslise Chest 3",
+		"category": ["Chests"],
+		"requires": "|Il Molise|"
+	},	
+	{
+		"name": "Il Moslise Chest 4",
+		"category": ["Chests"],
+		"requires": "|Il Molise|"
+	},	
+	{
+		"name": "Il Moslise Chest 5",
+		"category": ["Chests"],
+		"requires": "|Il Molise|"
+	},	
+	{
+		"name": "Moonglow Chest 1",
+		"category": ["Chests"],
+		"requires": "|Moonglow|"
+	},
+	{
+		"name": "Moonglow Chest 2",
+		"category": ["Chests"],
+		"requires": "|Moonglow|"
+	},
+	{
+		"name": "Moonglow Chest 3",
+		"category": ["Chests"],
+		"requires": "|Moonglow|"
+	},
+	{
+		"name": "Moonglow Chest 4",
+		"category": ["Chests"],
+		"requires": "|Moonglow|"
+	},
+	{
+		"name": "Moonglow Chest 5",
+		"category": ["Chests"],
+		"requires": "|Moonglow|"
+	},
+	{
+		"name": "Green Acres Chest 1",
+		"category": ["Chests"],
+		"requires": "|Green Acres|"
+	},
+	{
+		"name": "Green Acres Chest 2",
+		"category": ["Chests"],
+		"requires": "|Green Acres|"
+	},
+	{
+		"name": "Green Acres Chest 3",
+		"category": ["Chests"],
+		"requires": "|Green Acres|"
+	},
+	{
+		"name": "Green Acres Chest 4",
+		"category": ["Chests"],
+		"requires": "|Green Acres|"
+	},
+	{
+		"name": "Green Acres Chest 5",
+		"category": ["Chests"],
+		"requires": "|Green Acres|"
+	},
+	{
+		"name": "The Bone Zone Chest 1",
+		"category": ["Chests"],
+		"requires": "|The Bone Zone|"
+	},
+	{
+		"name": "The Bone Zone Chest 2",
+		"category": ["Chests"],
+		"requires": "|The Bone Zone|"
+	},
+	{
+		"name": "The Bone Zone Chest 3",
+		"category": ["Chests"],
+		"requires": "|The Bone Zone|"
+	},
+	{
+		"name": "The Bone Zone Chest 4",
+		"category": ["Chests"],
+		"requires": "|The Bone Zone|"
+	},
+	{
+		"name": "The Bone Zone Chest 5",
+		"category": ["Chests"],
+		"requires": "|The Bone Zone|"
+	},
+	{
+		"name": "Boss Rash Chest 1",
+		"category": ["Chests"],
+		"requires": "|Boss Rash|"
+	},
+	{
+		"name": "Boss Rash Chest 2",
+		"category": ["Chests"],
+		"requires": "|Boss Rash|"
+	},
+	{
+		"name": "Boss Rash Chest 3",
+		"category": ["Chests"],
+		"requires": "|Boss Rash|"
+	},
+	{
+		"name": "Boss Rash Chest 4",
+		"category": ["Chests"],
+		"requires": "|Boss Rash|"
+	},
+	{
+		"name": "Boss Rash Chest 5",
+		"category": ["Chests"],
+		"requires": "|Boss Rash|"
+	},
+	{
+		"name": "Whiteout Chest 1",
+		"category": ["Chests"],
+		"requires": "|Whiteout|"
+	},
+	{
+		"name": "Whiteout Chest 2",
+		"category": ["Chests"],
+		"requires": "|Whiteout|"
+	},
+	{
+		"name": "Whiteout Chest 3",
+		"category": ["Chests"],
+		"requires": "|Whiteout|"
+	},
+	{
+		"name": "Whiteout Chest 4",
+		"category": ["Chests"],
+		"requires": "|Whiteout|"
+	},
+	{
+		"name": "Whiteout Chest 5",
+		"category": ["Chests"],
+		"requires": "|Whiteout|"
+	},
+	{
+		"name": "Space 54 Chest 1",
+		"category": ["Chests"],
+		"requires": "|Space 54|"
+	},
+	{
+		"name": "Space 54 Chest 2",
+		"category": ["Chests"],
+		"requires": "|Space 54|"
+	},
+	{
+		"name": "Space 54 Chest 3",
+		"category": ["Chests"],
+		"requires": "|Space 54|"
+	},
+	{
+		"name": "Space 54 Chest 4",
+		"category": ["Chests"],
+		"requires": "|Space 54|"
+	},
+	{
+		"name": "Space 54 Chest 5",
+		"category": ["Chests"],
+		"requires": "|Space 54|"
+	},
+	{
+		"name": "Bat Country Chest 1",
+		"category": ["Chests"],
+		"requires": "|Bat Country|"
+	},
+	{
+		"name": "Bat Country Chest 2",
+		"category": ["Chests"],
+		"requires": "|Bat Country|"
+	},
+	{
+		"name": "Bat Country Chest 3",
+		"category": ["Chests"],
+		"requires": "|Bat Country|"
+	},
+	{
+		"name": "Bat Country Chest 4",
+		"category": ["Chests"],
+		"requires": "|Bat Country|"
+	},
+	{
+		"name": "Bat Country Chest 5",
+		"category": ["Chests"],
+		"requires": "|Bat Country|"
+	},
+	{
+		"name": "Astral Stair Chest 1",
+		"category": ["Chests"],
+		"requires": "|Astral Stair|"
+	},
+	{
+		"name": "Astral Stair Chest 2",
+		"category": ["Chests"],
+		"requires": "|Astral Stair|"
+	},
+	{
+		"name": "Astral Stair Chest 3",
+		"category": ["Chests"],
+		"requires": "|Astral Stair|"
+	},
+	{
+		"name": "Astral Stair Chest 4",
+		"category": ["Chests"],
+		"requires": "|Astral Stair|"
+	},
+	{
+		"name": "Astral Stair Chest 5",
+		"category": ["Chests"],
+		"requires": "|Astral Stair|"
+	},
+	{
+		"name": "Tiny Bridge Chest 1",
+		"category": ["Chests"],
+		"requires": "|Tiny Bridge|"
+	},
+	{
+		"name": "Tiny Bridge Chest 2",
+		"category": ["Chests"],
+		"requires": "|Tiny Bridge|"
+	},
+	{
+		"name": "Tiny Bridge Chest 3",
+		"category": ["Chests"],
+		"requires": "|Tiny Bridge|"
+	},
+	{
+		"name": "Tiny Bridge Chest 4",
+		"category": ["Chests"],
+		"requires": "|Tiny Bridge|"
+	},
+	{
+		"name": "Tiny Bridge Chest 5",
+		"category": ["Chests"],
+		"requires": "|Tiny Bridge|"
+	},
+	{
+		"name": "Mt. Moonspell Chest 1",
+		"category": ["Chests"],
+		"requires": "|Mt. Moonspell|"
+	},
+	{
+		"name": "Mt. Moonspell Chest 2",
+		"category": ["Chests"],
+		"requires": "|Mt. Moonspell|"
+	},
+	{
+		"name": "Mt. Moonspell Chest 3",
+		"category": ["Chests"],
+		"requires": "|Mt. Moonspell|"
+	},
+	{
+		"name": "Mt. Moonspell Chest 4",
+		"category": ["Chests"],
+		"requires": "|Mt. Moonspell|"
+	},
+	{
+		"name": "Mt. Moonspell Chest 5",
+		"category": ["Chests"],
+		"requires": "|Mt. Moonspell|"
+	},
+	{
+		"name": "Lake Foscari Chest 1",
+		"category": ["Chests"],
+		"requires": "|Lake Foscari|"
+	},
+	{
+		"name": "Lake Foscari Chest 2",
+		"category": ["Chests"],
+		"requires": "|Lake Foscari|"
+	},
+	{
+		"name": "Lake Foscari Chest 3",
+		"category": ["Chests"],
+		"requires": "|Lake Foscari|"
+	},
+	{
+		"name": "Lake Foscari Chest 4",
+		"category": ["Chests"],
+		"requires": "|Lake Foscari|"
+	},
+	{
+		"name": "Lake Foscari Chest 5",
+		"category": ["Chests"],
+		"requires": "|Lake Foscari|"
+	},
+	{
+		"name": "Abyss Foscari Chest 1",
+		"category": ["Chests"],
+		"requires": "|Abyss Foscari|"
+	},
+	{
+		"name": "Abyss Foscari Chest 2",
+		"category": ["Chests"],
+		"requires": "|Abyss Foscari|"
+	},
+	{
+		"name": "Abyss Foscari Chest 3",
+		"category": ["Chests"],
+		"requires": "|Abyss Foscari|"
+	},
+	{
+		"name": "Abyss Foscari Chest 4",
+		"category": ["Chests"],
+		"requires": "|Abyss Foscari|"
+	},
+	{
+		"name": "Abyss Foscari Chest 5",
+		"category": ["Chests"],
+		"requires": "|Abyss Foscari|"
+	},
+	{
+		"name": "Polus Replica Chest 1",
+		"category": ["Chests"],
+		"requires": "|Polus Replica|"
+	},
+	{
+		"name": "Polus Replica Chest 2",
+		"category": ["Chests"],
+		"requires": "|Polus Replica|"
+	},
+	{
+		"name": "Polus Replica Chest 3",
+		"category": ["Chests"],
+		"requires": "|Polus Replica|"
+	},
+	{
+		"name": "Polus Replica Chest 4",
+		"category": ["Chests"],
+		"requires": "|Polus Replica|"
+	},
+	{
+		"name": "Polus Replica Chest 5",
+		"category": ["Chests"],
+		"requires": "|Polus Replica|"
+	},
+	{
+		"name": "Arcana Chest 1",
+		"category": ["Arcana Chests"],
+		"requires": "|@Arcana:1|"
+	},
+	{
+		"name": "Arcana Chest 2",
+		"category": ["Arcana Chests"],
+		"requires": "|@Arcana:1|"
+	},
+	{
+		"name": "Arcana Chest 3",
+		"category": ["Arcana Chests"],
+		"requires": "|@Arcana:1|"
+	},
+	{
+		"name": "Arcana Chest 4",
+		"category": ["Arcana Chests"],
+		"requires": "|@Arcana:1|"
+	},
+	{
+		"name": "Arcana Chest 5",
+		"category": ["Arcana Chests"],
+		"requires": "|@Arcana:1|"
+	},
+	{
+		"name": "Arcana Chest 6",
+		"category": ["Arcana Chests"],
+		"requires": "|@Arcana:1|"
+	},
+	{
+		"name": "Arcana Chest 7",
+		"category": ["Arcana Chests"],
+		"requires": "|@Arcana:1|"
+	},
+	{
+		"name": "Arcana Chest 8",
+		"category": ["Arcana Chests"],
+		"requires": "|@Arcana:1|"
+	},
+	{
+		"name": "Arcana Chest 9",
+		"category": ["Arcana Chests"],
+		"requires": "|@Arcana:1|"
+	},
+	{
+		"name": "Arcana Chest 10",
+		"category": ["Arcana Chests"],
+		"requires": "|@Arcana:1|"
+	},
+	{
+		"name": "Pick up a Rosary",
+		"category": ["Pickups"],
+		"requires": []
+	},
+	{
+		"name": "Pick up a Nduja Fritta Tanto",
+		"category": ["Pickups"],
+		"requires": []
+	},
+	{
+		"name": "Pick up a Floor Chicken",
+		"category": ["Pickups"],
+		"requires": []
+	},
+	{
+		"name": "Pick up an Orologion",
+		"category": ["Pickups"],
+		"requires": []
+	},
+	{
+		"name": "Pick up a Vacuum",
+		"category": ["Pickups"],
+		"requires": []
+	},
+	{
+		"name": "Pick up a Little Clover",
+		"category": ["Pickups"],
+		"requires": []
+	},
+	{
+		"name": "Pick up a Gilded Clover",
+		"category": ["Pickups"],
+		"requires": []
+	},
+	{
+		"name": "Pick up a Gold Finger",
+		"category": ["Pickups"],
+		"requires": "|Astral Stair| OR |Space 54|"
+	},
+	{
+		"name": "Clear Mad Forest",
+		"category": ["Stages"],
+		"requires": "|Mad Forest|"
+	},
+	{
+		"name": "Clear Inlaid Library",
+		"category": ["Stages"],
+		"requires": "|Inlaid Library|"
+	},
+	{
+		"name": "Clear Dairy Plant",
+		"category": ["Stages"],
+		"requires": "|Dairy Plant|"
+	},
+	{
+		"name": "Clear Gallo Tower",
+		"category": ["Stages"],
+		"requires": "|Gallo Tower|"
+	},
+	{
+		"name": "Clear Capella Magna",
+		"category": ["Stages"],
+		"requires": "|Capella Magna|"
+	},
+	{
+		"name": "Clear Il Molise",
+		"category": ["Stages"],
+		"requires": "|Il Molise|"
+	},
+	{
+		"name": "Clear Moonglow",
+		"category": ["Stages"],
+		"requires": "|Moonglow|"
+	},
+	{
+		"name": "Clear Green Acres",
+		"category": ["Stages"],
+		"requires": "|Green Acres|"
+	},
+	{
+		"name": "Clear The Bone Zone",
+		"category": ["Stages"],
+		"requires": "|The Bone Zone|"
+	},
+	{
+		"name": "Clear Boss Rash",
+		"category": ["Stages"],
+		"requires": "|Boss Rash|"
+	},
+	{
+		"name": "Clear Whiteout",
+		"category": ["Stages"],
+		"requires": "|Whiteout|"
+	},
+	{
+		"name": "Clear Space 54",
+		"category": ["Stages"],
+		"requires": "|Space 54|"
+	},
+	{
+		"name": "Clear Bat Country",
+		"category": ["Stages"],
+		"requires": "|Bat Country|"
+	},
+	{
+		"name": "Clear Astral Stair",
+		"category": ["Stages"],
+		"requires": "|Astral Stair|"
+	},
+	{
+		"name": "Clear Tiny Bridge",
+		"category": ["Stages"],
+		"requires": "|Tiny Bridge|"
+	},
+	{
+		"name": "Clear Mt. Moonspell",
+		"category": ["Stages"],
+		"requires": "|Mt. Moonspell|"
+	},
+	{
+		"name": "Clear Lake Foscari",
+		"category": ["Stages"],
+		"requires": "|Lake Foscari|"
+	},
+	{
+		"name": "Clear Abyss Foscari",
+		"category": ["Stages"],
+		"requires": "|Abyss Foscari|"
+	},
+	{
+		"name": "Clear Polus Replica",
+		"category": ["Stages"],
+		"requires": "|Polus Replica|"
+	},
+	{
+		"name": "Clear a stage in Inverse Mode",
+		"category": ["Stages"],
+		"requires": "|Inverse Mode|"
+	},
+	{
+		"name": "Clear a stage in Hyper Mode",
+		"category": ["Stages"],
+		"requires": "|Hyper Mode|"
+	},
+	{
+		"name": "Clear a stage in Hurry Mode",
+		"category": ["Stages"],
+		"requires": "|Hurry Mode|"
+	},
+	{
+		"name": "Six weapons at once!",
+		"category": ["Inventory"],
+		"requires": "|@Weapons:6|"
+	},
+	{
+		"name": "Six items at once!",
+		"category": ["Inventory"],
+		"requires": "|@Accessories:6|"
+	},
+	{
+		"name": "All slots full!",
+		"category": ["Inventory"],
+		"requires": "|@Weapons:6| AND |@Accessories:6|"
+	},
+	{
+		"name": "Three Arcana at once!",
+		"category": ["Inventory"],
+		"requires": "|@Arcana:3|"
+	},
+	{
+		"name": "Kill The Reaper",
+		"requires": "( |Clock Lancet| AND |Silver Ring| AND |Gold Ring| ) OR ( |Laurel| AND |Metaglio Left| AND |Metaglio Right| )",
+		"victory": true,
+		"category": ["Victory"]
+	}
 ]

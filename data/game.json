@@ -1,340 +1,366 @@
 {
-  "game": "VampireSurvivors",
-  "creator": "Jones",
-  "filler_item_name": "A terrible night to have a curse...",
-  "starting_items": [
-    {
-      "items": [
-        "Mad Forest"
-      ]
-    },
-    {
-      "items": [
-        "Whip",
-        "Magic Wand",
-        "Knife",
-        "Axe",
-        "Cross",
-        "King Bible",
-        "Fire Wand",
-        "Garlic",
-        "Santa Water",
-        "Runetracer",
-        "Lightning Ring",
-        "Pentagram",
-        "Gatti Amari",
-        "Song of Mana",
-        "Shadow Pinion",
-        "Flames of Misspell",
-        "Glass Fandango",
-        "Bracelet",
-        "Silver Wind",
-        "Four Seasons",
-        "Summon Night",
-        "Mirage Robe",
-        "Night Sword",
-        "Mille Bolle Blu",
-        "Eskizzibur",
-        "SpellString",
-        "SpellStream",
-        "SpellStrike",
-        "Flash Arrow",
-        "Prismatic Missile",
-        "Shadow Servant",
-        "Phiera Der Tuphello",
-        "Eight the Sparrow",
-        "Peachone",
-        "Ebony Wings",
-        "Vento Sacro"
-      ],
-      "random": 1
-    },
-    {
-      "if_previous_item": [
-        "Whip"
-      ],
-      "items": [
-        "Hollow Heart"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Magic Wand"
-      ],
-      "items": [
-        "Empty Tome"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Knife"
-      ],
-      "items": [
-        "Bracer"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Axe"
-      ],
-      "items": [
-        "Candelabrador"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Cross"
-      ],
-      "items": [
-        "Clover"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "King Bible"
-      ],
-      "items": [
-        "Spellbinder"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Fire Wand"
-      ],
-      "items": [
-        "Spinach"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Garlic"
-      ],
-      "items": [
-        "Pummarola"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Santa Water"
-      ],
-      "items": [
-        "Attractorb"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Runetracer"
-      ],
-      "items": [
-        "Armor"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Lightning Ring"
-      ],
-      "items": [
-        "Duplicator"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Pentagram"
-      ],
-      "items": [
-        "Crown"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Gatti Amari"
-      ],
-      "items": [
-        "Stone Mask"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Song of Mana"
-      ],
-      "items": [
-        "Skull O'Maniac"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Shadow Pinion"
-      ],
-      "items": [
-        "Wings"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Flames of Misspell"
-      ],
-      "items": [
-        "Torrona's Box"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Glass Fandango"
-      ],
-      "items": [
-        "Wings"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Phiera Der Tuphello"
-      ],
-      "items": [
-        "Eight the Sparrow",
-        "Tiragisu"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Eight the Sparrow"
-      ],
-      "items": [
-        "Phiera Der Tuphello", "Tiragisu"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Peachone"
-      ],
-      "items": [
-        "Ebony Wings"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Ebony Wings"
-      ],
-      "items": [
-        "Peachone"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Vento Sacro"
-      ],
-      "items": [
-        "Whip",
-        "Hollow Heart"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Silver Wind"
-      ],
-      "items": [
-        "Pummarola"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Four Seasons"
-      ],
-      "items": [
-        "Spinach",
-        "Candelabrador"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Summon Night"
-      ],
-      "items": [
-        "Duplicator"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Mirage Robe"
-      ],
-      "items": [
-        "Attractorb"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Night Sword"
-      ],
-      "items": [
-        "Stone Mask"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Mille Bolle Blu"
-      ],
-      "items": [
-        "Spellbinder"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "SpellString"
-      ],
-      "items": [
-        "SpellStream",
-        "SpellStrike"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "SpellStream"
-      ],
-      "items": [
-        "SpellString",
-        "SpellStrike"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "SpellStrike"
-      ],
-      "items": [
-        "SpellString",
-        "SpellStream"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Eskizzibur"
-      ],
-      "items": [
-        "Armor"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Flash Arrow"
-      ],
-      "items": [
-        "Bracer",
-        "Clover"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Prismatic Missile"
-      ],
-      "items": [
-        "Crown"
-      ]
-    },
-    {
-      "if_previous_item": [
-        "Shadow Servant"
-      ],
-      "items": [
-        "Skull O'Maniac"
-      ]
-    }
-  ]
-}
+	"game": "VampireSurvivors",
+	"creator": "Jones",
+	"filler_item_name": "A terrible night to have a curse...",
+	"starting_items": [
+	  {
+		"items": [
+		  "Mad Forest"
+		]
+	  },
+	  {
+		"items": [
+		  "Whip",
+		  "Magic Wand",
+		  "Knife",
+		  "Axe",
+		  "Cross",
+		  "King Bible",
+		  "Fire Wand",
+		  "Garlic",
+		  "Santa Water",
+		  "Runetracer",
+		  "Lightning Ring",
+		  "Pentagram",
+		  "Gatti Amari",
+		  "Song of Mana",
+		  "Shadow Pinion",
+		  "Flames of Misspell",
+		  "Glass Fandango",
+		  "Bracelet",
+		  "Silver Wind",
+		  "Four Seasons",
+		  "Summon Night",
+		  "Mirage Robe",
+		  "Night Sword",
+		  "Mille Bolle Blu",
+		  "Eskizzibur",
+		  "SpellString",
+		  "SpellStream",
+		  "SpellStrike",
+		  "Flash Arrow",
+		  "Prismatic Missile",
+		  "Shadow Servant",
+		  "Phiera Der Tuphello",
+		  "Eight the Sparrow",
+		  "Peachone",
+		  "Ebony Wings",
+		  "Vento Sacro",
+		  "Phas3r",
+		  "Pako Battiliar",
+		  "Report!",
+		  "Lucky Swipe",
+		  "Lifesign Scan",
+		  "Just Vent",
+		  "Clear Debris",
+		  "Sharp Tongue",
+		  "Science Rocks",
+		  "Hats"
+		],
+		"random": 1
+	  },
+	  {
+		"if_previous_item": [
+		  "Whip"
+		],
+		"items": [
+		  "Hollow Heart"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Magic Wand"
+		],
+		"items": [
+		  "Empty Tome"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Knife"
+		],
+		"items": [
+		  "Bracer"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Axe"
+		],
+		"items": [
+		  "Candelabrador"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Cross"
+		],
+		"items": [
+		  "Clover"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "King Bible"
+		],
+		"items": [
+		  "Spellbinder"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Fire Wand"
+		],
+		"items": [
+		  "Spinach"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Garlic"
+		],
+		"items": [
+		  "Pummarola"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Santa Water"
+		],
+		"items": [
+		  "Attractorb"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Runetracer"
+		],
+		"items": [
+		  "Armor"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Lightning Ring"
+		],
+		"items": [
+		  "Duplicator"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Pentagram"
+		],
+		"items": [
+		  "Crown"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Gatti Amari"
+		],
+		"items": [
+		  "Stone Mask"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Song of Mana"
+		],
+		"items": [
+		  "Skull O'Maniac"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Shadow Pinion"
+		],
+		"items": [
+		  "Wings"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Flames of Misspell"
+		],
+		"items": [
+		  "Torrona's Box"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Glass Fandango"
+		],
+		"items": [
+		  "Wings"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Phiera Der Tuphello"
+		],
+		"items": [
+		  "Eight the Sparrow",
+		  "Tiragisu"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Eight the Sparrow"
+		],
+		"items": [
+		  "Phiera Der Tuphello", "Tiragisu"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Peachone"
+		],
+		"items": [
+		  "Ebony Wings"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Ebony Wings"
+		],
+		"items": [
+		  "Peachone"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Vento Sacro"
+		],
+		"items": [
+		  "Whip",
+		  "Hollow Heart"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Silver Wind"
+		],
+		"items": [
+		  "Pummarola"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Four Seasons"
+		],
+		"items": [
+		  "Spinach",
+		  "Candelabrador"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Summon Night"
+		],
+		"items": [
+		  "Duplicator"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Mirage Robe"
+		],
+		"items": [
+		  "Attractorb"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Night Sword"
+		],
+		"items": [
+		  "Stone Mask"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Mille Bolle Blu"
+		],
+		"items": [
+		  "Spellbinder"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "SpellString"
+		],
+		"items": [
+		  "SpellStream",
+		  "SpellStrike"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "SpellStream"
+		],
+		"items": [
+		  "SpellString",
+		  "SpellStrike"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "SpellStrike"
+		],
+		"items": [
+		  "SpellString",
+		  "SpellStream"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Eskizzibur"
+		],
+		"items": [
+		  "Armor"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Flash Arrow"
+		],
+		"items": [
+		  "Bracer",
+		  "Clover"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Prismatic Missile"
+		],
+		"items": [
+		  "Crown"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Shadow Servant"
+		],
+		"items": [
+		  "Skull O'Maniac"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Pako Battiliar"
+		],
+		"items": [
+		  "Hollow Heart"
+		]
+	  },
+	  {
+		"if_previous_item": [
+		  "Phas3r"
+		],
+		"items": [
+		  "Empty Tome"
+		]
+	  }
+	]
+  }
