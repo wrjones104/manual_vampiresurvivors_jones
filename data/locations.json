@@ -790,97 +790,97 @@
 		"requires": "|Astral Stair| OR |Space 54|"
 	},
 	{
-		"name": "Clear Mad Forest",
+		"name": "Survive 15 minutes in the Mad Forest",
 		"category": ["Stages"],
 		"requires": "|Mad Forest|"
 	},
 	{
-		"name": "Clear Inlaid Library",
+		"name": "Survive 15 minutes in the Inlaid Library",
 		"category": ["Stages"],
 		"requires": "|Inlaid Library|"
 	},
 	{
-		"name": "Clear Dairy Plant",
+		"name": "Survive 15 minutes in the Dairy Plant",
 		"category": ["Stages"],
 		"requires": "|Dairy Plant|"
 	},
 	{
-		"name": "Clear Gallo Tower",
+		"name": "Survive 15 minutes in Gallo Tower",
 		"category": ["Stages"],
 		"requires": "|Gallo Tower|"
 	},
 	{
-		"name": "Clear Capella Magna",
+		"name": "Survive 15 minutes in Capella Magna",
 		"category": ["Stages"],
 		"requires": "|Capella Magna|"
 	},
 	{
-		"name": "Clear Il Molise",
+		"name": "Survive 15 minutes in Il Molise",
 		"category": ["Stages"],
 		"requires": "|Il Molise|"
 	},
 	{
-		"name": "Clear Moonglow",
+		"name": "Survive 15 minutes in the Moonglow",
 		"category": ["Stages"],
 		"requires": "|Moonglow|"
 	},
 	{
-		"name": "Clear Green Acres",
+		"name": "Survive 15 minutes in Green Acres",
 		"category": ["Stages"],
 		"requires": "|Green Acres|"
 	},
 	{
-		"name": "Clear The Bone Zone",
+		"name": "Survive 15 minutes in The Bone Zone",
 		"category": ["Stages"],
 		"requires": "|The Bone Zone|"
 	},
 	{
-		"name": "Clear Boss Rash",
+		"name": "Survive 15 minutes in the Boss Rash",
 		"category": ["Stages"],
 		"requires": "|Boss Rash|"
 	},
 	{
-		"name": "Clear Whiteout",
+		"name": "Survive 15 minutes in Whiteout",
 		"category": ["Stages"],
 		"requires": "|Whiteout|"
 	},
 	{
-		"name": "Clear Space 54",
+		"name": "Survive 15 minutes in Space 54",
 		"category": ["Stages"],
 		"requires": "|Space 54|"
 	},
 	{
-		"name": "Clear Bat Country",
+		"name": "Survive 15 minutes in Bat Country",
 		"category": ["Stages"],
 		"requires": "|Bat Country|"
 	},
 	{
-		"name": "Clear Astral Stair",
+		"name": "Survive 15 minutes in the Astral Stair",
 		"category": ["Stages"],
 		"requires": "|Astral Stair|"
 	},
 	{
-		"name": "Clear Tiny Bridge",
+		"name": "Survive 15 minutes in the Tiny Bridge",
 		"category": ["Stages"],
 		"requires": "|Tiny Bridge|"
 	},
 	{
-		"name": "Clear Mt. Moonspell",
+		"name": "Survive 15 minutes in Mt. Moonspell",
 		"category": ["Stages"],
 		"requires": "|Mt. Moonspell|"
 	},
 	{
-		"name": "Clear Lake Foscari",
+		"name": "Survive 15 minutes in Lake Foscari",
 		"category": ["Stages"],
 		"requires": "|Lake Foscari|"
 	},
 	{
-		"name": "Clear Abyss Foscari",
+		"name": "Survive 15 minutes in Abyss Foscari",
 		"category": ["Stages"],
 		"requires": "|Abyss Foscari|"
 	},
 	{
-		"name": "Clear Polus Replica",
+		"name": "Survive 15 minutes in Polus Replica",
 		"category": ["Stages"],
 		"requires": "|Polus Replica|"
 	},
@@ -918,6 +918,11 @@
 		"name": "Three Arcana at once!",
 		"category": ["Inventory"],
 		"requires": "|@Arcana:3|"
+	},
+	{
+		"name": "Baby, don't fear the Reaper! (Collect both Rings and Metaglios)",
+		"category": ["Inventory"],
+		"requires": "|Silver Ring| AND |Gold Ring| AND |Metaglio Left| AND |Metaglio Right|"
 	},
 	{
 		"name": "Kill The Reaper",
