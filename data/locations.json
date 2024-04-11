@@ -1,227 +1,182 @@
 [
 	{
 		"name": "Evolution: Bloody Tear",
-		"requires": "|Whip| AND |Hollow Heart|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Holy Wand",
-		"requires": "|Magic Wand| AND |Empty Tome|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Thousand Edge",
-		"requires": "|Knife| AND |Bracer|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Death Spiral",
-		"requires": "|Axe| AND |Candelabrador|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Heaven Sword",
-		"requires": "|Cross| AND |Clover|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Unholy Vespers",
-		"requires": "|King Bible| AND |Spellbinder|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Hellfire",
-		"requires": "|Fire Wand| AND |Spinach|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Soul Eater",
-		"requires": "|Garlic| AND |Pummarola|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: La Borra",
-		"requires": "|Santa Water| AND |Attractorb|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: NO FUTURE",
-		"requires": "|Runetracer| AND |Armor|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Thunder Loop",
-		"requires": "|Lightning Ring| AND |Duplicator|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Gorgeous Moon",
-		"requires": "|Pentagram| AND |Crown|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Vicious Hunger",
-		"requires": "|Gatti Amari| AND |Stone Mask|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Mannajja",
-		"requires": "|Song of Mana| AND |Skull O'Maniac|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Valkryie Turner",
-		"requires": "|Shadow Pinion| AND |Wings|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Celestial Voulge",
-		"requires": "|Glass Fandango| AND |Wings|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Infinite Corridor",
-		"requires": "|Clock Lancet| AND |Silver Ring| AND |Gold Ring|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Crimson Shroud",
-		"requires": "|Laurel| AND |Metaglio Left| AND |Metaglio Right|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Bi-Bracelet",
-		"requires": "|Bracelet|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Tri-Bracelet",
-		"requires": "|Bracelet|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Ashes of Muspell",
-		"requires": "|Flames of Misspell| AND |Torrona's Box|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Festive Winds",
-		"requires": "|Silver Wind| AND |Pummarola|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Godai Shuffle",
-		"requires": "|Four Seasons| AND |Spinach| AND |Candelabrador|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Echo Night",
-		"requires": "|Summon Night| AND |Duplicator|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: J'Odore",
-		"requires": "|Mirage Robe| AND |Attractorb|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Muramasa",
-		"requires": "|Night Sword| AND |Stone Mask|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Boo Roo Boolle",
-		"requires": "|Mille Bolle Blu| AND |Spellbinder|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Legionnaire",
-		"requires": "|Eskizzibur| AND |Armor|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Millionaire",
-		"requires": "|Flash Arrow| AND |Bracer| AND |Clover|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Luminaire",
-		"requires": "|Prismatic Missile| AND |Crown|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Ophion",
-		"requires": "|Shadow Servant| AND |Skull O'Maniac|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Mazo Familiar",
-		"requires": "|Pako Battiliar| AND |Hollow Heart|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Photonstorm",
-		"requires": "|Phas3r| AND |Empty Tome|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Emergency Meeting",
-		"requires": "|Report!|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Crossed Wires",
-		"requires": "|Lucky Swipe|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Paranormal Scan",
-		"requires": "|Lifesign Scan|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Unjust Ejection",
-		"requires": "|Just Vent|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Clear Asteroids",
-		"requires": "|Clear Debris|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Impostongue",
-		"requires": "|Sharp Tongue|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Evolution: Rocket Science",
-		"requires": "|Science Rocks|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Gift: Sole Solution",
-		"requires": "|Victory Sword| AND |Torrona's Box|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Union: SpellStrom",
-		"requires": "|SpellString| AND |SpellStream| AND |SpellStrike|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Union: Vandalier",
-		"requires": "|Peachone| AND |Ebony Wings|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Union: Phieraggi",
-		"requires": "|Phiera Der Tuphello| AND |Eight the Sparrow| AND |Tiragisu|",
 		"category": ["Evolutions"]
 	},
 	{
 		"name": "Union: Fuwalafuwaloo",
-		"requires": "|Vento Sacro| AND |Whip| AND |Hollow Heart|",
 		"category": ["Evolutions"]
 	},
 	{
@@ -375,29 +330,29 @@
 		"requires": "|Il Molise|"
 	},	
 	{
-		"name": "Moonglow Chest 1",
+		"name": "Moongolow Chest 1",
 		"category": ["Chests"],
-		"requires": "|Moonglow|"
+		"requires": "|Moongolow|"
 	},
 	{
-		"name": "Moonglow Chest 2",
+		"name": "Moongolow Chest 2",
 		"category": ["Chests"],
-		"requires": "|Moonglow|"
+		"requires": "|Moongolow|"
 	},
 	{
-		"name": "Moonglow Chest 3",
+		"name": "Moongolow Chest 3",
 		"category": ["Chests"],
-		"requires": "|Moonglow|"
+		"requires": "|Moongolow|"
 	},
 	{
-		"name": "Moonglow Chest 4",
+		"name": "Moongolow Chest 4",
 		"category": ["Chests"],
-		"requires": "|Moonglow|"
+		"requires": "|Moongolow|"
 	},
 	{
-		"name": "Moonglow Chest 5",
+		"name": "Moongolow Chest 5",
 		"category": ["Chests"],
-		"requires": "|Moonglow|"
+		"requires": "|Moongolow|"
 	},
 	{
 		"name": "Green Acres Chest 1",
@@ -700,54 +655,54 @@
 		"requires": "|Polus Replica|"
 	},
 	{
+		"name": "Laborratory Chest 1",
+		"category": ["Chests"],
+		"requires": "|Laborratory|"
+	},
+	{
+		"name": "Laborratory Chest 2",
+		"category": ["Chests"],
+		"requires": "|Laborratory|"
+	},
+	{
+		"name": "Laborratory Chest 3",
+		"category": ["Chests"],
+		"requires": "|Laborratory|"
+	},
+	{
+		"name": "Laborratory Chest 4",
+		"category": ["Chests"],
+		"requires": "|Laborratory|"
+	},
+	{
+		"name": "Laborratory Chest 5",
+		"category": ["Chests"],
+		"requires": "|Laborratory|"
+	},
+	{
 		"name": "Arcana Chest 1",
 		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
+		"requires": "|Arcana Mode|"
 	},
 	{
 		"name": "Arcana Chest 2",
 		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
+		"requires": "|Arcana Mode|"
 	},
 	{
 		"name": "Arcana Chest 3",
 		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
+		"requires": "|Arcana Mode|"
 	},
 	{
 		"name": "Arcana Chest 4",
 		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
+		"requires": "|Arcana Mode|"
 	},
 	{
 		"name": "Arcana Chest 5",
 		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 6",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 7",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 8",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 9",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 10",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
+		"requires": "|Arcana Mode|"
 	},
 	{
 		"name": "Pick up a Rosary",
@@ -820,9 +775,9 @@
 		"requires": "|Il Molise|"
 	},
 	{
-		"name": "Survive 15 minutes in the Moonglow",
+		"name": "Survive 15 minutes in the Moongolow",
 		"category": ["Stages"],
-		"requires": "|Moonglow|"
+		"requires": "|Moongolow|"
 	},
 	{
 		"name": "Survive 15 minutes in Green Acres",
@@ -901,23 +856,20 @@
 	},
 	{
 		"name": "Six weapons at once!",
-		"category": ["Inventory"],
-		"requires": "|@Weapons:6|"
+		"category": ["Inventory"]
 	},
 	{
 		"name": "Six items at once!",
-		"category": ["Inventory"],
-		"requires": "|@Accessories:6|"
+		"category": ["Inventory"]
 	},
 	{
 		"name": "All slots full!",
-		"category": ["Inventory"],
-		"requires": "|@Weapons:6| AND |@Accessories:6|"
+		"category": ["Inventory"]
 	},
 	{
 		"name": "Three Arcana at once!",
 		"category": ["Inventory"],
-		"requires": "|@Arcana:3|"
+		"requires": "|Arcana Mode|"
 	},
 	{
 		"name": "Baby, don't fear the Reaper! (Collect both Rings and Metaglios)",
@@ -926,7 +878,7 @@
 	},
 	{
 		"name": "Kill The Reaper",
-		"requires": "( |Clock Lancet| AND |Silver Ring| AND |Gold Ring| ) OR ( |Laurel| AND |Metaglio Left| AND |Metaglio Right| )",
+		"requires": "(|Silver Ring| AND |Gold Ring|) OR (|Metaglio Left| AND |Metaglio Right|)",
 		"victory": true,
 		"category": ["Victory"]
 	}
