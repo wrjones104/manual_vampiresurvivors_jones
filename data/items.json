@@ -36,7 +36,7 @@
 		"progression": true
 	},
 	{
-		"name": "Moonglow",
+		"name": "Moongolow",
 		"category": ["Stages"],
 		"count":1,
 		"progression": true
@@ -91,25 +91,49 @@
 	},
 	{
 		"name": "Mt. Moonspell",
-		"category": ["Stages"],
+		"category": ["Stages", "Legacy of the Moonspell DLC"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "Lake Foscari",
-		"category": ["Stages"],
+		"category": ["Stages", "Tides of the Foscari DLC"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "Abyss Foscari",
-		"category": ["Stages"],
+		"category": ["Stages", "Tides of the Foscari DLC"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "Polus Replica",
+		"category": ["Stages", "Emergency Meeting DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Laborratory",
 		"category": ["Stages"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Carlo Cart",
+		"category": ["Stages"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Neo Galuga",
+		"category": ["Stages", "Operation Guns DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Hectic Highway",
+		"category": ["Stages", "Operation Guns DLC"],
 		"count":1,
 		"progression": true
 	},
@@ -265,79 +289,79 @@
 	},
 	{
 		"name": "Silver Wind",
-		"category": ["Weapons"],
+		"category": ["Weapons", "Legacy of the Moonspell DLC"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "Four Seasons",
-		"category": ["Weapons"],
+		"category": ["Weapons", "Legacy of the Moonspell DLC"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "Summon Night",
-		"category": ["Weapons"],
+		"category": ["Weapons", "Legacy of the Moonspell DLC"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "Mirage Robe",
-		"category": ["Weapons"],
+		"category": ["Weapons", "Legacy of the Moonspell DLC"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "Mille Bolle Blu",
-		"category": ["Weapons"],
+		"category": ["Weapons", "Legacy of the Moonspell DLC"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "Night Sword",
-		"category": ["Weapons"],
+		"category": ["Weapons", "Legacy of the Moonspell DLC"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "SpellString",
-		"category": ["Weapons"],
+		"category": ["Weapons", "Tides of the Foscari DLC"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "SpellStream",
-		"category": ["Weapons"],
+		"category": ["Weapons", "Tides of the Foscari DLC"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "SpellStrike",
-		"category": ["Weapons"],
+		"category": ["Weapons", "Tides of the Foscari DLC"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "Flash Arrow",
-		"category": ["Weapons"],
+		"category": ["Weapons", "Tides of the Foscari DLC"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "Eskizzibur",
-		"category": ["Weapons"],
+		"category": ["Weapons", "Tides of the Foscari DLC"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "Prismatic Missile",
-		"category": ["Weapons"],
+		"category": ["Weapons", "Tides of the Foscari DLC"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "Shadow Servant",
-		"category": ["Weapons"],
+		"category": ["Weapons", "Tides of the Foscari DLC"],
 		"count":1,
 		"progression": true
 	},
@@ -361,49 +385,115 @@
 	},
 	{
 		"name": "Report!",
-		"category": ["Weapons"],
+		"category": ["Weapons", "Emergency Meeting DLC"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "Lucky Swipe",
-		"category": ["Weapons"],
+		"category": ["Weapons", "Emergency Meeting DLC"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "Lifesign Scan",
-		"category": ["Weapons"],
+		"category": ["Weapons", "Emergency Meeting DLC"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "Just Vent",
-		"category": ["Weapons"],
+		"category": ["Weapons", "Emergency Meeting DLC"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "Clear Debris",
-		"category": ["Weapons"],
+		"category": ["Weapons", "Emergency Meeting DLC"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "Sharp Tongue",
-		"category": ["Weapons"],
+		"category": ["Weapons", "Emergency Meeting DLC"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "Science Rocks",
-		"category": ["Weapons"],
+		"category": ["Weapons", "Emergency Meeting DLC"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "Hats",
-		"category": ["Weapons"],
+		"category": ["Weapons", "Emergency Meeting DLC"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "Short Gun",
+		"category": ["Weapons", "Operation Guns DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Long Gun",
+		"category": ["Weapons", "Operation Guns DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Spread Shot",
+		"category": ["Weapons", "Operation Guns DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "C-U-Laser",
+		"category": ["Weapons", "Operation Guns DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Firearm",
+		"category": ["Weapons", "Operation Guns DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Sonic Bloom",
+		"category": ["Weapons", "Operation Guns DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Homing Miss",
+		"category": ["Weapons", "Operation Guns DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Diver Mines",
+		"category": ["Weapons", "Operation Guns DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Blade Crossbow",
+		"category": ["Weapons", "Operation Guns DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Prism Lass",
+		"category": ["Weapons", "Operation Guns DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Metal Claw",
+		"category": ["Weapons", "Operation Guns DLC"],
 		"count":1,
 		"progression": true
 	},
@@ -445,7 +535,19 @@
 	},
 	{
 		"name": "108 Bocce",
+		"category": ["Weapons", "Legacy of the Moonspell DLC"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "Santa Javelin",
 		"category": ["Weapons"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "Party Popper",
+		"category": ["Weapons", "Tides of the Foscari DLC"],
 		"count":1,
 		"useful": true
 	},
@@ -577,7 +679,7 @@
 	},
 	{
 		"name": "Academy Badge",
-		"category": ["Accessories"],
+		"category": ["Accessories", "Tides of the Foscari DLC"],
 		"count":1,
 		"useful": true
 	},
@@ -862,5 +964,503 @@
 		"category": ["Modes"],
 		"count":1,
 		"useful": true
+	},
+	{
+		"name": "Antonio Belpaese",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Imelda Belpaese",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Pasqualina Belpaese",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Gennaro Belpaese",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Arca Ladonna",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Porta Ladonna",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Lama Ladonna",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Poe Ratcho",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Suor Clerici",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Dommario",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Krochi Freetto",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Christine Davain",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Pugnala Provola",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Giovanna Grana",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Poppea Pecorina",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Concetta Caciotta",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Mortaccio",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Yatta Cavallo",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Bianca Ramba",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "O'Sole Meeo",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Sir Ambrojoe",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Iguana Gallo Valletto",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Divano Thelma",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Zi'Assunta Belpaese",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Exdash Exiviiq",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Toastie",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Avatar Infernas",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Big Trouser",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Gyorunton",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Bat Robbert",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "She-Moon Eeta",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Santa Ladonna",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Space Dude",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Miang Moonspell",
+		"category": ["Characters", "Legacy of the Moonspell DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Menya Moonspell",
+		"category": ["Characters", "Legacy of the Moonspell DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Syuuto Moonspell",
+		"category": ["Characters", "Legacy of the Moonspell DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Babi-Onna",
+		"category": ["Characters", "Legacy of the Moonspell DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "McCoy-Oni",
+		"category": ["Characters", "Legacy of the Moonspell DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Megalo Syuuto Moonspell",
+		"category": ["Characters", "Legacy of the Moonspell DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Gav'Et-Oni",
+		"category": ["Characters", "Legacy of the Moonspell DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Eleanor Uziron",
+		"category": ["Characters", "Tides of the Foscari DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Maruto Cuts",
+		"category": ["Characters", "Tides of the Foscari DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Keitha Muort",
+		"category": ["Characters", "Tides of the Foscari DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Luminaire Foscari",
+		"category": ["Characters", "Tides of the Foscari DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Genevieve Gruyere",
+		"category": ["Characters", "Tides of the Foscari DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Rottin' Ghoul",
+		"category": ["Characters", "Tides of the Foscari DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Crewmate Dino",
+		"category": ["Characters", "Emergency Meeting DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Engineer Gino",
+		"category": ["Characters", "Emergency Meeting DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Ghost Lino",
+		"category": ["Characters", "Emergency Meeting DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Shapeshifter Nino",
+		"category": ["Characters", "Emergency Meeting DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Guardian Pina",
+		"category": ["Characters", "Emergency Meeting DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Imposter Rina",
+		"category": ["Characters", "Emergency Meeting DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Scientist Mina",
+		"category": ["Characters", "Emergency Meeting DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Horse",
+		"category": ["Characters", "Emergency Meeting DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Bill Rizer",
+		"category": ["Characters", "Operation Guns DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Lance Bean",
+		"category": ["Characters", "Operation Guns DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Ariana",
+		"category": ["Characters", "Operation Guns DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Lucia Zero",
+		"category": ["Characters", "Operation Guns DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Brad Fang",
+		"category": ["Characters", "Operation Guns DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Browny",
+		"category": ["Characters", "Operation Guns DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Sheena Etranzi",
+		"category": ["Characters", "Operation Guns DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Probotector",
+		"category": ["Characters", "Operation Guns DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Stanley",
+		"category": ["Characters", "Operation Guns DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Newt Plissken",
+		"category": ["Characters", "Operation Guns DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Colonel Bahamut",
+		"category": ["Characters", "Operation Guns DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Simondo Belmont",
+		"category": ["Characters", "Operation Guns DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Marrabbio",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Minnah Mannarah",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Leda",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Cosmo Pavone",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Peppino",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "MissingNo",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Gains Boros",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Mask of the Red Death",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Scorej-Oni",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Je-Ne-Viv",
+		"category": ["Characters", "Tides of the Foscari DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Sammy",
+		"category": ["Characters","Tides of the Foscari DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Rose De Infernas",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Megalo Imposter Rina",
+		"category": ["Characters", "Emergency Meeting DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Random",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Gyoruntin",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Smith IV",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Progressive Weapon Slot",
+		"category": ["Powerups"],
+		"count": 5,
+		"progression": true
 	}
 ]

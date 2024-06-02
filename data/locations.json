@@ -107,52 +107,52 @@
 	{
 		"name": "Evolution: Festive Winds",
 		"requires": "|Silver Wind| AND |Pummarola|",
-		"category": ["Evolutions"]
+		"category": ["Evolutions", "Legacy of the Moonspell DLC"]
 	},
 	{
 		"name": "Evolution: Godai Shuffle",
 		"requires": "|Four Seasons| AND |Spinach| AND |Candelabrador|",
-		"category": ["Evolutions"]
+		"category": ["Evolutions", "Legacy of the Moonspell DLC"]
 	},
 	{
 		"name": "Evolution: Echo Night",
 		"requires": "|Summon Night| AND |Duplicator|",
-		"category": ["Evolutions"]
+		"category": ["Evolutions", "Legacy of the Moonspell DLC"]
 	},
 	{
 		"name": "Evolution: J'Odore",
 		"requires": "|Mirage Robe| AND |Attractorb|",
-		"category": ["Evolutions"]
+		"category": ["Evolutions", "Legacy of the Moonspell DLC"]
 	},
 	{
 		"name": "Evolution: Muramasa",
 		"requires": "|Night Sword| AND |Stone Mask|",
-		"category": ["Evolutions"]
+		"category": ["Evolutions", "Legacy of the Moonspell DLC"]
 	},
 	{
 		"name": "Evolution: Boo Roo Boolle",
 		"requires": "|Mille Bolle Blu| AND |Spellbinder|",
-		"category": ["Evolutions"]
+		"category": ["Evolutions", "Legacy of the Moonspell DLC"]
 	},
 	{
 		"name": "Evolution: Legionnaire",
 		"requires": "|Eskizzibur| AND |Armor|",
-		"category": ["Evolutions"]
+		"category": ["Evolutions", "Legacy of the Moonspell DLC"]
 	},
 	{
 		"name": "Evolution: Millionaire",
 		"requires": "|Flash Arrow| AND |Bracer| AND |Clover|",
-		"category": ["Evolutions"]
+		"category": ["Evolutions", "Tides of the Foscari DLC"]
 	},
 	{
 		"name": "Evolution: Luminaire",
 		"requires": "|Prismatic Missile| AND |Crown|",
-		"category": ["Evolutions"]
+		"category": ["Evolutions", "Tides of the Foscari DLC"]
 	},
 	{
 		"name": "Evolution: Ophion",
 		"requires": "|Shadow Servant| AND |Skull O'Maniac|",
-		"category": ["Evolutions"]
+		"category": ["Evolutions", "Tides of the Foscari DLC"]
 	},
 	{
 		"name": "Evolution: Mazo Familiar",
@@ -167,37 +167,92 @@
 	{
 		"name": "Evolution: Emergency Meeting",
 		"requires": "|Report!|",
-		"category": ["Evolutions"]
+		"category": ["Evolutions", "Emergency Meeting DLC"]
 	},
 	{
 		"name": "Evolution: Crossed Wires",
 		"requires": "|Lucky Swipe|",
-		"category": ["Evolutions"]
+		"category": ["Evolutions", "Emergency Meeting DLC"]
 	},
 	{
 		"name": "Evolution: Paranormal Scan",
 		"requires": "|Lifesign Scan|",
-		"category": ["Evolutions"]
+		"category": ["Evolutions", "Emergency Meeting DLC"]
 	},
 	{
 		"name": "Evolution: Unjust Ejection",
 		"requires": "|Just Vent|",
-		"category": ["Evolutions"]
+		"category": ["Evolutions", "Emergency Meeting DLC"]
 	},
 	{
 		"name": "Evolution: Clear Asteroids",
 		"requires": "|Clear Debris|",
-		"category": ["Evolutions"]
+		"category": ["Evolutions", "Emergency Meeting DLC"]
 	},
 	{
 		"name": "Evolution: Impostongue",
 		"requires": "|Sharp Tongue|",
-		"category": ["Evolutions"]
+		"category": ["Evolutions", "Emergency Meeting DLC"]
 	},
 	{
 		"name": "Evolution: Rocket Science",
 		"requires": "|Science Rocks|",
-		"category": ["Evolutions"]
+		"category": ["Evolutions", "Emergency Meeting DLC"]
+	},
+	{
+		"name": "Evolution: Prototype A",
+		"requires": "|Long Gun|",
+		"category": ["Evolutions", "Operation Guns DLC"]
+	},
+	{
+		"name": "Evolution: Prototype B",
+		"requires": "|Short Gun| AND |Bracer|",
+		"category": ["Evolutions", "Operation Guns DLC"]
+	},
+	{
+		"name": "Evolution: Prototype C",
+		"requires": "|Spread Shot| AND |Empty Tome|",
+		"category": ["Evolutions", "Operation Guns DLC"]
+	},
+	{
+		"name": "Evolution: Pronto Beam",
+		"requires": "|C-U-Laser| AND |Tiragisu|",
+		"category": ["Evolutions", "Operation Guns DLC"]
+	},
+	{
+		"name": "Evolution: Fire-L3GS",
+		"requires": "|Firearm| AND |Candelabrador|",
+		"category": ["Evolutions", "Operation Guns DLC"]
+	},
+	{
+		"name": "Evolution: Wave Beam",
+		"requires": "|Sonic Bloom| AND |Armor|",
+		"category": ["Evolutions", "Operation Guns DLC"]
+	},
+	{
+		"name": "Evolution: Multistage Missile",
+		"requires": "|Homing Miss| AND |Duplicator|",
+		"category": ["Evolutions", "Operation Guns DLC"]
+	},
+	{
+		"name": "Evolution: Atmo Torpedo",
+		"requires": "|Diver Mines| AND |Attractorb|",
+		"category": ["Evolutions", "Operation Guns DLC"]
+	},
+	{
+		"name": "Evolution: BFC2000-AD",
+		"requires": "|Blade Crossbow| AND |Clover|",
+		"category": ["Evolutions", "Operation Guns DLC"]
+	},
+	{
+		"name": "Evolution: Time Warp",
+		"requires": "|Prism Lass| AND |Wings|",
+		"category": ["Evolutions", "Operation Guns DLC"]
+	},
+	{
+		"name": "Evolution: Big Fuzzy Fist",
+		"requires": "|Metal Claw| AND |Hollow Heart|",
+		"category": ["Evolutions", "Operation Guns DLC"]
 	},
 	{
 		"name": "Gift: Sole Solution",
@@ -207,7 +262,7 @@
 	{
 		"name": "Union: SpellStrom",
 		"requires": "|SpellString| AND |SpellStream| AND |SpellStrike|",
-		"category": ["Evolutions"]
+		"category": ["Evolutions", "Tides of the Foscari DLC"]
 	},
 	{
 		"name": "Union: Vandalier",
@@ -375,29 +430,29 @@
 		"requires": "|Il Molise|"
 	},	
 	{
-		"name": "Moonglow Chest 1",
+		"name": "Moongolow Chest 1",
 		"category": ["Chests"],
-		"requires": "|Moonglow|"
+		"requires": "|Moongolow|"
 	},
 	{
-		"name": "Moonglow Chest 2",
+		"name": "Moongolow Chest 2",
 		"category": ["Chests"],
-		"requires": "|Moonglow|"
+		"requires": "|Moongolow|"
 	},
 	{
-		"name": "Moonglow Chest 3",
+		"name": "Moongolow Chest 3",
 		"category": ["Chests"],
-		"requires": "|Moonglow|"
+		"requires": "|Moongolow|"
 	},
 	{
-		"name": "Moonglow Chest 4",
+		"name": "Moongolow Chest 4",
 		"category": ["Chests"],
-		"requires": "|Moonglow|"
+		"requires": "|Moongolow|"
 	},
 	{
-		"name": "Moonglow Chest 5",
+		"name": "Moongolow Chest 5",
 		"category": ["Chests"],
-		"requires": "|Moonglow|"
+		"requires": "|Moongolow|"
 	},
 	{
 		"name": "Green Acres Chest 1",
@@ -600,103 +655,203 @@
 		"requires": "|Tiny Bridge|"
 	},
 	{
-		"name": "Mt. Moonspell Chest 1",
+		"name": "Laborratory Chest 1",
 		"category": ["Chests"],
+		"requires": "|Laborratory|"
+	},
+	{
+		"name": "Laborratory Chest 2",
+		"category": ["Chests"],
+		"requires": "|Laborratory|"
+	},
+	{
+		"name": "Laborratory Chest 3",
+		"category": ["Chests"],
+		"requires": "|Laborratory|"
+	},
+	{
+		"name": "Laborratory Chest 4",
+		"category": ["Chests"],
+		"requires": "|Laborratory|"
+	},
+	{
+		"name": "Laborratory Chest 5",
+		"category": ["Chests"],
+		"requires": "|Laborratory|"
+	},
+	{
+		"name": "Carlo Cart Chest 1",
+		"category": ["Chests"],
+		"requires": "|Carlo Cart|"
+	},
+	{
+		"name": "Carlo Cart Chest 2",
+		"category": ["Chests"],
+		"requires": "|Carlo Cart|"
+	},
+	{
+		"name": "Carlo Cart Chest 3",
+		"category": ["Chests"],
+		"requires": "|Carlo Cart|"
+	},
+	{
+		"name": "Carlo Cart Chest 4",
+		"category": ["Chests"],
+		"requires": "|Carlo Cart|"
+	},
+	{
+		"name": "Carlo Cart Chest 5",
+		"category": ["Chests"],
+		"requires": "|Carlo Cart|"
+	},
+	{
+		"name": "Neo Galuga Chest 1",
+		"category": ["Chests", "Operation Guns DLC"],
+		"requires": "|Neo Galuga|"
+	},
+	{
+		"name": "Neo Galuga Chest 2",
+		"category": ["Chests", "Operation Guns DLC"],
+		"requires": "|Neo Galuga|"
+	},
+	{
+		"name": "Neo Galuga Chest 3",
+		"category": ["Chests", "Operation Guns DLC"],
+		"requires": "|Neo Galuga|"
+	},
+	{
+		"name": "Neo Galuga Chest 4",
+		"category": ["Chests", "Operation Guns DLC"],
+		"requires": "|Neo Galuga|"
+	},
+	{
+		"name": "Neo Galuga Chest 5",
+		"category": ["Chests", "Operation Guns DLC"],
+		"requires": "|Neo Galuga|"
+	},
+	{
+		"name": "Hectic Highway Chest 1",
+		"category": ["Chests", "Operation Guns DLC"],
+		"requires": "|Hectic Highway|"
+	},
+	{
+		"name": "Hectic Highway Chest 2",
+		"category": ["Chests", "Operation Guns DLC"],
+		"requires": "|Hectic Highway|"
+	},
+	{
+		"name": "Hectic Highway Chest 3",
+		"category": ["Chests", "Operation Guns DLC"],
+		"requires": "|Hectic Highway|"
+	},
+	{
+		"name": "Hectic Highway Chest 4",
+		"category": ["Chests", "Operation Guns DLC"],
+		"requires": "|Hectic Highway|"
+	},
+	{
+		"name": "Hectic Highway Chest 5",
+		"category": ["Chests", "Operation Guns DLC"],
+		"requires": "|Hectic Highway|"
+	},
+	{
+		"name": "Mt. Moonspell Chest 1",
+		"category": ["Chests", "Legacy of the Moonspell DLC"],
 		"requires": "|Mt. Moonspell|"
 	},
 	{
 		"name": "Mt. Moonspell Chest 2",
-		"category": ["Chests"],
+		"category": ["Chests", "Legacy of the Moonspell DLC"],
 		"requires": "|Mt. Moonspell|"
 	},
 	{
 		"name": "Mt. Moonspell Chest 3",
-		"category": ["Chests"],
+		"category": ["Chests", "Legacy of the Moonspell DLC"],
 		"requires": "|Mt. Moonspell|"
 	},
 	{
 		"name": "Mt. Moonspell Chest 4",
-		"category": ["Chests"],
+		"category": ["Chests", "Legacy of the Moonspell DLC"],
 		"requires": "|Mt. Moonspell|"
 	},
 	{
 		"name": "Mt. Moonspell Chest 5",
-		"category": ["Chests"],
+		"category": ["Chests", "Legacy of the Moonspell DLC"],
 		"requires": "|Mt. Moonspell|"
 	},
 	{
 		"name": "Lake Foscari Chest 1",
-		"category": ["Chests"],
+		"category": ["Chests", "Tides of the Foscari DLC"],
 		"requires": "|Lake Foscari|"
 	},
 	{
 		"name": "Lake Foscari Chest 2",
-		"category": ["Chests"],
+		"category": ["Chests", "Tides of the Foscari DLC"],
 		"requires": "|Lake Foscari|"
 	},
 	{
 		"name": "Lake Foscari Chest 3",
-		"category": ["Chests"],
+		"category": ["Chests", "Tides of the Foscari DLC"],
 		"requires": "|Lake Foscari|"
 	},
 	{
 		"name": "Lake Foscari Chest 4",
-		"category": ["Chests"],
+		"category": ["Chests", "Tides of the Foscari DLC"],
 		"requires": "|Lake Foscari|"
 	},
 	{
 		"name": "Lake Foscari Chest 5",
-		"category": ["Chests"],
+		"category": ["Chests", "Tides of the Foscari DLC"],
 		"requires": "|Lake Foscari|"
 	},
 	{
 		"name": "Abyss Foscari Chest 1",
-		"category": ["Chests"],
+		"category": ["Chests", "Tides of the Foscari DLC"],
 		"requires": "|Abyss Foscari|"
 	},
 	{
 		"name": "Abyss Foscari Chest 2",
-		"category": ["Chests"],
+		"category": ["Chests", "Tides of the Foscari DLC"],
 		"requires": "|Abyss Foscari|"
 	},
 	{
 		"name": "Abyss Foscari Chest 3",
-		"category": ["Chests"],
+		"category": ["Chests", "Tides of the Foscari DLC"],
 		"requires": "|Abyss Foscari|"
 	},
 	{
 		"name": "Abyss Foscari Chest 4",
-		"category": ["Chests"],
+		"category": ["Chests", "Tides of the Foscari DLC"],
 		"requires": "|Abyss Foscari|"
 	},
 	{
 		"name": "Abyss Foscari Chest 5",
-		"category": ["Chests"],
+		"category": ["Chests", "Tides of the Foscari DLC"],
 		"requires": "|Abyss Foscari|"
 	},
 	{
 		"name": "Polus Replica Chest 1",
-		"category": ["Chests"],
+		"category": ["Chests", "Emergency Meeting DLC"],
 		"requires": "|Polus Replica|"
 	},
 	{
 		"name": "Polus Replica Chest 2",
-		"category": ["Chests"],
+		"category": ["Chests", "Emergency Meeting DLC"],
 		"requires": "|Polus Replica|"
 	},
 	{
 		"name": "Polus Replica Chest 3",
-		"category": ["Chests"],
+		"category": ["Chests", "Emergency Meeting DLC"],
 		"requires": "|Polus Replica|"
 	},
 	{
 		"name": "Polus Replica Chest 4",
-		"category": ["Chests"],
+		"category": ["Chests", "Emergency Meeting DLC"],
 		"requires": "|Polus Replica|"
 	},
 	{
 		"name": "Polus Replica Chest 5",
-		"category": ["Chests"],
+		"category": ["Chests", "Emergency Meeting DLC"],
 		"requires": "|Polus Replica|"
 	},
 	{
@@ -790,119 +945,614 @@
 		"requires": "|Astral Stair| OR |Space 54|"
 	},
 	{
-		"name": "Survive 15 minutes in the Mad Forest",
+		"name": "Pick up a Weapon Power-Up",
+		"category": ["Pickups", "Operation Guns DLC"],
+		"requires": "|Neo Galuga| OR |Short Gun| OR |Long Gun| OR |Spread Shot| OR |C-U-Laser| OR |Firearm| OR |Sonic Bloom| OR |Homing Miss| OR |Diver Mines| OR |Blade Crossbow| OR |Prism Lass| OR |Metal Claw| OR |Bill Rizer| OR |Lance Bean| OR |Ariana| OR |Lucia Zero| OR |Brad Fang| OR |Browny| OR |Sheena Etranzi| OR |Probotector| OR |Stanley| OR |Newt Plissken| OR |Colonel Bahamut|"
+	},
+	{
+		"name": "Pick up a Rapid Fire",
+		"category": ["Pickups", "Operation Guns DLC"],
+		"requires": "|Neo Galuga| OR |Bill Rizer| OR |Lance Bean| OR |Ariana| OR |Lucia Zero| OR |Brad Fang| OR |Browny| OR |Sheena Etranzi| OR |Probotector| OR |Stanley| OR |Newt Plissken| OR |Colonel Bahamut|"
+	},
+	{
+		"name": "Pick up a Grenade",
+		"category": ["Pickups", "Operation Guns DLC"],
+		"requires": "|Neo Galuga| OR |Bill Rizer| OR |Lance Bean| OR |Ariana| OR |Lucia Zero| OR |Brad Fang| OR |Browny| OR |Sheena Etranzi| OR |Probotector| OR |Stanley| OR |Newt Plissken| OR |Colonel Bahamut|"
+	},
+	{
+		"name": "Pick up a Barrier",
+		"category": ["Pickups", "Operation Guns DLC"],
+		"requires": "|Neo Galuga| OR |Bill Rizer| OR |Lance Bean| OR |Ariana| OR |Lucia Zero| OR |Brad Fang| OR |Browny| OR |Sheena Etranzi| OR |Probotector| OR |Stanley| OR |Newt Plissken| OR |Colonel Bahamut|"
+	},
+	{
+		"name": "Survive Mad Forest",
 		"category": ["Stages"],
 		"requires": "|Mad Forest|"
 	},
 	{
-		"name": "Survive 15 minutes in the Inlaid Library",
+		"name": "Survive Inlaid Library",
 		"category": ["Stages"],
 		"requires": "|Inlaid Library|"
 	},
 	{
-		"name": "Survive 15 minutes in the Dairy Plant",
+		"name": "Survive Dairy Plant",
 		"category": ["Stages"],
 		"requires": "|Dairy Plant|"
 	},
 	{
-		"name": "Survive 15 minutes in Gallo Tower",
+		"name": "Survive Gallo Tower",
 		"category": ["Stages"],
 		"requires": "|Gallo Tower|"
 	},
 	{
-		"name": "Survive 15 minutes in Capella Magna",
+		"name": "Survive Capella Magna",
 		"category": ["Stages"],
 		"requires": "|Capella Magna|"
 	},
 	{
-		"name": "Survive 15 minutes in Il Molise",
+		"name": "Survive Il Molise",
 		"category": ["Stages"],
 		"requires": "|Il Molise|"
 	},
 	{
-		"name": "Survive 15 minutes in the Moonglow",
+		"name": "Survive Moongolow",
 		"category": ["Stages"],
-		"requires": "|Moonglow|"
+		"requires": "|Moongolow|"
 	},
 	{
-		"name": "Survive 15 minutes in Green Acres",
+		"name": "Survive Green Acres",
 		"category": ["Stages"],
 		"requires": "|Green Acres|"
 	},
 	{
-		"name": "Survive 15 minutes in The Bone Zone",
+		"name": "Survive The Bone Zone",
 		"category": ["Stages"],
 		"requires": "|The Bone Zone|"
 	},
 	{
-		"name": "Survive 15 minutes in the Boss Rash",
+		"name": "Survive Boss Rash",
 		"category": ["Stages"],
 		"requires": "|Boss Rash|"
 	},
 	{
-		"name": "Survive 15 minutes in Whiteout",
+		"name": "Survive Whiteout",
 		"category": ["Stages"],
 		"requires": "|Whiteout|"
 	},
 	{
-		"name": "Survive 15 minutes in Space 54",
+		"name": "Survive Space 54",
 		"category": ["Stages"],
 		"requires": "|Space 54|"
 	},
 	{
-		"name": "Survive 15 minutes in Bat Country",
+		"name": "Survive Bat Country",
 		"category": ["Stages"],
 		"requires": "|Bat Country|"
 	},
 	{
-		"name": "Survive 15 minutes in the Astral Stair",
+		"name": "Survive Astral Stair",
 		"category": ["Stages"],
 		"requires": "|Astral Stair|"
 	},
 	{
-		"name": "Survive 15 minutes in the Tiny Bridge",
+		"name": "Survive Tiny Bridge",
 		"category": ["Stages"],
 		"requires": "|Tiny Bridge|"
 	},
 	{
-		"name": "Survive 15 minutes in Mt. Moonspell",
-		"category": ["Stages"],
+		"name": "Survive Mt. Moonspell",
+		"category": ["Stages", "Legacy of the Moonspell DLC"],
 		"requires": "|Mt. Moonspell|"
 	},
 	{
-		"name": "Survive 15 minutes in Lake Foscari",
-		"category": ["Stages"],
+		"name": "Survive Lake Foscari",
+		"category": ["Stages", "Tides of the Foscari DLC"],
 		"requires": "|Lake Foscari|"
 	},
 	{
-		"name": "Survive 15 minutes in Abyss Foscari",
-		"category": ["Stages"],
+		"name": "Survive Abyss Foscari",
+		"category": ["Stages", "Tides of the Foscari DLC"],
 		"requires": "|Abyss Foscari|"
 	},
 	{
-		"name": "Survive 15 minutes in Polus Replica",
-		"category": ["Stages"],
+		"name": "Survive Polus Replica",
+		"category": ["Stages","Emergency Meeting DLC"],
 		"requires": "|Polus Replica|"
 	},
 	{
-		"name": "Clear a stage in Inverse Mode",
+		"name": "Survive Neo Galuga",
+		"category": ["Stages", "Operation Guns DLC"],
+		"requires": "|Neo Galuga|"
+	},
+	{
+		"name": "Survive Hectic Highway",
+		"category": ["Stages", "Operation Guns DLC"],
+		"requires": "|Hectic Highway|"
+	},
+	{
+		"name": "Survive a stage in Inverse Mode",
 		"category": ["Stages"],
 		"requires": "|Inverse Mode|"
 	},
 	{
-		"name": "Clear a stage in Hyper Mode",
+		"name": "Survive a stage in Hyper Mode",
 		"category": ["Stages"],
 		"requires": "|Hyper Mode|"
 	},
 	{
-		"name": "Clear a stage in Hurry Mode",
+		"name": "Survive a stage in Hurry Mode",
 		"category": ["Stages"],
 		"requires": "|Hurry Mode|"
 	},
 	{
+		"name": "Survive with Antonio Belpaese",
+		"category": ["Characters"],
+		"requires": "|Antonio Belpaese|"
+	},
+	{
+		"name": "Survive with Imelda Belpaese",
+		"category": ["Characters"],
+		"requires": "|Imelda Belpaese|"
+	},
+	{
+		"name": "Survive with Pasqualina Belpaese",
+		"category": ["Characters"],
+		"requires": "|Pasqualina Belpaese|"
+	},
+	{
+		"name": "Survive with Gennaro Belpaese",
+		"category": ["Characters"],
+		"requires": "|Gennaro Belpaese|"
+	},
+	{
+		"name": "Survive with Arca Ladonna",
+		"category": ["Characters"],
+		"requires": "|Arca Ladonna|"
+	},
+	{
+		"name": "Survive with Porta Ladonna",
+		"category": ["Characters"],
+		"requires": "|Porta Ladonna|"
+	},
+	{
+		"name": "Survive with Lama Ladonna",
+		"category": ["Characters"],
+		"requires": "|Lama Ladonna|"
+	},
+	{
+		"name": "Survive with Poe Ratcho",
+		"category": ["Characters"],
+		"requires": "|Poe Ratcho|"
+	},
+	{
+		"name": "Survive with Suor Clerici",
+		"category": ["Characters"],
+		"requires": "|Suor Clerici|"
+	},
+	{
+		"name": "Survive with Dommario",
+		"category": ["Characters"],
+		"requires": "|Dommario|"
+	},
+	{
+		"name": "Survive with Krochi Freetto",
+		"category": ["Characters"],
+		"requires": "|Krochi Freetto|"
+	},
+	{
+		"name": "Survive with Christine Davain",
+		"category": ["Characters"],
+		"requires": "|Christine Davain|"
+	},
+	{
+		"name": "Survive with Pugnala Provola",
+		"category": ["Characters"],
+		"requires": "|Pugnala Provola|"
+	},
+	{
+		"name": "Survive with Giovanna Grana",
+		"category": ["Characters"],
+		"requires": "|Giovanna Grana|"
+	},
+	{
+		"name": "Survive with Poppea Pecorina",
+		"category": ["Characters"],
+		"requires": "|Poppea Pecorina|"
+	},
+	{
+		"name": "Survive with Concetta Caciotta",
+		"category": ["Characters"],
+		"requires": "|Concetta Caciotta|"
+	},
+	{
+		"name": "Survive with Mortaccio",
+		"category": ["Characters"],
+		"requires": "|Mortaccio|"
+	},
+	{
+		"name": "Survive with Yatta Cavallo",
+		"category": ["Characters"],
+		"requires": "|Yatta Cavallo|"
+	},
+	{
+		"name": "Survive with Bianca Ramba",
+		"category": ["Characters"],
+		"requires": "|Bianca Ramba|"
+	},
+	{
+		"name": "Survive with O'Sole Meeo",
+		"category": ["Characters"],
+		"requires": "|O'Sole Meeo|"
+	},
+	{
+		"name": "Survive with Sir Ambrojoe",
+		"category": ["Characters"],
+		"requires": "|Sir Ambrojoe|"
+	},
+	{
+		"name": "Survive with Iguana Gallo Valletto",
+		"category": ["Characters"],
+		"requires": "|Iguana Gallo Valletto|"
+	},
+	{
+		"name": "Survive with Divano Thelma",
+		"category": ["Characters"],
+		"requires": "|Divano Thelma|"
+	},
+	{
+		"name": "Survive with Zi'Assunta Belpaese",
+		"category": ["Characters"],
+		"requires": "|Zi'Assunta Belpaese|"
+	},
+	{
+		"name": "Survive with Exdash Exiviiq",
+		"category": ["Characters"],
+		"requires": "|Exdash Exiviiq|"
+	},
+	{
+		"name": "Survive with Toastie",
+		"category": ["Characters"],
+		"requires": "|Toastie|"
+	},
+	{
+		"name": "Survive with Avatar Infernas",
+		"category": ["Characters"],
+		"requires": "|Avatar Infernas|"
+	},
+	{
+		"name": "Survive with Big Trouser",
+		"category": ["Characters"],
+		"requires": "|Big Trouser|"
+	},
+	{
+		"name": "Survive with Gyorunton",
+		"category": ["Characters"],
+		"requires": "|Gyorunton|"
+	},
+	{
+		"name": "Survive with Bat Robbert",
+		"category": ["Characters"],
+		"requires": "|Bat Robbert|"
+	},
+	{
+		"name": "Survive with She-Moon Eeta",
+		"category": ["Characters"],
+		"requires": "|She-Moon Eeta|"
+	},
+	{
+		"name": "Survive with Santa Ladonna",
+		"category": ["Characters"],
+		"requires": "|Santa Ladonna|"
+	},
+	{
+		"name": "Survive with Space Dude",
+		"category": ["Characters"],
+		"requires": "|Space Dude|"
+	},
+	{
+		"name": "Survive with Miang Moonspell",
+		"category": ["Characters", "Legacy of the Moonspell DLC"],
+		"requires": "|Miang Moonspell|"
+	},
+	{
+		"name": "Survive with Menya Moonspell",
+		"category": ["Characters", "Legacy of the Moonspell DLC"],
+		"requires": "|Menya Moonspell|"
+	},
+	{
+		"name": "Survive with Syuuto Moonspell",
+		"category": ["Characters", "Legacy of the Moonspell DLC"],
+		"requires": "|Syuuto Moonspell|"
+	},
+	{
+		"name": "Survive with Babi-Onna",
+		"category": ["Characters", "Legacy of the Moonspell DLC"],
+		"requires": "|Babi-Onna|"
+	},
+	{
+		"name": "Survive with McCoy-Oni",
+		"category": ["Characters", "Legacy of the Moonspell DLC"],
+		"requires": "|McCoy-Oni|"
+	},
+	{
+		"name": "Survive with Megalo Syuuto Moonspell",
+		"category": ["Characters", "Legacy of the Moonspell DLC"],
+		"requires": "|Megalo Syuuto Moonspell|"
+	},
+	{
+		"name": "Survive with Gav'Et-Oni",
+		"category": ["Characters", "Legacy of the Moonspell DLC"],
+		"requires": "|Gav'Et-Oni|"
+	},
+	{
+		"name": "Survive with Eleanor Uziron",
+		"category": ["Characters", "Tides of the Foscari DLC"],
+		"requires": "|Eleanor Uziron|"
+	},
+	{
+		"name": "Survive with Maruto Cuts",
+		"category": ["Characters", "Tides of the Foscari DLC"],
+		"requires": "|Maruto Cuts|"
+	},
+	{
+		"name": "Survive with Keitha Muort",
+		"category": ["Characters", "Tides of the Foscari DLC"],
+		"requires": "|Keitha Muort|"
+	},
+	{
+		"name": "Survive with Luminaire Foscari",
+		"category": ["Characters", "Tides of the Foscari DLC"],
+		"requires": "|Luminaire Foscari|"
+	},
+	{
+		"name": "Survive with Genevieve Gruyere",
+		"category": ["Characters", "Tides of the Foscari DLC"],
+		"requires": "|Genevieve Gruyere|"
+	},
+	{
+		"name": "Survive with Rottin' Ghoul",
+		"category": ["Characters", "Tides of the Foscari DLC"],
+		"requires": "|Rottin' Ghoul|"
+	},
+	{
+		"name": "Survive with Crewmate Dino",
+		"category": ["Characters", "Emergency Meeting DLC"],
+		"requires": "|Crewmate Dino|"
+	},
+	{
+		"name": "Survive with Engineer Gino",
+		"category": ["Characters", "Emergency Meeting DLC"],
+		"requires": "|Engineer Gino|"
+	},
+	{
+		"name": "Survive with Ghost Lino",
+		"category": ["Characters", "Emergency Meeting DLC"],
+		"requires": "|Ghost Lino|"
+	},
+	{
+		"name": "Survive with Shapeshifter Nino",
+		"category": ["Characters", "Emergency Meeting DLC"],
+		"requires": "|Shapeshifter Nino|"
+	},
+	{
+		"name": "Survive with Guardian Pina",
+		"category": ["Characters", "Emergency Meeting DLC"],
+		"requires": "|Guardian Pina|"
+	},
+	{
+		"name": "Survive with Imposter Rina",
+		"category": ["Characters", "Emergency Meeting DLC"],
+		"requires": "|Imposter Rina|"
+	},
+	{
+		"name": "Survive with Scientist Mina",
+		"category": ["Characters", "Emergency Meeting DLC"],
+		"requires": "|Scientist Mina|"
+	},
+	{
+		"name": "Survive with Horse",
+		"category": ["Characters", "Emergency Meeting DLC"],
+		"requires": "|Horse|"
+	},
+	{
+		"name": "Survive with Bill Rizer",
+		"category": ["Characters", "Operation Guns DLC"],
+		"requires": "|Bill Rizer|"
+	},
+	{
+		"name": "Survive with Lance Bean",
+		"category": ["Characters", "Operation Guns DLC"],
+		"requires": "|Lance Bean|"
+	},
+	{
+		"name": "Survive with Ariana",
+		"category": ["Characters", "Operation Guns DLC"],
+		"requires": "|Ariana|"
+	},
+	{
+		"name": "Survive with Lucia Zero",
+		"category": ["Characters", "Operation Guns DLC"],
+		"requires": "|Lucia Zero|"
+	},
+	{
+		"name": "Survive with Brad Fang",
+		"category": ["Characters", "Operation Guns DLC"],
+		"requires": "|Brad Fang|"
+	},
+	{
+		"name": "Survive with Browny",
+		"category": ["Characters", "Operation Guns DLC"],
+		"requires": "|Browny|"
+	},
+	{
+		"name": "Survive with Sheena Etranzi",
+		"category": ["Characters", "Operation Guns DLC"],
+		"requires": "|Sheena Etranzi|"
+	},
+	{
+		"name": "Survive with Probotector",
+		"category": ["Characters", "Operation Guns DLC"],
+		"requires": "|Probotector|"
+	},
+	{
+		"name": "Survive with Stanley",
+		"category": ["Characters", "Operation Guns DLC"],
+		"requires": "|Stanley|"
+	},
+	{
+		"name": "Survive with Newt Plissken",
+		"category": ["Characters", "Operation Guns DLC"],
+		"requires": "|Newt Plissken|"
+	},
+	{
+		"name": "Survive with Colonel Bahamut",
+		"category": ["Characters", "Operation Guns DLC"],
+		"requires": "|Colonel Bahamut|"
+	},
+	{
+		"name": "Survive with Simondo Belmont",
+		"category": ["Characters", "Operation Guns DLC"],
+		"requires": "|Simondo Belmont|"
+	},
+	{
+		"name": "Survive with Marrabbio",
+		"category": ["Characters"],
+		"requires": "|Marrabbio|"
+	},
+	{
+		"name": "Survive with Minnah Mannarah",
+		"category": ["Characters"],
+		"requires": "|Minnah Mannarah|"
+	},
+	{
+		"name": "Survive with Leda",
+		"category": ["Characters"],
+		"requires": "|Leda|"
+	},
+	{
+		"name": "Survive with Cosmo Pavone",
+		"category": ["Characters"],
+		"requires": "|Cosmo Pavone|"
+	},
+	{
+		"name": "Survive with Peppino",
+		"category": ["Characters"],
+		"requires": "|Peppino|"
+	},
+	{
+		"name": "Survive with MissingNo",
+		"category": ["Characters"],
+		"requires": "|MissingNo|"
+	},
+	{
+		"name": "Survive with Gains Boros",
+		"category": ["Characters"],
+		"requires": "|Gains Boros|"
+	},
+	{
+		"name": "Survive with Mask of the Red Death",
+		"category": ["Characters"],
+		"requires": "|Mask of the Red Death|"
+	},
+	{
+		"name": "Survive with Scorej-Oni",
+		"category": ["Characters"],
+		"requires": "|Scorej-Oni|"
+	},
+	{
+		"name": "Survive with Je-Ne-Viv",
+		"category": ["Characters", "Tides of the Foscari DLC"],
+		"requires": "|Je-Ne-Viv|"
+	},
+	{
+		"name": "Survive with Sammy",
+		"category": ["Characters", "Tides of the Foscari DLC"],
+		"requires": "|Sammy|"
+	},
+	{
+		"name": "Survive with Rose De Infernas",
+		"category": ["Characters"],
+		"requires": "|Rose De Infernas|"
+	},
+	{
+		"name": "Survive with Megalo Imposter Rina",
+		"category": ["Characters", "Emergency Meeting DLC"],
+		"requires": "|Megalo Imposter Rina|"
+	},
+	{
+		"name": "Survive with Random",
+		"category": ["Characters"],
+		"requires": "|Random|"
+	},
+	{
+		"name": "Survive with Gyoruntin",
+		"category": ["Characters"],
+		"requires": "|Gyoruntin|"
+	},
+	{
+		"name": "Survive with Smith IV",
+		"category": ["Characters"],
+		"requires": "|Smith IV|"
+	},
+	{
+		"name": "Hunt: Sketemari",
+		"category": ["Hunts"],
+		"requires": "|The Bone Zone|"
+	},
+	{
+		"name": "Hunt: Avatar of Gaea",
+		"category": ["Hunts", "Tides of the Foscari DLC"],
+		"requires": "|Lake Foscari|"
+	},
+	{
+		"name": "Hunt: Je-Ne-Viv",
+		"category": ["Hunts", "Tides of the Foscari DLC"],
+		"requires": "|Abyss Foscari|"
+	},
+	{
+		"name": "Hunt: Atlanteans",
+		"category": ["Hunts"],
+		"requires": []
+	},
+	{
+		"name": "Hunt: Lv. 128 Golden Bat",
+		"category": ["Hunts"],
+		"requires": "|Green Acres|"
+	},
+	{
+		"name": "Hunt: Tanuki",
+		"category": ["Hunts", "Legacy of the Moonspell DLC"],
+		"requires": "|Mt. Moonspell|"
+	},
+	{
+		"name": "Hunt: Goshadokuro",
+		"category": ["Hunts", "Legacy of the Moonspell DLC"],
+		"requires": "|Mt. Moonspell|"
+	},
+	{
+		"name": "Hunt: Leda",
+		"category": ["Hunts"],
+		"requires": "|Gallo Tower|"
+	},
+	{
+		"name": "Hunt: Scorej-Oni",
+		"category": ["Hunts"],
+		"requires": "|Tiny Bridge|"
+	},
+	{
+		"name": "Hunt: Avatar Infernas",
+		"category": ["Hunts"],
+		"requires": "|Inlaid Library| AND |Inverse Mode|"
+	},
+	{
+		"name": "Hunt: Sammy",
+		"category": ["Hunts", "Tides of the Foscari DLC"],
+		"requires": "|Lake Foscari|"
+	},
+	{
 		"name": "Six weapons at once!",
 		"category": ["Inventory"],
-		"requires": "|@Weapons:6|"
+		"requires": "|@Weapons:6| AND |Progressive Weapon Slot:5|"
 	},
 	{
 		"name": "Six items at once!",
@@ -912,7 +1562,7 @@
 	{
 		"name": "All slots full!",
 		"category": ["Inventory"],
-		"requires": "|@Weapons:6| AND |@Accessories:6|"
+		"requires": "|@Weapons:6| AND |@Accessories:6| AND |Progressive Weapon Slot:5|"
 	},
 	{
 		"name": "Three Arcana at once!",
@@ -920,13 +1570,8 @@
 		"requires": "|@Arcana:3|"
 	},
 	{
-		"name": "Baby, don't fear the Reaper! (Collect both Rings and Metaglios)",
-		"category": ["Inventory"],
-		"requires": "|Silver Ring| AND |Gold Ring| AND |Metaglio Left| AND |Metaglio Right|"
-	},
-	{
 		"name": "Kill The Reaper",
-		"requires": "( |Clock Lancet| AND |Silver Ring| AND |Gold Ring| ) OR ( |Laurel| AND |Metaglio Left| AND |Metaglio Right| )",
+		"requires": "((|Clock Lancet| OR |Iguana Gallo Valletto|) AND |Silver Ring| AND |Gold Ring|) AND ((|Laurel| OR |Divano Thelma|) AND |Metaglio Left| AND |Metaglio Right|)",
 		"victory": true,
 		"category": ["Victory"]
 	}

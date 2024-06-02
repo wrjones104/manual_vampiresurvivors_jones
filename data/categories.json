@@ -1,0 +1,21 @@
+{
+    "Characters": {
+        "yaml_option": ["charactersanity"]
+    },
+    "Legacy of the Moonspell DLC": {
+        "hidden": true,
+        "yaml_option": ["include_moonspell_dlc"]
+    },
+    "Tides of the Foscari DLC": {
+        "hidden": true,
+        "yaml_option": ["include_foscari_dlc"]
+    },
+    "Emergency Meeting DLC": {
+        "hidden": true,
+        "yaml_option": ["include_emergency_meeting_dlc"]
+    },
+    "Operation Guns DLC": {
+        "hidden": true,
+        "yaml_option": ["include_operation_guns_dlc"]
+    }
+}
