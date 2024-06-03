@@ -17,10 +17,10 @@
 # A. This is a .yaml file. You are allowed to use most characters.
 #    To test if your yaml is valid or not, you can use this website:
 #        http://www.yamllint.com/
-#    You can also verify your Archipelago settings are valid at this site:
+#    You can also verify that your Archipelago options are valid at this site:
 #        https://archipelago.gg/check
 
-# Your name in-game. Spaces will be replaced with underscores and there is a 16-character limit.
+# Your name in-game, limited to 16 characters.
 #     {player} will be replaced with the player's slot number.
 #     {PLAYER} will be replaced with the player's slot number, if that slot number is greater than 1.
 #     {number} will be replaced with the counter value of the name.
@@ -32,9 +32,10 @@ description: Default Manual_VampireSurvivors_Jones Template
 
 game: Manual_VampireSurvivors_Jones
 requires:
-  version: 0.4.3 # Version of Archipelago required for this yaml to work as expected.
+  version: 0.5.0 # Version of Archipelago required for this yaml to work as expected.
 
 Manual_VampireSurvivors_Jones:
+  # Game Options
   progression_balancing:
     # A system that can move progression earlier, to try and prevent the player from getting stuck and bored early.
     # A lower setting means more getting stuck. A higher setting means less getting stuck.
@@ -58,6 +59,43 @@ Manual_VampireSurvivors_Jones:
     items: 50
     minimal: 0
 
+  charactersanity:
+    # Adds all characters to the item pool as well as a location check for each.
+    false: 50
+    true: 0
+
+  include_moonspell_dlc:
+    # Whether or not the Legacy of the Moonspell DLC is included.
+    false: 0
+    true: 50
+
+  include_foscari_dlc:
+    # Whether or not the Tides of the Foscari DLC is included.
+    false: 0
+    true: 50
+
+  include_emergency_meeting_dlc:
+    # Whether or not the Emergency Meeting DLC is included.
+    false: 0
+    true: 50
+
+  include_operation_guns_dlc:
+    # Whether or not the Operation Guns DLC is included.
+    false: 0
+    true: 50
+
+  filler_traps:
+    # How many fillers will be replaced with traps. 0 means no additional traps, 100 means all fillers are traps.
+    #
+    # You can define additional values between the minimum and maximum values.
+    # Minimum value is 0
+    # Maximum value is 100
+    0: 50
+    random: 0
+    random-low: 0
+    random-high: 0
+
+  # Item & Location Options
   local_items:
     # Forces these items to be in their native world.
     []
