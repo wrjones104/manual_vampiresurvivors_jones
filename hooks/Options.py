@@ -26,17 +26,17 @@ from ..Helpers import is_option_enabled, get_option_value
 # To add an option, use the before_options_defined hook below and something like this:
 #   options["total_characters_to_win_with"] = TotalCharactersToWinWith
 #
-class TotalCharactersToWinWith(Range):
-    """Instead of having to beat the game with all characters, you can limit locations to a subset of character victory locations."""
-    display_name = "Number of characters to beat the game with before victory"
-    range_start = 10
-    range_end = 50
-    default = 50
+class WeaponSlots(Range):
+    """Set how many weapon slots to start with. There are 6 slots total, and any remaining slots above this choice will be added to the item pool."""
+    display_name = "Number of starting weapon slots"
+    range_start = 1
+    range_end = 6
+    default = 3
 
 class Charactersanity(Toggle):
     """Adds all characters to the item pool as well as a location check for each."""
     display_name = "Charactersanity"
-    default = True
+    default = False
 
 class IncludeOperationGunsDLC(Toggle):
     """Whether or not the Operation Guns DLC is included."""
@@ -61,6 +61,7 @@ class IncludeFoscariDLC(Toggle):
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
+    options["starting_weapon_slots"] = WeaponSlots
     options["charactersanity"] = Charactersanity
     options["include_moonspell_dlc"] = IncludeMoonspellDLC
     options["include_foscari_dlc"] = IncludeFoscariDLC

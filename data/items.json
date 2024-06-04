@@ -1458,9 +1458,9 @@
 		"progression": true
 	},
 	{
-		"name": "Progressive Weapon Slot",
+		"name": "Weapon Slot",
 		"category": ["Powerups"],
-		"count": 5,
+		"count": 6,
 		"progression": true
 	}
 ]

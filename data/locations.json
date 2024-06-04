@@ -1550,9 +1550,14 @@
 		"requires": "|Lake Foscari|"
 	},
 	{
+		"name": "Hunt: Cosmic Egg",
+		"category": ["Hunts"],
+		"requires": "|Astral Stair|"
+	},
+	{
 		"name": "Six weapons at once!",
 		"category": ["Inventory"],
-		"requires": "|@Weapons:6| AND |Progressive Weapon Slot:5|"
+		"requires": "|@Weapons:6| AND |Weapon Slot:6|"
 	},
 	{
 		"name": "Six items at once!",
@@ -1562,7 +1567,7 @@
 	{
 		"name": "All slots full!",
 		"category": ["Inventory"],
-		"requires": "|@Weapons:6| AND |@Accessories:6| AND |Progressive Weapon Slot:5|"
+		"requires": "|@Weapons:6| AND |@Accessories:6| AND |Weapon Slot:6|"
 	},
 	{
 		"name": "Three Arcana at once!",
@@ -1571,7 +1576,7 @@
 	},
 	{
 		"name": "Kill The Reaper",
-		"requires": "((|Clock Lancet| OR |Iguana Gallo Valletto|) AND |Silver Ring| AND |Gold Ring|) AND ((|Laurel| OR |Divano Thelma|) AND |Metaglio Left| AND |Metaglio Right|)",
+		"requires": "(|Clock Lancet| AND |Silver Ring| AND |Gold Ring|) AND (|Laurel| AND |Metaglio Left| AND |Metaglio Right|)",
 		"victory": true,
 		"category": ["Victory"]
 	}
