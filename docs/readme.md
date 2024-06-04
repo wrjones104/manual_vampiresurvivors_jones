@@ -13,6 +13,7 @@ The original apworld was created by Entropy.
 * Similarly, you may only challenge the stages you have received. You may use Arcana Mode after you receive an Arcana - the other stage modes are unlocks.
 * If you're playing with **Charactersanity** off, you may use any character you wish (besides Sigma because... c'mon), so long as you've unlocked their weapon.
 * With **Charactersanity** enabled, you may use any unlocked character even if you haven't yet unlocked their weapon. However, their weapon should remain sealed so it cannot level up.
+* For all "Survive" checks, you must last at least 15 minutes.
 * If you select a weapon or accessory that you haven't received (either accidentally or because you have no other options) then you must quit the stage. It's helpful to use your Seals in the Collection menu to help eliminate things you can't take.
 * No eggs!
 

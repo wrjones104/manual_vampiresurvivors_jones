@@ -3,699 +3,688 @@
 	"creator": "Jones",
 	"filler_item_name": "A terrible night to have a curse...",
 	"starting_items": [
-	  {
-		"items": [
-		  "Mad Forest",
-		  "Inlaid Library",
-		  "Dairy Plant",
-		  "Gallo Tower",
-		  "Capella Magna",
-		  "Il Molise",
-		  "Moongolow",
-		  "Green Acres",
-		  "The Bone Zone",
-		  "Boss Rash",
-		  "Whiteout",
-		  "Space 54",
-		  "Bat Country",
-		  "Astral Stair",
-		  "Tiny Bridge",
-		  "Mt. Moonspell",
-		  "Lake Foscari",
-		  "Abyss Foscari",
-		  "Polus Replica",
-		  "Laborratory",
-		  "Carlo Cart",
-		  "Neo Galuga",
-		  "Hectic Highway"
-		],
-		"random": 1
-	  },
-	  {
-		"items": [
-		  "Whip",
-		  "Magic Wand",
-		  "Knife",
-		  "Axe",
-		  "Cross",
-		  "King Bible",
-		  "Fire Wand",
-		  "Garlic",
-		  "Santa Water",
-		  "Runetracer",
-		  "Lightning Ring",
-		  "Pentagram",
-		  "Gatti Amari",
-		  "Song of Mana",
-		  "Shadow Pinion",
-		  "Flames of Misspell",
-		  "Glass Fandango",
-		  "Bracelet",
-		  "Silver Wind",
-		  "Four Seasons",
-		  "Summon Night",
-		  "Mirage Robe",
-		  "Night Sword",
-		  "Mille Bolle Blu",
-		  "Eskizzibur",
-		  "SpellString",
-		  "SpellStream",
-		  "SpellStrike",
-		  "Flash Arrow",
-		  "Prismatic Missile",
-		  "Shadow Servant",
-		  "Phiera Der Tuphello",
-		  "Eight the Sparrow",
-		  "Peachone",
-		  "Ebony Wings",
-		  "Vento Sacro",
-		  "Phas3r",
-		  "Pako Battiliar",
-		  "Report!",
-		  "Lucky Swipe",
-		  "Lifesign Scan",
-		  "Just Vent",
-		  "Clear Debris",
-		  "Sharp Tongue",
-		  "Science Rocks",
-		  "Hats",
-		  "Long Gun",
-		  "Short Gun",
-		  "Spread Shot",
-		  "C-U-Laser",
-		  "Firearm",
-		  "Sonic Bloom",
-		  "Homing Miss",
-		  "Diver Mines",
-		  "Blade Crossbow",
-		  "Prism Lass",
-		  "Metal Claw",
-		  "Bone",
-		  "Cherry Bomb",
-		  "Carrello",
-		  "Celestial Dusting",
-		  "La Robba",
-		  "Santa Javelin",
-		  "Greatest Jubilee",
-		  "Party Popper",
-		  "108 Bocce"
-		],
-		"random": 1
-	  },
-	  {
-		"if_previous_item": [
-		  "Whip"
-		],
-		"items": [
-		  "Hollow Heart",
-		  "Antonio Belpaese"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Magic Wand"
-		],
-		"items": [
-		  "Empty Tome",
-		  "Imelda Belpaese"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Knife"
-		],
-		"items": [
-		  "Bracer",
-		  "Gennaro Belpaese"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Axe"
-		],
-		"items": [
-		  "Candelabrador",
-		  "Lama Ladonna"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Cross"
-		],
-		"items": [
-		  "Clover",
-		  "Krochi Freetto"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "King Bible"
-		],
-		"items": [
-		  "Spellbinder",
-		  "Dommario"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Fire Wand"
-		],
-		"items": [
-		  "Spinach",
-		  "Arca Ladonna"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Garlic"
-		],
-		"items": [
-		  "Pummarola",
-		  "Poe Ratcho"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Santa Water"
-		],
-		"items": [
-		  "Attractorb",
-		  "Suor Clerici"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Runetracer"
-		],
-		"items": [
-		  "Armor",
-		  "Pasqualina Belpaese"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Lightning Ring"
-		],
-		"items": [
-		  "Duplicator",
-		  "Porta Ladonna"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Pentagram"
-		],
-		"items": [
-		  "Crown",
-		  "Christine Davain"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Gatti Amari"
-		],
-		"items": [
-		  "Stone Mask",
-		  "Giovanna Grana"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Song of Mana"
-		],
-		"items": [
-		  "Skull O'Maniac",
-		  "Poppea Pecorina"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Shadow Pinion"
-		],
-		"items": [
-		  "Wings",
-		  "Concetta Caciotta"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Flames of Misspell"
-		],
-		"items": [
-		  "Torrona's Box",
-		  "Avatar Infernas"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Glass Fandango"
-		],
-		"items": [
-		  "Wings",
-		  "She-Moon Eeta"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Phiera Der Tuphello"
-		],
-		"items": [
-		  "Eight the Sparrow",
-		  "Tiragisu",
-		  "Pugnala Provola",
-		  "Progressive Weapon Slot"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Eight the Sparrow"
-		],
-		"items": [
-		  "Phiera Der Tuphello",
-		  "Tiragisu",
-		  "Pugnala Provola",
-		  "Progressive Weapon Slot"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Peachone"
-		],
-		"items": [
-		  "Ebony Wings",
-		  "Toastie",
-		  "Progressive Weapon Slot"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Ebony Wings"
-		],
-		"items": [
-		  "Peachone",
-		  "Exdash Exiviiq",
-		  "Progressive Weapon Slot"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Vento Sacro"
-		],
-		"items": [
-		  "Whip",
-		  "Hollow Heart",
-		  "Zi'Assunta Belpaese",
-		  "Progressive Weapon Slot"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Silver Wind"
-		],
-		"items": [
-		  "Pummarola",
-		  "Miang Moonspell"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Four Seasons"
-		],
-		"items": [
-		  "Spinach",
-		  "Candelabrador",
-		  "Menya Moonspell"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Summon Night"
-		],
-		"items": [
-		  "Duplicator",
-		  "Syuuto Moonspell"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Mirage Robe"
-		],
-		"items": [
-		  "Attractorb",
-		  "Babi-Onna"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Night Sword"
-		],
-		"items": [
-		  "Stone Mask",
-		  "Megalo Syuuto Moonspell"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Mille Bolle Blu"
-		],
-		"items": [
-		  "Spellbinder",
-		  "Gav'Et-Oni"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "SpellString"
-		],
-		"items": [
-		  "SpellStream",
-		  "SpellStrike",
-		  "Eleanor Uziron",
-		  "Progressive Weapon Slot",
-		  "Progressive Weapon Slot"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "SpellStream"
-		],
-		"items": [
-		  "SpellString",
-		  "SpellStrike",
-		  "Eleanor Uziron",
-		  "Progressive Weapon Slot",
-		  "Progressive Weapon Slot"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "SpellStrike"
-		],
-		"items": [
-		  "SpellString",
-		  "SpellStream",
-		  "Eleanor Uziron",
-		  "Progressive Weapon Slot",
-		  "Progressive Weapon Slot"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Eskizzibur"
-		],
-		"items": [
-		  "Armor",
-		  "Maruto Cuts"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Flash Arrow"
-		],
-		"items": [
-		  "Bracer",
-		  "Clover",
-		  "Keitha Muort"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Prismatic Missile"
-		],
-		"items": [
-		  "Crown",
-		  "Luminaire Foscari"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Shadow Servant"
-		],
-		"items": [
-		  "Skull O'Maniac",
-		  "Genevieve Gruyere"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Pako Battiliar"
-		],
-		"items": [
-		  "Hollow Heart",
-		  "Bat Robbert"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Phas3r"
-		],
-		"items": [
-		  "Empty Tome",
-		  "Space Dude"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Long Gun"
-		],
-		"items": [
-		  "Bill Rizer"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Short Gun"
-		],
-		"items": [
-		  "Bracer",
-		  "Lance Bean"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Spread Shot"
-		],
-		"items": [
-		  "Empty Tome",
-		  "Ariana"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "C-U-Laser"
-		],
-		"items": [
-		  "Tiragisu",
-		  "Lucia Zero"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Firearm"
-		],
-		"items": [
-		  "Candelabrador",
-		  "Brad Fang"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Sonic Bloom"
-		],
-		"items": [
-		  "Armor",
-		  "Browny"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Homing Miss"
-		],
-		"items": [
-		  "Duplicator",
-		  "Stanley"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Diver Mines"
-		],
-		"items": [
-		  "Attractorb",
-		  "Newt Plissken"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Blade Crossbow"
-		],
-		"items": [
-		  "Clover",
-		  "Sheena Etranzi"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Prism Lass"
-		],
-		"items": [
-		  "Wings",
-		  "Probotector"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Metal Claw"
-		],
-		"items": [
-		  "Hollow Heart",
-		  "Colonel Bahamut"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Bone"
-		],
-		"items": [
-		  "Mortaccio"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Cherry Bomb"
-		],
-		"items": [
-		  "Yatta Cavallo"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Carrello"
-		],
-		"items": [
-		  "Bianca Ramba"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Celestial Dusting"
-		],
-		"items": [
-		  "O'Sole Meeo"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "La Robba"
-		],
-		"items": [
-		  "Sir Ambrojoe"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Greatest Jubilee"
-		],
-		"items": [
-		  "Big Trouser"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Victory Sword"
-		],
-		"items": [
-		  "Big Trouser",
-		  "Torrona's Box"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Party Popper"
-		],
-		"items": [
-		  "Rottin' Ghoul"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Santa Javelin"
-		],
-		"items": [
-		  "Santa Ladonna"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "108 Bocce"
-		],
-		"items": [
-		  "McCoy-Oni"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Report!"
-		],
-		"items": [
-		  "Crewmate Dino"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Lucky Swipe"
-		],
-		"items": [
-		  "Engineer Gino"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Lifesign Scan"
-		],
-		"items": [
-		  "Ghost Lino"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Just Vent"
-		],
-		"items": [
-		  "Shapeshifter Nino"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Clear Debris"
-		],
-		"items": [
-		  "Guardian Pina"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Sharp Tongue"
-		],
-		"items": [
-		  "Imposter Rina"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Science Rocks"
-		],
-		"items": [
-		  "Scientist Mina"
-		]
-	  },
-	  {
-		"if_previous_item": [
-		  "Hats"
-		],
-		"items": [
-		  "Horse"
-		]
-	  }
+		{
+			"items": [
+				"Mad Forest",
+				"Inlaid Library",
+				"Dairy Plant",
+				"Gallo Tower",
+				"Capella Magna",
+				"Il Molise",
+				"Moongolow",
+				"Green Acres",
+				"The Bone Zone",
+				"Boss Rash",
+				"Whiteout",
+				"Space 54",
+				"Bat Country",
+				"Astral Stair",
+				"Tiny Bridge",
+				"Mt. Moonspell",
+				"Lake Foscari",
+				"Abyss Foscari",
+				"Polus Replica",
+				"Laborratory",
+				"Carlo Cart",
+				"Neo Galuga",
+				"Hectic Highway"
+			],
+			"random": 1
+		},
+		{
+			"items": [
+				"Whip",
+				"Magic Wand",
+				"Knife",
+				"Axe",
+				"Cross",
+				"King Bible",
+				"Fire Wand",
+				"Garlic",
+				"Santa Water",
+				"Runetracer",
+				"Lightning Ring",
+				"Pentagram",
+				"Gatti Amari",
+				"Song of Mana",
+				"Shadow Pinion",
+				"Flames of Misspell",
+				"Glass Fandango",
+				"Bracelet",
+				"Silver Wind",
+				"Four Seasons",
+				"Summon Night",
+				"Mirage Robe",
+				"Night Sword",
+				"Mille Bolle Blu",
+				"Eskizzibur",
+				"SpellString",
+				"SpellStream",
+				"SpellStrike",
+				"Flash Arrow",
+				"Prismatic Missile",
+				"Shadow Servant",
+				"Phiera Der Tuphello",
+				"Eight the Sparrow",
+				"Peachone",
+				"Ebony Wings",
+				"Vento Sacro",
+				"Phas3r",
+				"Pako Battiliar",
+				"Report!",
+				"Lucky Swipe",
+				"Lifesign Scan",
+				"Just Vent",
+				"Clear Debris",
+				"Sharp Tongue",
+				"Science Rocks",
+				"Hats",
+				"Long Gun",
+				"Short Gun",
+				"Spread Shot",
+				"C-U-Laser",
+				"Firearm",
+				"Sonic Bloom",
+				"Homing Miss",
+				"Diver Mines",
+				"Blade Crossbow",
+				"Prism Lass",
+				"Metal Claw",
+				"Bone",
+				"Cherry Bomb",
+				"Carrello",
+				"Celestial Dusting",
+				"La Robba",
+				"Santa Javelin",
+				"Greatest Jubilee",
+				"Party Popper",
+				"108 Bocce"
+			],
+			"random": 1
+		},
+		{
+			"if_previous_item": [
+				"Whip"
+			],
+			"items": [
+				"Hollow Heart",
+				"Antonio Belpaese"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Magic Wand"
+			],
+			"items": [
+				"Empty Tome",
+				"Imelda Belpaese"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Knife"
+			],
+			"items": [
+				"Bracer",
+				"Gennaro Belpaese"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Axe"
+			],
+			"items": [
+				"Candelabrador",
+				"Lama Ladonna"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Cross"
+			],
+			"items": [
+				"Clover",
+				"Krochi Freetto"
+			]
+		},
+		{
+			"if_previous_item": [
+				"King Bible"
+			],
+			"items": [
+				"Spellbinder",
+				"Dommario"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Fire Wand"
+			],
+			"items": [
+				"Spinach",
+				"Arca Ladonna"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Garlic"
+			],
+			"items": [
+				"Pummarola",
+				"Poe Ratcho"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Santa Water"
+			],
+			"items": [
+				"Attractorb",
+				"Suor Clerici"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Runetracer"
+			],
+			"items": [
+				"Armor",
+				"Pasqualina Belpaese"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Lightning Ring"
+			],
+			"items": [
+				"Duplicator",
+				"Porta Ladonna"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Pentagram"
+			],
+			"items": [
+				"Crown",
+				"Christine Davain"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Gatti Amari"
+			],
+			"items": [
+				"Stone Mask",
+				"Giovanna Grana"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Song of Mana"
+			],
+			"items": [
+				"Skull O'Maniac",
+				"Poppea Pecorina"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Shadow Pinion"
+			],
+			"items": [
+				"Wings",
+				"Concetta Caciotta"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Flames of Misspell"
+			],
+			"items": [
+				"Torrona's Box",
+				"Avatar Infernas"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Glass Fandango"
+			],
+			"items": [
+				"Wings",
+				"She-Moon Eeta"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Phiera Der Tuphello"
+			],
+			"items": [
+				"Eight the Sparrow",
+				"Tiragisu",
+				"Pugnala Provola"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Eight the Sparrow"
+			],
+			"items": [
+				"Phiera Der Tuphello",
+				"Tiragisu",
+				"Pugnala Provola"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Peachone"
+			],
+			"items": [
+				"Ebony Wings",
+				"Toastie"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Ebony Wings"
+			],
+			"items": [
+				"Peachone",
+				"Exdash Exiviiq"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Vento Sacro"
+			],
+			"items": [
+				"Whip",
+				"Hollow Heart",
+				"Zi'Assunta Belpaese"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Silver Wind"
+			],
+			"items": [
+				"Pummarola",
+				"Miang Moonspell"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Four Seasons"
+			],
+			"items": [
+				"Spinach",
+				"Candelabrador",
+				"Menya Moonspell"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Summon Night"
+			],
+			"items": [
+				"Duplicator",
+				"Syuuto Moonspell"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Mirage Robe"
+			],
+			"items": [
+				"Attractorb",
+				"Babi-Onna"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Night Sword"
+			],
+			"items": [
+				"Stone Mask",
+				"Megalo Syuuto Moonspell"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Mille Bolle Blu"
+			],
+			"items": [
+				"Spellbinder",
+				"Gav'Et-Oni"
+			]
+		},
+		{
+			"if_previous_item": [
+				"SpellString"
+			],
+			"items": [
+				"SpellStream",
+				"SpellStrike",
+				"Eleanor Uziron"
+			]
+		},
+		{
+			"if_previous_item": [
+				"SpellStream"
+			],
+			"items": [
+				"SpellString",
+				"SpellStrike",
+				"Eleanor Uziron"
+			]
+		},
+		{
+			"if_previous_item": [
+				"SpellStrike"
+			],
+			"items": [
+				"SpellString",
+				"SpellStream",
+				"Eleanor Uziron"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Eskizzibur"
+			],
+			"items": [
+				"Armor",
+				"Maruto Cuts"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Flash Arrow"
+			],
+			"items": [
+				"Bracer",
+				"Clover",
+				"Keitha Muort"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Prismatic Missile"
+			],
+			"items": [
+				"Crown",
+				"Luminaire Foscari"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Shadow Servant"
+			],
+			"items": [
+				"Skull O'Maniac",
+				"Genevieve Gruyere"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Pako Battiliar"
+			],
+			"items": [
+				"Hollow Heart",
+				"Bat Robbert"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Phas3r"
+			],
+			"items": [
+				"Empty Tome",
+				"Space Dude"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Long Gun"
+			],
+			"items": [
+				"Bill Rizer"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Short Gun"
+			],
+			"items": [
+				"Bracer",
+				"Lance Bean"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Spread Shot"
+			],
+			"items": [
+				"Empty Tome",
+				"Ariana"
+			]
+		},
+		{
+			"if_previous_item": [
+				"C-U-Laser"
+			],
+			"items": [
+				"Tiragisu",
+				"Lucia Zero"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Firearm"
+			],
+			"items": [
+				"Candelabrador",
+				"Brad Fang"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Sonic Bloom"
+			],
+			"items": [
+				"Armor",
+				"Browny"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Homing Miss"
+			],
+			"items": [
+				"Duplicator",
+				"Stanley"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Diver Mines"
+			],
+			"items": [
+				"Attractorb",
+				"Newt Plissken"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Blade Crossbow"
+			],
+			"items": [
+				"Clover",
+				"Sheena Etranzi"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Prism Lass"
+			],
+			"items": [
+				"Wings",
+				"Probotector"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Metal Claw"
+			],
+			"items": [
+				"Hollow Heart",
+				"Colonel Bahamut"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Bone"
+			],
+			"items": [
+				"Mortaccio"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Cherry Bomb"
+			],
+			"items": [
+				"Yatta Cavallo"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Carrello"
+			],
+			"items": [
+				"Bianca Ramba"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Celestial Dusting"
+			],
+			"items": [
+				"O'Sole Meeo"
+			]
+		},
+		{
+			"if_previous_item": [
+				"La Robba"
+			],
+			"items": [
+				"Sir Ambrojoe"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Greatest Jubilee"
+			],
+			"items": [
+				"Big Trouser"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Victory Sword"
+			],
+			"items": [
+				"Big Trouser",
+				"Torrona's Box"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Party Popper"
+			],
+			"items": [
+				"Rottin' Ghoul"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Santa Javelin"
+			],
+			"items": [
+				"Santa Ladonna"
+			]
+		},
+		{
+			"if_previous_item": [
+				"108 Bocce"
+			],
+			"items": [
+				"McCoy-Oni"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Report!"
+			],
+			"items": [
+				"Crewmate Dino"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Lucky Swipe"
+			],
+			"items": [
+				"Engineer Gino"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Lifesign Scan"
+			],
+			"items": [
+				"Ghost Lino"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Just Vent"
+			],
+			"items": [
+				"Shapeshifter Nino"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Clear Debris"
+			],
+			"items": [
+				"Guardian Pina"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Sharp Tongue"
+			],
+			"items": [
+				"Imposter Rina"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Science Rocks"
+			],
+			"items": [
+				"Scientist Mina"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Hats"
+			],
+			"items": [
+				"Horse"
+			]
+		}
 	]
-  }
+}
