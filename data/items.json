@@ -543,7 +543,7 @@
 		"name": "Santa Javelin",
 		"category": ["Weapons"],
 		"count":1,
-		"useful": true
+		"progression": true
 	},
 	{
 		"name": "Party Popper",
@@ -814,6 +814,36 @@
 		"category": ["Arcana"],
 		"count":1,
 		"progression": true
+	},
+	{
+		"name": "I - Sapphire Mist",
+		"category": ["Darkana"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "VI - Moonlight Bolero",
+		"category": ["Darkana"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "X - Hail from the Future",
+		"category": ["Darkana"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "XII - Crystal Cries",
+		"category": ["Darkana"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "XXI - Wandering Jet Black",
+		"category": ["Darkana"],
+		"count":1,
+		"useful": true
 	},
 	{
 		"name": "Powerup - Might",
@@ -1159,6 +1189,12 @@
 	},
 	{
 		"name": "Space Dude",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Bats Bats Bats",
 		"category": ["Characters"],
 		"count": 1,
 		"progression": true

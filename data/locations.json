@@ -100,6 +100,11 @@
 		"category": ["Evolutions"]
 	},
 	{
+		"name": "Evolution: Seraphic Cry",
+		"requires": "|Santa Javelin| AND |Clover|",
+		"category": ["Evolutions"]
+	},
+	{
 		"name": "Evolution: Ashes of Muspell",
 		"requires": "|Flames of Misspell| AND |Torrona's Box|",
 		"category": ["Evolutions"]
@@ -1246,6 +1251,11 @@
 	},
 	{
 		"name": "Survive with Space Dude",
+		"category": ["Characters"],
+		"requires": "|Space Dude|"
+	},
+	{
+		"name": "Survive with Bats Bats Bats",
 		"category": ["Characters"],
 		"requires": "|Space Dude|"
 	},
