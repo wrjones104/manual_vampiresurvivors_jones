@@ -860,56 +860,6 @@
 		"requires": "|Polus Replica|"
 	},
 	{
-		"name": "Arcana Chest 1",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 2",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 3",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 4",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 5",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 6",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 7",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 8",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 9",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 10",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
 		"name": "Pick up a Rosary",
 		"category": ["Pickups"],
 		"requires": []
@@ -1578,11 +1528,6 @@
 		"name": "All slots full!",
 		"category": ["Inventory"],
 		"requires": "|@Weapons:6| AND |@Accessories:6| AND |Weapon Slot:6|"
-	},
-	{
-		"name": "Three Arcana at once!",
-		"category": ["Inventory"],
-		"requires": "|@Arcana:3|"
 	},
 	{
 		"name": "Kill The Reaper",
