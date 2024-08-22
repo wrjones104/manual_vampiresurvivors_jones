@@ -1515,21 +1515,6 @@
 		"requires": "|Astral Stair|"
 	},
 	{
-		"name": "Six weapons at once!",
-		"category": ["Inventory"],
-		"requires": "|@Weapons:6| AND |Weapon Slot:6|"
-	},
-	{
-		"name": "Six items at once!",
-		"category": ["Inventory"],
-		"requires": "|@Accessories:6|"
-	},
-	{
-		"name": "All slots full!",
-		"category": ["Inventory"],
-		"requires": "|@Weapons:6| AND |@Accessories:6| AND |Weapon Slot:6|"
-	},
-	{
 		"name": "Kill The Reaper",
 		"requires": "(|Clock Lancet| AND |Silver Ring| AND |Gold Ring|) AND (|Laurel| AND |Metaglio Left| AND |Metaglio Right|)",
 		"victory": true,

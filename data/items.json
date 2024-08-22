@@ -1497,6 +1497,6 @@
 		"name": "Weapon Slot",
 		"category": ["Powerups"],
 		"count": 6,
-		"progression": true
+		"useful": true
 	}
 ]
