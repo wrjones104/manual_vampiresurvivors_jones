@@ -100,6 +100,11 @@
 		"category": ["Evolutions"]
 	},
 	{
+		"name": "Evolution: Seraphic Cry",
+		"requires": "|Santa Javelin| AND |Clover|",
+		"category": ["Evolutions"]
+	},
+	{
 		"name": "Evolution: Ashes of Muspell",
 		"requires": "|Flames of Misspell| AND |Torrona's Box|",
 		"category": ["Evolutions"]
@@ -855,56 +860,6 @@
 		"requires": "|Polus Replica|"
 	},
 	{
-		"name": "Arcana Chest 1",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 2",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 3",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 4",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 5",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 6",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 7",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 8",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 9",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
-		"name": "Arcana Chest 10",
-		"category": ["Arcana Chests"],
-		"requires": "|@Arcana:1|"
-	},
-	{
 		"name": "Pick up a Rosary",
 		"category": ["Pickups"],
 		"requires": []
@@ -947,22 +902,22 @@
 	{
 		"name": "Pick up a Weapon Power-Up",
 		"category": ["Pickups", "Operation Guns DLC"],
-		"requires": "|Neo Galuga| OR |Short Gun| OR |Long Gun| OR |Spread Shot| OR |C-U-Laser| OR |Firearm| OR |Sonic Bloom| OR |Homing Miss| OR |Diver Mines| OR |Blade Crossbow| OR |Prism Lass| OR |Metal Claw| OR |Bill Rizer| OR |Lance Bean| OR |Ariana| OR |Lucia Zero| OR |Brad Fang| OR |Browny| OR |Sheena Etranzi| OR |Probotector| OR |Stanley| OR |Newt Plissken| OR |Colonel Bahamut|"
+		"requires": "|@Operation Guns DLC: 1|"
 	},
 	{
 		"name": "Pick up a Rapid Fire",
 		"category": ["Pickups", "Operation Guns DLC"],
-		"requires": "|Neo Galuga| OR |Bill Rizer| OR |Lance Bean| OR |Ariana| OR |Lucia Zero| OR |Brad Fang| OR |Browny| OR |Sheena Etranzi| OR |Probotector| OR |Stanley| OR |Newt Plissken| OR |Colonel Bahamut|"
+		"requires": "|@Operation Guns DLC: 1|"
 	},
 	{
 		"name": "Pick up a Grenade",
 		"category": ["Pickups", "Operation Guns DLC"],
-		"requires": "|Neo Galuga| OR |Bill Rizer| OR |Lance Bean| OR |Ariana| OR |Lucia Zero| OR |Brad Fang| OR |Browny| OR |Sheena Etranzi| OR |Probotector| OR |Stanley| OR |Newt Plissken| OR |Colonel Bahamut|"
+		"requires": "|@Operation Guns DLC: 1|"
 	},
 	{
 		"name": "Pick up a Barrier",
 		"category": ["Pickups", "Operation Guns DLC"],
-		"requires": "|Neo Galuga| OR |Bill Rizer| OR |Lance Bean| OR |Ariana| OR |Lucia Zero| OR |Brad Fang| OR |Browny| OR |Sheena Etranzi| OR |Probotector| OR |Stanley| OR |Newt Plissken| OR |Colonel Bahamut|"
+		"requires": "|@Operation Guns DLC: 1|"
 	},
 	{
 		"name": "Survive Mad Forest",
@@ -1248,6 +1203,11 @@
 		"name": "Survive with Space Dude",
 		"category": ["Characters"],
 		"requires": "|Space Dude|"
+	},
+	{
+		"name": "Survive with Bats Bats Bats",
+		"category": ["Characters"],
+		"requires": "|Bats Bats Bats|"
 	},
 	{
 		"name": "Survive with Miang Moonspell",
@@ -1553,26 +1513,6 @@
 		"name": "Hunt: Cosmic Egg",
 		"category": ["Hunts"],
 		"requires": "|Astral Stair|"
-	},
-	{
-		"name": "Six weapons at once!",
-		"category": ["Inventory"],
-		"requires": "|@Weapons:6| AND |Weapon Slot:6|"
-	},
-	{
-		"name": "Six items at once!",
-		"category": ["Inventory"],
-		"requires": "|@Accessories:6|"
-	},
-	{
-		"name": "All slots full!",
-		"category": ["Inventory"],
-		"requires": "|@Weapons:6| AND |@Accessories:6| AND |Weapon Slot:6|"
-	},
-	{
-		"name": "Three Arcana at once!",
-		"category": ["Inventory"],
-		"requires": "|@Arcana:3|"
 	},
 	{
 		"name": "Kill The Reaper",

@@ -543,7 +543,7 @@
 		"name": "Santa Javelin",
 		"category": ["Weapons"],
 		"count":1,
-		"useful": true
+		"progression": true
 	},
 	{
 		"name": "Party Popper",
@@ -687,133 +687,163 @@
 		"name": "0 - Game Killer",
 		"category": ["Arcana"],
 		"count":1,
-		"progression": true
+		"useful": true
 	},
 	{
 		"name": "I - Gemini",
 		"category": ["Arcana"],
 		"count":1,
-		"progression": true
+		"useful": true
 	},
 	{
 		"name": "II - Twilight Requiem",
 		"category": ["Arcana"],
 		"count":1,
-		"progression": true
+		"useful": true
 	},
 	{
 		"name": "III - Tragic Princess",
 		"category": ["Arcana"],
 		"count":1,
-		"progression": true
+		"useful": true
 	},
 	{
 		"name": "IV - Awake",
 		"category": ["Arcana"],
 		"count":1,
-		"progression": true
+		"useful": true
 	},
 	{
 		"name": "V - Chaos in the Dark Night",
 		"category": ["Arcana"],
 		"count":1,
-		"progression": true
+		"useful": true
 	},
 	{
 		"name": "VI - Sarabande of Healing",
 		"category": ["Arcana"],
 		"count":1,
-		"progression": true
+		"useful": true
 	},
 	{
 		"name": "VII - Iron Blue Will",
 		"category": ["Arcana"],
 		"count":1,
-		"progression": true
+		"useful": true
 	},
 	{
 		"name": "VIII - Mad Groove",
 		"category": ["Arcana"],
 		"count":1,
-		"progression": true
+		"useful": true
 	},
 	{
 		"name": "IX - Divine Bloodline",
 		"category": ["Arcana"],
 		"count":1,
-		"progression": true
+		"useful": true
 	},
 	{
 		"name": "X - Beginning",
 		"category": ["Arcana"],
 		"count":1,
-		"progression": true
+		"useful": true
 	},
 	{
 		"name": "XI - Waltz of Pearls",
 		"category": ["Arcana"],
 		"count":1,
-		"progression": true
+		"useful": true
 	},
 	{
 		"name": "XII - Out of Bounds",
 		"category": ["Arcana"],
 		"count":1,
-		"progression": true
+		"useful": true
 	},
 	{
 		"name": "XIII - Wicked Season",
 		"category": ["Arcana"],
 		"count":1,
-		"progression": true
+		"useful": true
 	},
 	{
 		"name": "XIV - Jail of Crystal",
 		"category": ["Arcana"],
 		"count":1,
-		"progression": true
+		"useful": true
 	},
 	{
 		"name": "XV - Disco of Gold",
 		"category": ["Arcana"],
 		"count":1,
-		"progression": true
+		"useful": true
 	},
 	{
 		"name": "XVI - Slash",
 		"category": ["Arcana"],
 		"count":1,
-		"progression": true
+		"useful": true
 	},
 	{
 		"name": "XVII - Lost & Found Painting",
 		"category": ["Arcana"],
 		"count":1,
-		"progression": true
+		"useful": true
 	},
 	{
 		"name": "XVIII - Boogaloo of Illusions",
 		"category": ["Arcana"],
 		"count":1,
-		"progression": true
+		"useful": true
 	},
 	{
 		"name": "XIX - Heart of Fire",
 		"category": ["Arcana"],
 		"count":1,
-		"progression": true
+		"useful": true
 	},
 	{
 		"name": "XX - Silent Old Sanctuary",
 		"category": ["Arcana"],
 		"count":1,
-		"progression": true
+		"useful": true
 	},
 	{
 		"name": "XXI - Blood Astronomia",
 		"category": ["Arcana"],
 		"count":1,
-		"progression": true
+		"useful": true
+	},
+	{
+		"name": "I - Sapphire Mist",
+		"category": ["Darkana"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "VI - Moonlight Bolero",
+		"category": ["Darkana"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "X - Hail from the Future",
+		"category": ["Darkana"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "XII - Crystal Cries",
+		"category": ["Darkana"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "XXI - Wandering Jet Black",
+		"category": ["Darkana"],
+		"count":1,
+		"useful": true
 	},
 	{
 		"name": "Powerup - Might",
@@ -1164,6 +1194,12 @@
 		"progression": true
 	},
 	{
+		"name": "Bats Bats Bats",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
 		"name": "Miang Moonspell",
 		"category": ["Characters", "Legacy of the Moonspell DLC"],
 		"count": 1,
@@ -1461,6 +1497,6 @@
 		"name": "Weapon Slot",
 		"category": ["Powerups"],
 		"count": 6,
-		"progression": true
+		"useful": true
 	}
 ]

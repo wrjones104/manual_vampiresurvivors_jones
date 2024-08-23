@@ -32,5 +32,10 @@
         "yaml_option": [
             "starting_weapon_slots"
         ]
+    },
+    "Hunts": {
+        "yaml_option": [
+            "hunts"
+        ]
     }
 }

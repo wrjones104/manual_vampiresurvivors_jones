@@ -33,6 +33,11 @@ class WeaponSlots(Range):
     range_end = 6
     default = 3
 
+class Hunts(Toggle):
+    """Adds checks for defeating specific enemies"""
+    display_name = "Hunts"
+    default = True
+
 class Charactersanity(Toggle):
     """Adds all characters to the item pool as well as a location check for each."""
     display_name = "Charactersanity"
@@ -63,6 +68,7 @@ class IncludeFoscariDLC(Toggle):
 def before_options_defined(options: dict) -> dict:
     options["starting_weapon_slots"] = WeaponSlots
     options["charactersanity"] = Charactersanity
+    options["hunts"] = Hunts
     options["include_moonspell_dlc"] = IncludeMoonspellDLC
     options["include_foscari_dlc"] = IncludeFoscariDLC
     options["include_emergency_meeting_dlc"] = IncludeEmergencyMeetingDLC
