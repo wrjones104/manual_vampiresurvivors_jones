@@ -902,22 +902,22 @@
 	{
 		"name": "Pick up a Weapon Power-Up",
 		"category": ["Pickups", "Operation Guns DLC"],
-		"requires": "|Neo Galuga| OR |Short Gun| OR |Long Gun| OR |Spread Shot| OR |C-U-Laser| OR |Firearm| OR |Sonic Bloom| OR |Homing Miss| OR |Diver Mines| OR |Blade Crossbow| OR |Prism Lass| OR |Metal Claw| OR |Bill Rizer| OR |Lance Bean| OR |Ariana| OR |Lucia Zero| OR |Brad Fang| OR |Browny| OR |Sheena Etranzi| OR |Probotector| OR |Stanley| OR |Newt Plissken| OR |Colonel Bahamut|"
+		"requires": "|@Operation Guns DLC: 1|"
 	},
 	{
 		"name": "Pick up a Rapid Fire",
 		"category": ["Pickups", "Operation Guns DLC"],
-		"requires": "|Neo Galuga| OR |Bill Rizer| OR |Lance Bean| OR |Ariana| OR |Lucia Zero| OR |Brad Fang| OR |Browny| OR |Sheena Etranzi| OR |Probotector| OR |Stanley| OR |Newt Plissken| OR |Colonel Bahamut|"
+		"requires": "|@Operation Guns DLC: 1|"
 	},
 	{
 		"name": "Pick up a Grenade",
 		"category": ["Pickups", "Operation Guns DLC"],
-		"requires": "|Neo Galuga| OR |Bill Rizer| OR |Lance Bean| OR |Ariana| OR |Lucia Zero| OR |Brad Fang| OR |Browny| OR |Sheena Etranzi| OR |Probotector| OR |Stanley| OR |Newt Plissken| OR |Colonel Bahamut|"
+		"requires": "|@Operation Guns DLC: 1|"
 	},
 	{
 		"name": "Pick up a Barrier",
 		"category": ["Pickups", "Operation Guns DLC"],
-		"requires": "|Neo Galuga| OR |Bill Rizer| OR |Lance Bean| OR |Ariana| OR |Lucia Zero| OR |Brad Fang| OR |Browny| OR |Sheena Etranzi| OR |Probotector| OR |Stanley| OR |Newt Plissken| OR |Colonel Bahamut|"
+		"requires": "|@Operation Guns DLC: 1|"
 	},
 	{
 		"name": "Survive Mad Forest",
@@ -1207,7 +1207,7 @@
 	{
 		"name": "Survive with Bats Bats Bats",
 		"category": ["Characters"],
-		"requires": "|Space Dude|"
+		"requires": "|Bats Bats Bats|"
 	},
 	{
 		"name": "Survive with Miang Moonspell",
