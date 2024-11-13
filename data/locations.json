@@ -142,7 +142,7 @@
 	{
 		"name": "Evolution: Legionnaire",
 		"requires": "|Eskizzibur| AND |Armor|",
-		"category": ["Evolutions", "Legacy of the Moonspell DLC"]
+		"category": ["Evolutions", "Tides of the Foscari DLC"]
 	},
 	{
 		"name": "Evolution: Millionaire",
@@ -260,9 +260,214 @@
 		"category": ["Evolutions", "Operation Guns DLC"]
 	},
 	{
+		"name": "Evolution: Vampire Killer",
+		"requires": "|Alchemy Whip| AND |Tiragisu|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Spirit Tornado Tip",
+		"requires": "|Wind Whip| AND |Crown|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Cross Crasher Tip",
+		"requires": "|Platinum Whip| AND |Clover|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Hyrdostormer Tip",
+		"requires": "|Dragon Water Whip| AND |Attractorb|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Crissaegrim Tip",
+		"requires": "|Sonic Whip| AND |Skull O'Maniac|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Mormegil Tip",
+		"requires": "|Jet Black Whip| AND |Stone Mask|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Daybreaker Tip",
+		"requires": "|Vibhuti Whip| AND |Candelabrador|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Aurablaster Tip",
+		"requires": "|Vanitas Whip| AND |Hollow Heart|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Yagyu Shuriken",
+		"requires": "|Shuriken| AND |Empty Tome|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Bwaka Knife",
+		"requires": "|Curved Knife| AND |Bracer|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Long Inus",
+		"requires": "|Javelin| AND |Spellbinder|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Stellar Blade",
+		"requires": "|Discus| AND |Parm Aegis|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Wrecking Ball",
+		"requires": "|Iron Ball| AND |Armor|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Jewel Gun",
+		"requires": "|Silver Revolver| AND |Karoma's Mana|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: The RPG",
+		"requires": "|Hand Grenade| AND |Candelabrador|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Meal Ticket",
+		"requires": "|Wine Glass| AND |Tiragisu|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Salamender",
+		"requires": "|Raging Fire| AND |Spinach|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Cocytus",
+		"requires": "|Ice Fang| AND |Spellbinder|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Pneuma Tempestas",
+		"requires": "|Gale Force| AND |Bracer|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Gemma Torpor",
+		"requires": "|Rock Riot| AND |Stone Mask|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Tenebris Tonitrus",
+		"requires": "|Fulgur| AND |Duplicator|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Keremet Morbus",
+		"requires": "|Keremet Bubbles| AND |Armor|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+		{
+		"name": "Evolution: Nightmare",
+		"requires": "|Hex| AND |Skull O'Maniac|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Sanctuary",
+		"requires": "|Refectio| AND |Clover|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Stamazza",
+		"requires": "|Mace| AND |Hollow Heart|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Moon Rod",
+		"requires": "|Star Flail| AND |Pummarola|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Thunderbolt Spear",
+		"requires": "|Alucard Spear| AND |Wings|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Gungnir-Souris",
+		"requires": "|Trident| AND |Duplicator|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Dark Iron Shield",
+		"requires": "|Iron Shield| AND |Parm Aegis|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Sacred Beast Tower Shield",
+		"requires": "|Guardian's Targe| AND |Pummarola|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Rune Sword",
+		"requires": "|Tyrfing| AND |Spinach|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Alucard Sword",
+		"requires": "|Alucart Sworb|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Vol Confodere",
+		"requires": "|Confodere|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Melio Confodere",
+		"requires": "|Confodere|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Nitesco",
+		"requires": "|Globus| AND |Empty Tome|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Acerbatus",
+		"requires": "|Optical Shot| AND |Karoma's Mana|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Rapidus Fio",
+		"requires": "|Sonic Dash| AND |Wings|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Vol Luminatio",
+		"requires": "|Luminatio| AND |Crown|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Evolution: Vol Umbra",
+		"requires": "|Umbra| AND |Attractorb|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
 		"name": "Gift: Sole Solution",
 		"requires": "|Victory Sword| AND |Torrona's Box|",
 		"category": ["Evolutions"]
+	},
+	{
+		"name": "Gift: Alucard Shield",
+		"requires": "|Alucart Sworb| AND |@Weapons:6| AND |@Accessories:6|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Gift: Universitas",
+		"requires": "|Luminatio| AND |Umbra|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
 	},
 	{
 		"name": "Union: SpellStrom",
@@ -283,6 +488,46 @@
 		"name": "Union: Fuwalafuwaloo",
 		"requires": "|Vento Sacro| AND |Whip| AND |Hollow Heart|",
 		"category": ["Evolutions"]
+	},
+	{
+		"name": "Union: Clock Tower",
+		"requires": "|Endo Gears| AND |Peri Pendulum| AND |Myo Lift| AND |Epi Head|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Union: Power of Sire",
+		"requires": "|Dominus Anger| AND |Dominus Hatred| AND |Dominus Agony|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Union: Trinum Custodem",
+		"requires": "|Dextro Custos| AND |Sinestro Custos| AND |Centralis Custos|",
+		"category": ["Evolutions", "Ode to Castlevania DLC"]
+	},
+	{
+		"name": "Special Weapon: Morning Star",
+		"requires": "|Alchemy Whip| AND |Wind Whip| AND |Platinum Whip| AND |Dragon Water Whip| AND |Sonic Whip| AND |Jet Black Whip| AND |Vibhuti Whip| AND |Vanitas Whip|",
+		"category": ["Evolutions", "Ode to Castlevania DLC", "Special Weapons"]
+	},
+	{
+		"name": "Special Weapon: Coat of Arms",
+		"requires": "|Whip| AND |Axe| AND |Knife| AND |Santa Water| AND |Runetracer| AND |King Bible| AND |Cross| AND |Lightning Ring| AND |Curved Knife| AND |Shuriken| AND |Javelin| AND |Iron Ball| AND |Discus| AND |Silver Revolver| AND |Hand Grenade| AND |Wine Glass| AND |Svarog Statue| AND |Troll Bomb| AND |Hydro Storm| AND |Grand Cross|",
+		"category": ["Evolutions", "Ode to Castlevania DLC", "Special Weapons"]
+	},
+	{
+		"name": "Special Weapon: Belnade's Spellbook",
+		"requires": "|Raging Fire| AND |Ice Fang| AND |Gale Force| AND |Rock Riot| AND |Fulgur| AND |Keremet Bubbles| AND |Hex| AND |Refectio| AND |Summon Spirit Tornado|",
+		"category": ["Evolutions", "Ode to Castlevania DLC", "Special Weapons"]
+	},
+	{
+		"name": "Special Weapon: Spectral Sword",
+		"requires": "|Alucart Sworb| AND |Tyrfing| AND |Alucard Spear| AND |Trident| AND |Mace| AND |Star Flail| AND |Iron Shield| AND |Guardian's Targe| AND |Valmanway| AND |Icebrand| AND |Arrow of Goth| AND |Aura Blast|",
+		"category": ["Evolutions", "Ode to Castlevania DLC", "Special Weapons"]
+	},
+	{
+		"name": "Special Weapon: Ebony Diabolique",
+		"requires": "|Confodere| AND |Optical Shot| AND |Sonic Dash| AND |Luminatio| AND |Umbra| AND |Globus| AND |Dextro Custos| AND |Sinestro Custos| AND |Centralis Custos| AND |Dominus Anger| AND |Dominus Hatred| AND |Dominus Agony| AND |Summon Spirit| AND |Dark Rift| AND |Sword Brothers| AND |Soul Steal|",
+		"category": ["Evolutions", "Ode to Castlevania DLC", "Special Weapons"]
 	},
 	{
 		"name": "Mad Forest Chest 1",
@@ -1455,6 +1700,406 @@
 		"requires": "|Smith IV|"
 	},
 	{
+		"name": "Survive with Leon Belmont",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Leon Belmont|"
+	},
+	{
+		"name": "Survive with Sonia Belmont",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Sonia Belmont|"
+	},
+	{
+		"name": "Survive with Trevor Belmont",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Trevor Belmont|"
+	},
+	{
+		"name": "Survive with Christopher Belmont",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Christopher Belmont|"
+	},
+	{
+		"name": "Survive with Simon Belmont",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Simon Belmont|"
+	},
+	{
+		"name": "Survive with Juste Belmont",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Juste Belmont|"
+	},
+	{
+		"name": "Survive with Richter Belmont",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Richter Belmont|"
+	},
+	{
+		"name": "Survive with Julius Belmont",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Julius Belmont|"
+	},
+	{
+		"name": "Survive with Grant Danasty",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Grant Danasty|"
+	},
+	{
+		"name": "Survive with John Morris",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|John Morris|"
+	},
+	{
+		"name": "Survive with Jonathan Morris",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Jonathan Morris|"
+	},
+	{
+		"name": "Survive with Soma Cruz",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Soma Cruz|"
+	},
+	{
+		"name": "Survive with Charlotte Aulin",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Charlotte Aulin|"
+	},
+	{
+		"name": "Survive with Sypha Belnades",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Sypha Belnades|"
+	},
+	{
+		"name": "Survive with Yoko Belnades",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Yoko Belnades|"
+	},
+	{
+		"name": "Survive with Alucard",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Alucard|"
+	},
+	{
+		"name": "Survive with Eric Lecarde",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Eric Lecarde|"
+	},
+	{
+		"name": "Survive with Hector",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Hector|"
+	},
+	{
+		"name": "Survive with Maria Renard",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Maria Renard|"
+	},
+	{
+		"name": "Survive with Shanoa",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Shanoa|"
+	},
+	{
+		"name": "Survive with Vlad Tepes Dracula",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Vlad Tepes Dracula|"
+	},
+	{
+		"name": "Survive with Lisa Tepes",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Lisa Tepes|"
+	},
+	{
+		"name": "Survive with Mina Hakuba",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Mina Hakuba|"
+	},
+	{
+		"name": "Survive with Cornell",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Cornell|"
+	},
+	{
+		"name": "Survive with Rinaldo Gandolfi",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Rinaldo Gandolfi|"
+	},
+	{
+		"name": "Survive with Vincent Dorin",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Vincent Dorin|"
+	},
+	{
+		"name": "Survive with Nathan Graves",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Nathan Graves|"
+	},
+	{
+		"name": "Survive with Julia Laforeze",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Julia Laforeze|"
+	},
+	{
+		"name": "Survive with Sara Trantoul",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Sara Trantoul|"
+	},
+	{
+		"name": "Survive with Quincy Morris",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Quincy Morris|"
+	},
+	{
+		"name": "Survive with Maxim Kischine",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Maxim Kischine|"
+	},
+	{
+		"name": "Survive with Reinhardt Schneider",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Reinhardt Schneider|"
+	},
+	{
+		"name": "Survive with Henry",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Henry|"
+	},
+	{
+		"name": "Survive with Carrie Fernandez",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Carrie Fernandez|"
+	},
+	{
+		"name": "Survive with Saint Germain",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Saint Germain|"
+	},
+	{
+		"name": "Survive with Albus",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Albus|"
+	},
+	{
+		"name": "Survive with Isaac",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Isaac|"
+	},
+	{
+		"name": "Survive with Elizabeth Bartley",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Elizabeth Bartley|"
+	},
+	{
+		"name": "Survive with Shaft",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Shaft|"
+	},
+	{
+		"name": "Survive with Barlowe",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Barlowe|"
+	},
+	{
+		"name": "Survive with Young Maria Renard",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Young Maria Renard|"
+	},
+	{
+		"name": "Survive with Familiar",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Familiar|"
+	},
+	{
+		"name": "Survive with Innocent Devil",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Innocent Devil|"
+	},
+	{
+		"name": "Survive with Blue Crescent Moon Cornell",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Blue Crescent Moon Cornell|"
+	},
+	{
+		"name": "Survive with Ferryman",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Ferryman|"
+	},
+	{
+		"name": "Survive with Master Librarian",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Master Librarian|"
+	},
+	{
+		"name": "Survive with Hammer",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Hammer|"
+	},
+	{
+		"name": "Survive with Wind",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Wind|"
+	},
+	{
+		"name": "Survive with Jonathan & Charlotte",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Jonathan & Charlotte|"
+	},
+	{
+		"name": "Survive with Charlotte & Jonathan",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Charlotte & Jonathan|"
+	},
+	{
+		"name": "Survive with Stella & Loretta Lecarde",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Stella & Loretta Lecarde|"
+	},
+	{
+		"name": "Survive with Loretta & Stella Lecarde",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Loretta & Stella Lecarde|"
+	},
+	{
+		"name": "Survive with Stella Lecarde",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Stella Lecarde|"
+	},
+	{
+		"name": "Survive with Loretta Lecarde",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Loretta Lecarde|"
+	},
+	{
+		"name": "Survive with Brauner",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Brauner|"
+	},
+	{
+		"name": "Survive with Soleil Belmont",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Soleil Belmont|"
+	},
+	{
+		"name": "Survive with Dario Bossi",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Dario Bossi|"
+	},
+	{
+		"name": "Survive with Dmitri Bilnov",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Dmitri Bilnov|"
+	},
+	{
+		"name": "Survive with Celia Fortner",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Celia Fortner|"
+	},
+	{
+		"name": "Survive with Graham Jones",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Graham Jones|"
+	},
+	{
+		"name": "Survive with Joachim Armster",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Joachim Armster|"
+	},
+	{
+		"name": "Survive with Walter Bernhardt",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Walter Bernhardt|"
+	},
+	{
+		"name": "Survive with Carmilla",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Carmilla|"
+	},
+	{
+		"name": "Survive with Count Olrox",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Count Olrox|"
+	},
+	{
+		"name": "Survive with Cave Troll",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Cave Troll|"
+	},
+	{
+		"name": "Survive with Fleaman",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Fleaman|"
+	},
+	{
+		"name": "Survive with Axe Armor",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Axe Armor|"
+	},
+	{
+		"name": "Survive with Frozenshade",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Frozenshade|"
+	},
+	{
+		"name": "Survive with Succubus",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Succubus|"
+	},
+	{
+		"name": "Survive with Keremet",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Keremet|"
+	},
+	{
+		"name": "Survive with Alamaric Sniper",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Alamaric Sniper|"
+	},
+	{
+		"name": "Survive with Blackmore",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Blackmore|"
+	},
+	{
+		"name": "Survive with Malphas",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Malphas|"
+	},
+	{
+		"name": "Survive with Death",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Death|"
+	},
+	{
+		"name": "Survive with Galamoth",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Galamoth|"
+	},
+	{
+		"name": "Survive with Megalo Elizabeth Bartley",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Megalo Elizabeth Bartley|"
+	},
+	{
+		"name": "Survive with Megalo Olrox",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Megalo Olrox|"
+	},
+	{
+		"name": "Survive with Megalo Death",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Megalo Death|"
+	},
+	{
+		"name": "Survive with Megalo Dracula",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Megalo Dracula|"
+	},
+	{
+		"name": "Survive with Chaos",
+		"category": ["Characters", "Ode to Castlevania DLC"],
+		"requires": "|Chaos|"
+	},
+	{
 		"name": "Hunt: Sketemari",
 		"category": ["Hunts"],
 		"requires": "|The Bone Zone|"
@@ -1513,6 +2158,161 @@
 		"name": "Hunt: Cosmic Egg",
 		"category": ["Hunts"],
 		"requires": "|Astral Stair|"
+	},
+	{
+		"name": "Hunt: Man Eater",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Behemoth",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Giant Bat",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Walter",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Giant Gorgon",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Slogra & Gaibon",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: The Creature",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Soleil",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Doppleganger",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Keremet",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Puppet Master",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Blackthorne",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Paranoia",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Gergoth",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Brachyura",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Carmilla",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Zephyr",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Stella & Loretta",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Abaddon",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Treant",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Menace",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Joachim",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Galamoth",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Mummy",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Succubus",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Legion",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Eligor",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Count Olbec",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Jiang Chi",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Beelzebub",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Malphas",
+		"category": ["Hunts", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
 	},
 	{
 		"name": "Kill The Reaper",

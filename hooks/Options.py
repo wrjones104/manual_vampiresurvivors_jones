@@ -36,7 +36,12 @@ class WeaponSlots(Range):
 class Hunts(Toggle):
     """Adds checks for defeating specific enemies"""
     display_name = "Hunts"
-    default = True
+    default = False
+
+class SpecialWeapons(Toggle):
+    """Adds 5 checks for completing the requirements for the Special Weapons in Ode to Castlevania. WARNING: These each require many items and will likely take a long time to complete. *Requires the Ode to Castlevania DLC"""
+    display_name = "Special Weapons"
+    default = False
 
 class Charactersanity(Toggle):
     """Adds all characters to the item pool as well as a location check for each."""
@@ -63,16 +68,23 @@ class IncludeFoscariDLC(Toggle):
     display_name = "Include Tides of the Foscari DLC"
     default = True
 
+class IncludeCastlevaniaDLC(Toggle):
+    """Whether or not the Ode to Castlevania DLC is included."""
+    display_name = "Include Ode to Castlevania DLC"
+    default = True
+
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
     options["starting_weapon_slots"] = WeaponSlots
     options["charactersanity"] = Charactersanity
     options["hunts"] = Hunts
+    options["special_weapons"] = SpecialWeapons
     options["include_moonspell_dlc"] = IncludeMoonspellDLC
     options["include_foscari_dlc"] = IncludeFoscariDLC
     options["include_emergency_meeting_dlc"] = IncludeEmergencyMeetingDLC
     options["include_operation_guns_dlc"] = IncludeOperationGunsDLC
+    options["include_castlevania_dlc"] = IncludeCastlevaniaDLC
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
