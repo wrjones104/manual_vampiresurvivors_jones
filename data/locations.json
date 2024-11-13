@@ -1105,6 +1105,81 @@
 		"requires": "|Polus Replica|"
 	},
 	{
+		"name": "Ode to Castlevania Chest 1",
+		"category": ["Chests", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Ode to Castlevania Chest 2",
+		"category": ["Chests", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Ode to Castlevania Chest 3",
+		"category": ["Chests", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Ode to Castlevania Chest 4",
+		"category": ["Chests", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Ode to Castlevania Chest 5",
+		"category": ["Chests", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Ode to Castlevania Chest 6",
+		"category": ["Chests", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Ode to Castlevania Chest 7",
+		"category": ["Chests", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Ode to Castlevania Chest 8",
+		"category": ["Chests", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Ode to Castlevania Chest 9",
+		"category": ["Chests", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Ode to Castlevania Chest 10",
+		"category": ["Chests", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Ode to Castlevania Chest 11",
+		"category": ["Chests", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Ode to Castlevania Chest 12",
+		"category": ["Chests", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Ode to Castlevania Chest 13",
+		"category": ["Chests", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Ode to Castlevania Chest 14",
+		"category": ["Chests", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Ode to Castlevania Chest 15",
+		"category": ["Chests", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
+	},
+	{
 		"name": "Pick up a Rosary",
 		"category": ["Pickups"],
 		"requires": []
@@ -1142,7 +1217,7 @@
 	{
 		"name": "Pick up a Gold Finger",
 		"category": ["Pickups"],
-		"requires": "|Astral Stair| OR |Space 54|"
+		"requires": "|Astral Stair| OR |Space 54| OR |X - Hail from the Future|"
 	},
 	{
 		"name": "Pick up a Weapon Power-Up",
@@ -1163,6 +1238,26 @@
 		"name": "Pick up a Barrier",
 		"category": ["Pickups", "Operation Guns DLC"],
 		"requires": "|@Operation Guns DLC: 1|"
+	},
+	{
+		"name": "Pick up a Heart Refresh",
+		"category": ["Pickups", "Ode to Castlevania DLC"],
+		"requires": "|@Ode to Castlevania: 1|"
+	},
+	{
+		"name": "Pick up a Mirror of Truth",
+		"category": ["Pickups", "Ode to Castlevania DLC"],
+		"requires": "|@Ode to Castlevania: 1|"
+	},
+	{
+		"name": "Pick up a Karma Coin",
+		"category": ["Pickups", "Ode to Castlevania DLC"],
+		"requires": "|@Ode to Castlevania: 1|"
+	},
+	{
+		"name": "Pick up a Neutron Bomb",
+		"category": ["Pickups", "Ode to Castlevania DLC"],
+		"requires": "|@Ode to Castlevania: 1|"
 	},
 	{
 		"name": "Survive Mad Forest",
@@ -1273,6 +1368,11 @@
 		"name": "Survive Hectic Highway",
 		"category": ["Stages", "Operation Guns DLC"],
 		"requires": "|Hectic Highway|"
+	},
+	{
+		"name": "Survive Ode to Castlevania",
+		"category": ["Stages", "Ode to Castlevania DLC"],
+		"requires": "|Ode to Castlevania|"
 	},
 	{
 		"name": "Survive a stage in Inverse Mode",
