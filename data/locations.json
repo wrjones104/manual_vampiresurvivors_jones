@@ -1240,6 +1240,11 @@
 		"requires": "|Tiny Bridge|"
 	},
 	{
+		"name": "Survive Carlo Cart",
+		"category": ["Stages"],
+		"requires": "|Carlo Cart|"
+	},
+	{
 		"name": "Survive Mt. Moonspell",
 		"category": ["Stages", "Legacy of the Moonspell DLC"],
 		"requires": "|Mt. Moonspell|"
