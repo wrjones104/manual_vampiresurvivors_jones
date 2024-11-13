@@ -27,7 +27,8 @@
 				"Laborratory",
 				"Carlo Cart",
 				"Neo Galuga",
-				"Hectic Highway"
+				"Hectic Highway",
+				"Ode to Castlevania"
 			],
 			"random": 1
 		},
@@ -98,7 +99,68 @@
 				"Santa Javelin",
 				"Greatest Jubilee",
 				"Party Popper",
-				"108 Bocce"
+				"108 Bocce",
+				"Alchemy Whip",
+				"Wind Whip",
+				"Platinum Whip",
+				"Dragon Water Whip",
+				"Sonic Whip",
+				"Jet Black Whip",
+				"Vibhuti Whip",
+				"Vanitas Whip",
+				"Shuriken",
+				"Curved Knife",
+				"Javelin",
+				"Discus",
+				"Iron Ball",
+				"Hand Grenade",
+				"Wine Glass",
+				"Raging Fire",
+				"Ice Fang",
+				"Gale Force",
+				"Rock Riot",
+				"Fulgur",
+				"Keremet Bubbles",
+				"Hex",
+				"Refectio",
+				"Mace",
+				"Star Flail",
+				"Alucard Spear",
+				"Trident",
+				"Iron Shield",
+				"Guardian's Targe",
+				"Alucart Sworb",
+				"Silver Revolver",
+				"Tyrfing",
+				"Confodere",
+				"Optical Shot",
+				"Luminatio",
+				"Umbra",
+				"Globus",
+				"Sonic Dash",
+				"Dextro Custos",
+				"Sinestro Custos",
+				"Centralis Custos",
+				"Dominus Anger",
+				"Dominus Hatred",
+				"Dominus Agony",
+				"Endo Gears",
+				"Peri Pendulum",
+				"Myo Lift",
+				"Epi Head",
+				"Valmanway",
+				"Icebrand",
+				"Arrow of Goth",
+				"Aura Blast",
+				"Svarog Statue",
+				"Troll Bomb",
+				"Hydro Storm",
+				"Grand Cross",
+				"Summon Spirit",
+				"Dark Rift",
+				"Soul Steal",
+				"Sword Brothers",
+				"Summon Spirit Tornado"
 			],
 			"random": 1
 		},
@@ -684,6 +746,348 @@
 			],
 			"items": [
 				"Horse"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Alchemy Whip"
+			],
+			"items": [
+				"Tiragisu",
+				"Leon Belmont"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Wind Whip"
+			],
+			"items": [
+				"Crown",
+				"Simon Belmont"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Platinum Whip"
+			],
+			"items": [
+				"Clover",
+				"Richter Belmont"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Dragon Water Whip"
+			],
+			"items": [
+				"Attractorb",
+				"Trevor Belmont"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Sonic Whip"
+			],
+			"items": [
+				"Skull O'Maniac",
+				"Sonia Belmont"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Jet Black Whip"
+			],
+			"items": [
+				"Stone Mask",
+				"Christopher Belmont",
+				"Soleil Belmont"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Vibhuti Whip"
+			],
+			"items": [
+				"Candelabrador",
+				"Juste Belmont"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Vanitas Whip"
+			],
+			"items": [
+				"Hollow Heart",
+				"Julius Belmont"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Shuriken"
+			],
+			"items": [
+				"Empty Tome",
+				"Quincy Morris"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Curved Knife"
+			],
+			"items": [
+				"Bracer",
+				"Grant Danasty"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Javelin"
+			],
+			"items": [
+				"Spellbinder",
+				"Jonathan Morris"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Discus"
+			],
+			"items": [
+				"Parm Aegis",
+				"Maxim Kischine"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Iron Ball"
+			],
+			"items": [
+				"Armor",
+				"John Morris"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Silver Revolver"
+			],
+			"items": [
+				"Karoma's Mana",
+				"Henry"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Hand Grenade"
+			],
+			"items": [
+				"Candelabrador",
+				"Soma Cruz"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Wine Glass"
+			],
+			"items": [
+				"Tiragisu",
+				"Vlad Tepes Dracula"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Raging Fire"
+			],
+			"items": [
+				"Spinach",
+				"Charlotte Aulin"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Ice Fang"
+			],
+			"items": [
+				"Spellbinder",
+				"Sypha Belnades"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Gale Force"
+			],
+			"items": [
+				"Bracer",
+				"Julia Laforeze"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Rock Riot"
+			],
+			"items": [
+				"Stone Mask",
+				"Carrie Fernandez"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Fulgur"
+			],
+			"items": [
+				"Duplicator",
+				"Yoko Belnades"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Keremet Bubbles"
+			],
+			"items": [
+				"Armor",
+				"Rinaldo Gandolfi"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Hex"
+			],
+			"items": [
+				"Skull O'Maniac",
+				"Elizabeth Bartley"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Refectio"
+			],
+			"items": [
+				"Clover",
+				"Mina Hakuba"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Mace"
+			],
+			"items": [
+				"Hollow Heart",
+				"Hector"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Star Flail"
+			],
+			"items": [
+				"Pummarola",
+				"Sara Trantoul"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Alucard Spear"
+			],
+			"items": [
+				"Wings",
+				"Eric Lecarde"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Trident"
+			],
+			"items": [
+				"Duplicator",
+				"Isaac"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Iron Shield"
+			],
+			"items": [
+				"Parm Aegis",
+				"Vincent Dorin"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Guardian's Targe"
+			],
+			"items": [
+				"Pummarola",
+				"Maria Renard"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Tyrfing"
+			],
+			"items": [
+				"Spinach",
+				"Reinhardt Schneider"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Alucart Sworb"
+			],
+			"items": [
+				"Alucard"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Confodere"
+			],
+			"items": [
+				"Shanoa"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Globus"
+			],
+			"items": [
+				"Empty Tome",
+				"Saint Germain"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Optical Shot"
+			],
+			"items": [
+				"Karoma's Mana",
+				"Albus"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Sonic Dash"
+			],
+			"items": [
+				"Wings",
+				"Nathan Graves"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Luminatio"
+			],
+			"items": [
+				"Crown",
+				"Lisa Tepes",
+				"Celia Fortner"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Umbra"
+			],
+			"items": [
+				"Attractorb",
+				"Shaft"
 			]
 		}
 	]

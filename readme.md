@@ -35,7 +35,7 @@ The original apworld was created by Entropy.
 * Surviving stages
 * Evolving weapons
 * Filling your weapon, accessory, or Arcana slots
-* Eliminating **Hunt** targets
+* Eliminating **Hunt** targets - see [this map](https://storage.googleapis.com/seedbot/Ode%20to%20Castlevania%20Map.png) for hunt locations in the Ode to Castlevania DLC
 * Surviving a stage with specific characters (**Charactersanity** only)
 
 ## Victory Condition

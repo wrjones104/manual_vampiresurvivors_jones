@@ -28,6 +28,12 @@
             "include_operation_guns_dlc"
         ]
     },
+    "Ode to Castlevania DLC": {
+        "hidden": true,
+        "yaml_option": [
+            "include_castlevania_dlc"
+        ]
+    },
     "Starting Weapon Slots": {
         "yaml_option": [
             "starting_weapon_slots"
@@ -36,6 +42,11 @@
     "Hunts": {
         "yaml_option": [
             "hunts"
+        ]
+    },
+    "Special Weapons": {
+        "yaml_option": [
+            "special_weapons"
         ]
     }
 }
