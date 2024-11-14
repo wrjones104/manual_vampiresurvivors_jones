@@ -1182,37 +1182,37 @@
 	{
 		"name": "Pick up a Rosary",
 		"category": ["Pickups"],
-		"requires": []
+		"requires": ["|Mad Forest| OR |Inlaid Libary| OR |Dairy Plant| OR |Gallo Tower| OR |Capella Magna| OR |Il Molise| OR |Moongolow| OR |Green Acres| OR |Boss Rash| OR |Whiteout| OR |Space 54| OR |Bat Country| OR |Astral Stair| OR |Tiny Bridge| OR |Mt. Moonspell| OR |Lake Foscari| OR |Abyss Foscari| OR |Polus Replica| OR |Laborratory| OR |Neo Galuga| OR |Ode to Castlevania| OR |X - Hail from the Future|"]
 	},
 	{
 		"name": "Pick up a Nduja Fritta Tanto",
 		"category": ["Pickups"],
-		"requires": []
+		"requires": ["|Mad Forest| OR |Inlaid Libary| OR |Dairy Plant| OR |Gallo Tower| OR |Capella Magna| OR |Il Molise| OR |Moongolow| OR |Green Acres| OR |Boss Rash| OR |Whiteout| OR |Space 54| OR |Bat Country| OR |Astral Stair| OR |Tiny Bridge| OR |Mt. Moonspell| OR |Lake Foscari| OR |Abyss Foscari| OR |Polus Replica| OR |Laborratory| OR |Neo Galuga| OR |Ode to Castlevania| OR |X - Hail from the Future|"]
 	},
 	{
 		"name": "Pick up a Floor Chicken",
 		"category": ["Pickups"],
-		"requires": []
+		"requires": ["|Mad Forest| OR |Inlaid Libary| OR |Dairy Plant| OR |Gallo Tower| OR |Capella Magna| OR |Il Molise| OR |Moongolow| OR |Green Acres| OR |Boss Rash| OR |Whiteout| OR |Space 54| OR |Bat Country| OR |Astral Stair| OR |Tiny Bridge| OR |Mt. Moonspell| OR |Lake Foscari| OR |Abyss Foscari| OR |Polus Replica| OR |Laborratory| OR |Neo Galuga| OR |Ode to Castlevania|"]
 	},
 	{
 		"name": "Pick up an Orologion",
 		"category": ["Pickups"],
-		"requires": []
+		"requires": ["|Mad Forest| OR |Inlaid Libary| OR |Dairy Plant| OR |Gallo Tower| OR |Capella Magna| OR |Il Molise| OR |Moongolow| OR |Green Acres| OR |Boss Rash| OR |Whiteout| OR |Space 54| OR |Bat Country| OR |Astral Stair| OR |Tiny Bridge| OR |Mt. Moonspell| OR |Lake Foscari| OR |Abyss Foscari| OR |Polus Replica| OR |Laborratory| OR |Neo Galuga| OR |Ode to Castlevania| OR |X - Hail from the Future|"]
 	},
 	{
 		"name": "Pick up a Vacuum",
 		"category": ["Pickups"],
-		"requires": []
+		"requires": ["|Mad Forest| OR |Inlaid Libary| OR |Dairy Plant| OR |Gallo Tower| OR |Capella Magna| OR |Il Molise| OR |Moongolow| OR |Green Acres| OR |Boss Rash| OR |Whiteout| OR |Space 54| OR |Bat Country| OR |Astral Stair| OR |Tiny Bridge| OR |Mt. Moonspell| OR |Lake Foscari| OR |Abyss Foscari| OR |Polus Replica| OR |Laborratory| OR |Neo Galuga| OR |Ode to Castlevania| OR |X - Hail from the Future|"]
 	},
 	{
 		"name": "Pick up a Little Clover",
 		"category": ["Pickups"],
-		"requires": []
+		"requires": ["|Mad Forest| OR |Inlaid Libary| OR |Dairy Plant| OR |Gallo Tower| OR |Capella Magna| OR |Il Molise| OR |Moongolow| OR |Green Acres| OR |Boss Rash| OR |Whiteout| OR |Space 54| OR |Bat Country| OR |Astral Stair| OR |Tiny Bridge| OR |Mt. Moonspell| OR |Lake Foscari| OR |Abyss Foscari| OR |Polus Replica| OR |Laborratory| OR |Neo Galuga| OR |Ode to Castlevania|"]
 	},
 	{
 		"name": "Pick up a Gilded Clover",
 		"category": ["Pickups"],
-		"requires": []
+		"requires": ["|Mad Forest| OR |Inlaid Libary| OR |Dairy Plant| OR |Gallo Tower| OR |Capella Magna| OR |Il Molise| OR |Moongolow| OR |Green Acres| OR |Boss Rash| OR |Whiteout| OR |Space 54| OR |Bat Country| OR |Astral Stair| OR |Tiny Bridge| OR |Mt. Moonspell| OR |Lake Foscari| OR |Abyss Foscari| OR |Polus Replica| OR |Laborratory| OR |Neo Galuga| OR |Ode to Castlevania| OR |X - Hail from the Future|"]
 	},
 	{
 		"name": "Pick up a Gold Finger",
