@@ -1260,6 +1260,11 @@
 		"requires": "|@Ode to Castlevania: 1|"
 	},
 	{
+		"name": "Pick up a Wall Chicken",
+		"category": ["Pickups", "Ode to Castlevania DLC"],
+		"requires": "|@Ode to Castlevania: 1|"
+	},
+	{
 		"name": "Survive Mad Forest",
 		"category": ["Stages"],
 		"requires": "|Mad Forest|"
