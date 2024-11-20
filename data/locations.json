@@ -1345,6 +1345,11 @@
 		"requires": "|Carlo Cart|"
 	},
 	{
+		"name": "Survive Laborratory",
+		"category": ["Stages"],
+		"requires": "|Laborratory|"
+	},
+	{
 		"name": "Survive Mt. Moonspell",
 		"category": ["Stages", "Legacy of the Moonspell DLC"],
 		"requires": "|Mt. Moonspell|"
