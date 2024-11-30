@@ -1242,27 +1242,27 @@
 	{
 		"name": "Pick up a Heart Refresh",
 		"category": ["Pickups", "Ode to Castlevania DLC"],
-		"requires": "|@Ode to Castlevania: 1|"
+		"requires": "|@Ode to Castlevania DLC: 1|"
 	},
 	{
 		"name": "Pick up a Mirror of Truth",
 		"category": ["Pickups", "Ode to Castlevania DLC"],
-		"requires": "|@Ode to Castlevania: 1|"
+		"requires": "|@Ode to Castlevania DLC: 1|"
 	},
 	{
 		"name": "Pick up a Karma Coin",
 		"category": ["Pickups", "Ode to Castlevania DLC"],
-		"requires": "|@Ode to Castlevania: 1|"
+		"requires": "|@Ode to Castlevania DLC: 1|"
 	},
 	{
 		"name": "Pick up a Neutron Bomb",
 		"category": ["Pickups", "Ode to Castlevania DLC"],
-		"requires": "|@Ode to Castlevania: 1|"
+		"requires": "|@Ode to Castlevania DLC: 1|"
 	},
 	{
 		"name": "Pick up a Wall Chicken",
 		"category": ["Pickups", "Ode to Castlevania DLC"],
-		"requires": "|@Ode to Castlevania: 1|"
+		"requires": "|@Ode to Castlevania DLC: 1|"
 	},
 	{
 		"name": "Survive Mad Forest",
