@@ -334,6 +334,14 @@
 		},
 		{
 			"if_previous_item": [
+				"Bracelet"
+			],
+			"items": [
+				"Gyorunton"
+			]
+		},
+		{
+			"if_previous_item": [
 				"Vento Sacro"
 			],
 			"items": [
