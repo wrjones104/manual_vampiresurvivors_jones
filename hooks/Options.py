@@ -73,6 +73,11 @@ class IncludeCastlevaniaDLC(Toggle):
     display_name = "Include Ode to Castlevania DLC"
     default = True
 
+class IncludeEmeraldDioramaDLC(Toggle):
+    """Whether or not the Emerald Diorama DLC is included."""
+    display_name = "Include Emerald Diorama DLC"
+    default = True
+
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict) -> dict:
@@ -85,6 +90,7 @@ def before_options_defined(options: dict) -> dict:
     options["include_emergency_meeting_dlc"] = IncludeEmergencyMeetingDLC
     options["include_operation_guns_dlc"] = IncludeOperationGunsDLC
     options["include_castlevania_dlc"] = IncludeCastlevaniaDLC
+    options["include_emerald_diorama_dlc"] = IncludeEmeraldDioramaDLC
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options

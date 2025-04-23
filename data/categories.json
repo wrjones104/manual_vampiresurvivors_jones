@@ -34,6 +34,12 @@
             "include_castlevania_dlc"
         ]
     },
+    "Emerald Diorama DLC": {
+        "hidden": true,
+        "yaml_option": [
+            "include_emerald_diorama_dlc"
+        ]
+    },
     "Starting Weapon Slots": {
         "yaml_option": [
             "starting_weapon_slots"

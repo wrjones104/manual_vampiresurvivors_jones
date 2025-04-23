@@ -455,6 +455,121 @@
 		"category": ["Evolutions", "Ode to Castlevania DLC"]
 	},
 	{
+		"name": "Evolution: Embrace of Gaea",
+		"requires": "|Gaze of Gaea| AND |Parm Aegis|",
+		"category": ["Evolutions"]
+	},
+	{
+		"name": "Evolution: Dress Sword",
+		"requires": "|Fleuret|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
+		"name": "Evolution: Espada Ropera",
+		"requires": "|Dress Sword|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
+		"name": "Evolution: Pursuant Blades",
+		"requires": "|Splashers| AND |Spellbinder|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
+		"name": "Evolution: Hydra Cannon",
+		"requires": "|Super Missile|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
+		"name": "Evolution: Hyperion Bazooka",
+		"requires": "|Super Missile|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
+		"name": "Evolution: Gekkabijin",
+		"requires": "|Twin Dragon| AND |Karoma's Mana|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
+		"name": "Evolution: Pressure Point",
+		"requires": "|Punch|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
+		"name": "Evolution: Gilded Hand",
+		"requires": "|Punch|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
+		"name": "Evolution: Triangle Kick",
+		"requires": "|Kick| AND |Pummarola|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
+		"name": "Evolution: Rings of Calamity",
+		"requires": "|Spirit Rings|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
+		"name": "Evolution: Hecaton Machine Gun",
+		"requires": "|Saber Machine Gun|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
+		"name": "Evolution: Divergence",
+		"requires": "|Saber Machine Gun|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
+		"name": "Evolution: Pendragon",
+		"requires": "|Eagle Gun|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
+		"name": "Evolution: Lordstar",
+		"requires": "|Town Sword|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
+		"name": "Evolution: Blood Chalice",
+		"requires": "|Sanguine Star| AND |Stone Mask|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
+		"name": "Evolution: Jetstream",
+		"requires": "|Khukuri| AND |Parm Aegis|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
+		"name": "Evolution: Falconwind",
+		"requires": "|Bullova| AND |Skull O'Maniac|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
+		"name": "Evolution: Feather Spear",
+		"requires": "|Glaive|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
+		"name": "Evolution: Lohengrin",
+		"requires": "|Glaive|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
+		"name": "Evolution: Zweihander",
+		"requires": "|Flamberge|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
+		"name": "Evolution: Galatyn",
+		"requires": "|Flamberge|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
+		"name": "Evolution: Emerald Wave",
+		"requires": "|Emerald Rapture| AND |Crown|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
 		"name": "Gift: Sole Solution",
 		"requires": "|Victory Sword| AND |Torrona's Box|",
 		"category": ["Evolutions"]
@@ -1180,6 +1295,56 @@
 		"requires": "|Ode to Castlevania|"
 	},
 	{
+		"name": "The Coop Chest 1",
+		"category": ["Chests"],
+		"requires": "|The Coop|"
+	},
+	{
+		"name": "The Coop Chest 2",
+		"category": ["Chests"],
+		"requires": "|The Coop|"
+	},
+	{
+		"name": "The Coop Chest 3",
+		"category": ["Chests"],
+		"requires": "|The Coop|"
+	},
+	{
+		"name": "The Coop Chest 4",
+		"category": ["Chests"],
+		"requires": "|The Coop|"
+	},
+	{
+		"name": "The Coop Chest 5",
+		"category": ["Chests"],
+		"requires": "|The Coop|"
+	},
+	{
+		"name": "Emerald Diorama Chest 1",
+		"category": ["Chests", "Emerald Diorama DLC"],
+		"requires": "|Emerald Diorama|"
+	},
+	{
+		"name": "Emerald Diorama Chest 2",
+		"category": ["Chests", "Emerald Diorama DLC"],
+		"requires": "|Emerald Diorama|"
+	},
+	{
+		"name": "Emerald Diorama Chest 3",
+		"category": ["Chests", "Emerald Diorama DLC"],
+		"requires": "|Emerald Diorama|"
+	},
+	{
+		"name": "Emerald Diorama Chest 4",
+		"category": ["Chests", "Emerald Diorama DLC"],
+		"requires": "|Emerald Diorama|"
+	},
+	{
+		"name": "Emerald Diorama Chest 5",
+		"category": ["Chests", "Emerald Diorama DLC"],
+		"requires": "|Emerald Diorama|"
+	},
+	{
 		"name": "Pick up a Rosary",
 		"category": ["Pickups"],
 		"requires": "|Mad Forest| OR |Inlaid Library| OR |Dairy Plant| OR |Gallo Tower| OR |Capella Magna| OR |Il Molise| OR |Moongolow| OR |Green Acres| OR |Boss Rash| OR |Whiteout| OR |Space 54| OR |Bat Country| OR |Astral Stair| OR |Tiny Bridge| OR |Mt. Moonspell| OR |Lake Foscari| OR |Abyss Foscari| OR |Polus Replica| OR |Laborratory| OR |Neo Galuga| OR |Ode to Castlevania| OR |X - Hail from the Future|"
@@ -1263,6 +1428,11 @@
 		"name": "Pick up a Wall Chicken",
 		"category": ["Pickups", "Ode to Castlevania DLC"],
 		"requires": "|@Ode to Castlevania DLC: 1|"
+	},
+	{
+		"name": "Pick up a Sorbetto",
+		"category": ["Pickups"],
+		"requires": "|XII - Out of Bounds| OR |Whiteout|"
 	},
 	{
 		"name": "Survive Mad Forest",
@@ -1383,6 +1553,16 @@
 		"name": "Survive Ode to Castlevania",
 		"category": ["Stages", "Ode to Castlevania DLC"],
 		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Survive The Coop",
+		"category": ["Stages"],
+		"requires": "|The Coop|"
+	},
+	{
+		"name": "Survive Emerald Diorama",
+		"category": ["Stages", "Emerald Diorama DLC"],
+		"requires": "|Emerald Diorama|"
 	},
 	{
 		"name": "Survive a stage in Inverse Mode",
@@ -2215,6 +2395,91 @@
 		"requires": "|Chaos|"
 	},
 	{
+		"name": "Survive with Gazebo",
+		"category": ["Characters"],
+		"requires": "|Gazebo|"
+	},
+	{
+		"name": "Survive with Tsunanori Mido",
+		"category": ["Characters", "Emerald Diorama DLC"],
+		"requires": "|Tsunanori Mido|"
+	},
+	{
+		"name": "Survive with Bonnie Blair",
+		"category": ["Characters", "Emerald Diorama DLC"],
+		"requires": "|Bonnie Blair|"
+	},
+	{
+		"name": "Survive with Formina Franklyn",
+		"category": ["Characters", "Emerald Diorama DLC"],
+		"requires": "|Formina Franklyn|"
+	},
+	{
+		"name": "Survive with Diva No. 5",
+		"category": ["Characters", "Emerald Diorama DLC"],
+		"requires": "|Diva No. 5|"
+	},
+	{
+		"name": "Survive with Ameya Aisling",
+		"category": ["Characters", "Emerald Diorama DLC"],
+		"requires": "|Ameya Aisling|"
+	},
+	{
+		"name": "Survive with Signas",
+		"category": ["Characters", "Emerald Diorama DLC"],
+		"requires": "|Siugnas|"
+	},
+	{
+		"name": "Survive with Final Emperor",
+		"category": ["Characters", "Emerald Diorama DLC"],
+		"requires": "|Final Emperor|"
+	},
+	{
+		"name": "Survive with Dolores",
+		"category": ["Characters", "Emerald Diorama DLC"],
+		"requires": "|Dolores|"
+	},
+	{
+		"name": "Survive with Macha Alter Ego",
+		"category": ["Characters", "Emerald Diorama DLC"],
+		"requires": "|Macha Alter Ego|"
+	},
+	{
+		"name": "Survive with Lita Caryx",
+		"category": ["Characters", "Emerald Diorama DLC"],
+		"requires": "|Lita Caryx|"
+	},
+	{
+		"name": "Survive with Kugutsu",
+		"category": ["Characters", "Emerald Diorama DLC"],
+		"requires": "|Kugutsu|"
+	},
+	{
+		"name": "Survive with Mr. S",
+		"category": ["Characters", "Emerald Diorama DLC"],
+		"requires": "|Mr. S|"
+	},
+	{
+		"name": "Survive with Lolo, Hiss, Meow, and Purr",
+		"category": ["Characters", "Emerald Diorama DLC"],
+		"requires": "|Lolo, Hiss, Meow, and Purr|"
+	},
+	{
+		"name": "Survive with Kina",
+		"category": ["Characters", "Emerald Diorama DLC"],
+		"requires": "|Kina|"
+	},
+	{
+		"name": "Survive with Imakoo",
+		"category": ["Characters", "Emerald Diorama DLC"],
+		"requires": "|Imakoo|"
+	},
+	{
+		"name": "Survive with Malevolent Door Spirit",
+		"category": ["Characters", "Emerald Diorama DLC"],
+		"requires": "|Malevolent Door Spirit|"
+	},
+	{
 		"name": "Hunt: Sketemari",
 		"category": ["Hunts"],
 		"requires": "|The Bone Zone|"
@@ -2255,6 +2520,11 @@
 		"requires": "|Gallo Tower|"
 	},
 	{
+		"name": "Hunt: Giant Enemy Crab",
+		"category": ["Hunts"],
+		"requires": "|Gallo Tower|"
+	},
+	{
 		"name": "Hunt: Scorej-Oni",
 		"category": ["Hunts"],
 		"requires": "|Tiny Bridge|"
@@ -2273,6 +2543,26 @@
 		"name": "Hunt: Cosmic Egg",
 		"category": ["Hunts"],
 		"requires": "|Astral Stair|"
+	},
+	{
+		"name": "Hunt: Big Bot Gordea",
+		"category": ["Hunts", "Operation Guns DLC"],
+		"requires": "|Neo Galuga|"
+	},
+	{
+		"name": "Hunt: Taka",
+		"category": ["Hunts", "Operation Guns DLC"],
+		"requires": "|Neo Galuga|"
+	},
+	{
+		"name": "Hunt: Big Fuzz",
+		"category": ["Hunts", "Operation Guns DLC"],
+		"requires": "|Neo Galuga|"
+	},
+		{
+		"name": "Hunt: Suspicious Eyes",
+		"category": ["Hunts", "Emergency Meeting DLC"],
+		"requires": "|Polus Replica|"
 	},
 	{
 		"name": "Hunt: Man Eater",
@@ -2428,6 +2718,36 @@
 		"name": "Hunt: Malphas",
 		"category": ["Hunts", "Ode to Castlevania DLC"],
 		"requires": "|Ode to Castlevania|"
+	},
+	{
+		"name": "Hunt: Specter of Iwanaga-hime",
+		"category": ["Hunts", "Emerald Diorama DLC"],
+		"requires": "|Emerald Diorama|"
+	},
+	{
+		"name": "Hunt: Iron Maiden",
+		"category": ["Hunts", "Emerald Diorama DLC"],
+		"requires": "|Emerald Diorama|"
+	},
+	{
+		"name": "Hunt: Malevolent Door Spirit",
+		"category": ["Hunts", "Emerald Diorama DLC"],
+		"requires": "|Emerald Diorama|"
+	},
+	{
+		"name": "Hunt: Living Anguish",
+		"category": ["Hunts", "Emerald Diorama DLC"],
+		"requires": "|Emerald Diorama|"
+	},
+	{
+		"name": "Hunt: Divine Wood Spirit",
+		"category": ["Hunts", "Emerald Diorama DLC"],
+		"requires": "|Emerald Diorama|"
+	},
+	{
+		"name": "Hunt: Earth Dragon",
+		"category": ["Hunts", "Emerald Diorama DLC"],
+		"requires": "|Emerald Diorama|"
 	},
 	{
 		"name": "Kill The Reaper",

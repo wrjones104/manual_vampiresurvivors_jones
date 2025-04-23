@@ -26,9 +26,11 @@
 				"Polus Replica",
 				"Laborratory",
 				"Carlo Cart",
+				"The Coop",
 				"Neo Galuga",
 				"Hectic Highway",
-				"Ode to Castlevania"
+				"Ode to Castlevania",
+				"Emerald Diorama"
 			],
 			"random": 1
 		},
@@ -137,7 +139,23 @@
 				"Luminatio",
 				"Umbra",
 				"Globus",
-				"Sonic Dash"
+				"Sonic Dash",
+				"Gaze of Gaea",
+				"Fleuret",
+				"Town Sword",
+				"Splashers",
+				"Flamberge",
+				"Punch",
+				"Kick",
+				"Saber Machine Gun",
+				"Super Missile",
+				"Eagle Gun",
+				"Khukuri",
+				"Twin Dragon",
+				"Bullova",
+				"Sanguine Star",
+				"Glaive",
+				"Spirit Rings"
 			],
 			"random": 1
 		},
@@ -1073,6 +1091,138 @@
 			"items": [
 				"Attractorb",
 				"Shaft"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Fleuret"
+			],
+			"items": [
+				"Tsunanori Mido"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Splashers"
+			],
+			"items": [
+				"Tsunanori Mido"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Punch"
+			],
+			"items": [
+				"Bonnie Blair",
+				"Kugutsu"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Kick"
+			],
+			"items": [
+				"Bonnie Blair"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Saber Machine Gun"
+			],
+			"items": [
+				"Formina Franklyn"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Eagle Gun"
+			],
+			"items": [
+				"Formina Franklyn",
+				"Kugutsu"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Super Missile"
+			],
+			"items": [
+				"Diva No. 5"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Twin Dragon"
+			],
+			"items": [
+				"Diva No. 5",
+				"Kugutsu"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Spirit Rings"
+			],
+			"items": [
+				"Ameya Aisling"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Town Sword"
+			],
+			"items": [
+				"Siugnas"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Sanguine Star"
+			],
+			"items": [
+				"Siugnas"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Flamberge"
+			],
+			"items": [
+				"Final Emperor"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Bullova"
+			],
+			"items": [
+				"Dolores"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Khukuri"
+			],
+			"items": [
+				"Macha Alter Ego",
+				"Kugutsu"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Glaive"
+			],
+			"items": [
+				"Lita Caryx"
+			]
+		},
+		{
+			"if_previous_item": [
+				"Gaze of Gaea"
+			],
+			"items": [
+				"Gazebo"
 			]
 		}
 	]

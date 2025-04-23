@@ -144,6 +144,18 @@
 		"progression": true
 	},
 	{
+		"name": "Emerald Diorama",
+		"category": ["Stages", "Emerald Diorama DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "The Coop",
+		"category": ["Stages"],
+		"count":1,
+		"progression": true
+	},
+	{
 		"name": "Whip",
 		"category": ["Weapons"],
 		"count":1,
@@ -540,6 +552,12 @@
 		"useful": true
 	},
 	{
+		"name": "Gaze of Gaea",
+		"category": ["Weapons"],
+		"count":1,
+		"progression": true
+	},
+	{
 		"name": "108 Bocce",
 		"category": ["Weapons", "Legacy of the Moonspell DLC"],
 		"count":1,
@@ -930,6 +948,108 @@
 		"progression": true
 	},
 	{
+		"name": "Fleuret",
+		"category": ["Weapons", "Emerald Diorama DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Dress Sword",
+		"category": ["Weapons", "Emerald Diorama DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Town Sword",
+		"category": ["Weapons", "Emerald Diorama DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Splashers",
+		"category": ["Weapons", "Emerald Diorama DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Flamberge",
+		"category": ["Weapons", "Emerald Diorama DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Punch",
+		"category": ["Weapons", "Emerald Diorama DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Kick",
+		"category": ["Weapons", "Emerald Diorama DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Saber Machine Gun",
+		"category": ["Weapons", "Emerald Diorama DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Super Missile",
+		"category": ["Weapons", "Emerald Diorama DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Eagle Gun",
+		"category": ["Weapons", "Emerald Diorama DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Khukuri",
+		"category": ["Weapons", "Emerald Diorama DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Twin Dragon",
+		"category": ["Weapons", "Emerald Diorama DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Bullova",
+		"category": ["Weapons", "Emerald Diorama DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Sanguine Star",
+		"category": ["Weapons", "Emerald Diorama DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Glaive",
+		"category": ["Weapons", "Emerald Diorama DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Spirit Rings",
+		"category": ["Weapons", "Emerald Diorama DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
+		"name": "Emerald Rapture",
+		"category": ["Weapons", "Emerald Diorama DLC"],
+		"count":1,
+		"progression": true
+	},
+	{
 		"name": "Hollow Heart",
 		"category": ["Accessories"],
 		"count":1,
@@ -1063,13 +1183,13 @@
 	},
 	{
 		"name": "Parm Aegis",
-		"category": ["Accessories", "Ode to Castlevania DLC"],
+		"category": ["Accessories"],
 		"count":1,
 		"progression": true
 	},
 	{
 		"name": "Karoma's Mana",
-		"category": ["Accessories", "Ode to Castlevania DLC"],
+		"category": ["Accessories"],
 		"count":1,
 		"progression": true
 	},
@@ -1149,7 +1269,7 @@
 		"name": "XII - Out of Bounds",
 		"category": ["Arcana"],
 		"count":1,
-		"useful": true
+		"progression": true
 	},
 	{
 		"name": "XIII - Wicked Season",
@@ -1207,6 +1327,12 @@
 	},
 	{
 		"name": "I - Sapphire Mist",
+		"category": ["Darkana"],
+		"count":1,
+		"useful": true
+	},
+	{
+		"name": "III - Hidden Anathema",
 		"category": ["Darkana"],
 		"count":1,
 		"useful": true
@@ -2360,6 +2486,108 @@
 	{
 		"name": "Chaos",
 		"category": ["Characters","Ode to Castlevania DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Gazebo",
+		"category": ["Characters"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Tsunanori Mido",
+		"category": ["Characters","Emerald Diorama DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Bonnie Blair",
+		"category": ["Characters","Emerald Diorama DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Formina Franklyn",
+		"category": ["Characters","Emerald Diorama DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Diva No. 5",
+		"category": ["Characters","Emerald Diorama DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Ameya Aisling",
+		"category": ["Characters","Emerald Diorama DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Siugnas",
+		"category": ["Characters","Emerald Diorama DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Final Emperor",
+		"category": ["Characters","Emerald Diorama DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Dolores",
+		"category": ["Characters","Emerald Diorama DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Macha Alter Ego",
+		"category": ["Characters","Emerald Diorama DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Lita Caryx",
+		"category": ["Characters","Emerald Diorama DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Kugutsu",
+		"category": ["Characters","Emerald Diorama DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Mr. S",
+		"category": ["Characters","Emerald Diorama DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Lolo, Hiss, Meow, and Purr",
+		"category": ["Characters","Emerald Diorama DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Kina",
+		"category": ["Characters","Emerald Diorama DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Imakoo",
+		"category": ["Characters","Emerald Diorama DLC"],
+		"count": 1,
+		"progression": true
+	},
+	{
+		"name": "Malevolent Door Spirit",
+		"category": ["Characters","Emerald Diorama DLC"],
 		"count": 1,
 		"progression": true
 	},
