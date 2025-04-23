@@ -30,7 +30,6 @@ The original apworld was created by Entropy.
 ## Check Locations
 
 * Regular chests
-* Arcana chests
 * Stage pickups
 * Surviving stages
 * Evolving weapons
