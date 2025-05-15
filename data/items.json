@@ -954,12 +954,6 @@
 		"progression": true
 	},
 	{
-		"name": "Dress Sword",
-		"category": ["Weapons", "Emerald Diorama DLC"],
-		"count":1,
-		"progression": true
-	},
-	{
 		"name": "Town Sword",
 		"category": ["Weapons", "Emerald Diorama DLC"],
 		"count":1,

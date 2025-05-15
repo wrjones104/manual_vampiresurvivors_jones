@@ -530,6 +530,11 @@
 		"category": ["Evolutions", "Emerald Diorama DLC"]
 	},
 	{
+		"name": "Evolution: Dayblade",
+		"requires": "|Town Sword|",
+		"category": ["Evolutions", "Emerald Diorama DLC"]
+	},
+	{
 		"name": "Evolution: Blood Chalice",
 		"requires": "|Sanguine Star| AND |Stone Mask|",
 		"category": ["Evolutions", "Emerald Diorama DLC"]
